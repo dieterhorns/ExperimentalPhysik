@@ -5,6 +5,27 @@
     <link>http://example.org/</link>
     <description>Recent content on Experimentalphysik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language>
+    <lastBuildDate>Sat, 08 May 2021 18:24:04 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhysikE1</title>
+      <link>http://example.org/physike1/</link>
+      <pubDate>Sat, 08 May 2021 19:51:57 +0200</pubDate>
+      
+      <guid>http://example.org/physike1/</guid>
+      <description>Hier haben wir es mit Mechanik, Kontinua, Wärmelehre zu tun.</description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>http://example.org/schwingungen/intro/</link>
+      <pubDate>Sat, 08 May 2021 18:24:04 +0200</pubDate>
+      
+      <guid>http://example.org/schwingungen/intro/</guid>
+      <description>Schwingungen Kurzfassung Mechanische schwingungen sind periodische Bewegungen. Harmonische Schwingungen basieren auf linearem Kraftgesetz (Beispiel: Hooke&amp;rsquo;sches Gesetz). Reibung sorgt für Dämpfung der Schwingung. Gekoppelte Oszillatoren. Bei angeregter Schwingung kommt es zu frequenzabhängiger Antwortfunktion (Resonanz) des mechanischen Systems. Mechanische Schwingungen sind Spezialfälle eines grundlegenden Phänomens in der Physik.
+Lernziel Sicheres Erkennen und Analysieren von Schwingungsbewegungen, experimentell und anhand der zugrundelegenden Differenzialgleichung. Energetische Betrachtung des Phänomens Resonanz/Resonanzkatastrophe. Anwendungen: seismische Isolation durch Pendel,&amp;hellip;
+Harmonische Schwingungen Ein lineares Kraftgesetz \begin{equation} m\ddot x = -Dx \end{equation} mit D z.</description>
+    </item>
+    
   </channel>
 </rss>
