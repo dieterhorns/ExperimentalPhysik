@@ -38,5 +38,22 @@ $$ \ddot{x} + 2\gamma \dot{x} + \omega_0^2 x = 0.$$
 Die Kreisfrequenz $\omega_0 = (D/m)^{1/2}$  ist uns schon vorher bei z.B. dem 
 ungedämpften Federpendel begegnet. Der Dämpfungsterm $\gamma:= \frac{k}{2m}$
 hat ebenfalls die Einheit einer Frequenz ($1/s$).
+### Lösungen für gedämpfte Schwingungen.
+Wir wählen $x(t) = A \exp(\lambda t)$ als Ansatz für die Lösung und erhalten
+mit $\dot{x} = \lambda x$ und $\ddot{x} = \lambda^2 x$ 
+$$ \lambda^2 + 2\gamma \lambda +\omega_0^2 = 0.$$
+Damit erhalten wir zwei Lösungen für $\lambda$:
+$$ \lambda_{1,2} = \gamma\pm \sqrt{\gamma^2-\omega_0^2}.$$
+Je nach Stärke der Dämpfung $\gamma$ ergeben sich drei unterschiedliche Lösungsarten:
+   * Schwach gedämpft  (**Schwingfall**): $\gamma^2 < \omega_0^2$, so dass $\lambda = \gamma \pm i \sqrt{\omega_0^2-\gamma^2}$. 
+     Damit wird mit $\omega = \sqrt{\omega_0^2-\gamma^2}$ (die Frequenz $\omega$ wird mit zunehmender Dämpfung immer kleiner): 
+     $$ x(t) = \hat x \exp(-\gamma t)~\sin(\omega t + \varphi)$$
+   * Kritisch gedämpft (**aperiodischer Grenzfall**): $\gamma^2 = \omega_0^2$, die Frequenz $\omega \rightarrow 0$,  
+ 	$$ x(t) = \hat x \exp(-\gamma t). $$
+   * Starke Dämpfung (**Kriechfall**): $\gamma^2 > \omega_0^2$
+        $$ x(t) = \exp(-\gamma t) \left(\hat x_1 \exp\left(+\sqrt{\gamma^2-\omega_0^2} t\right) + \hat x_2 \exp\left(-\sqrt{\gamma^2-\omega_0^2} t\right) \right).$$
+### Beispiele
 
+### Aufgaben
 
+### Zum Nachdenken
