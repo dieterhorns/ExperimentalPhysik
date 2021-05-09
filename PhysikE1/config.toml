@@ -1,7 +1,7 @@
 baseURL = "http://exp-physik.netlify.app/"
 languageCode = "de-de"
 title = "Experimentalphysik"
-theme = "ananke_mod"
+theme = "ananke"
 resourceDir = "./resources"
 contentDir = "./content"
 SectionPagesMenu = "main"
