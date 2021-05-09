@@ -2,5 +2,5 @@
 	path = themes/book
 	url = https://github.com/alex-shpak/hugo-book
 [submodule "themes/ananke"]
-	path = themes/ananke
+	path = PhysikE1/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
