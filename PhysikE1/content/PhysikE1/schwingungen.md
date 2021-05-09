@@ -51,7 +51,9 @@ Je nach Stärke der Dämpfung $\gamma$ ergeben sich drei unterschiedliche Lösun
    * Kritisch gedämpft (**aperiodischer Grenzfall**): $\gamma^2 = \omega_0^2$, die Frequenz $\omega \rightarrow 0$,  
  	$$ x(t) = \hat x \exp(-\gamma t). $$
    * Starke Dämpfung (**Kriechfall**): $\gamma^2 > \omega_0^2$
-        $$ x(t) = \exp(-\gamma t) \left(\hat x_1 \exp\left(+\sqrt{\gamma^2-\omega_0^2} t\right) + \hat x_2 \exp\left(-\sqrt{\gamma^2-\omega_0^2} t\right) \right).$$
+        $$ x(t) = \exp(-\gamma t) \left(
+              A_1 \exp\left(+\sqrt{\gamma^2-\omega_0^2} t\right) + 
+              A_2 \exp\left(-\sqrt{\gamma^2-\omega_0^2} t\right) \right).$$
 ### Beispiele
 
 ### Aufgaben
