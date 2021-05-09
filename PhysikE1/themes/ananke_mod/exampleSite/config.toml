@@ -1,27 +1,39 @@
-baseURL = "http://exp-physik.netlify.app/"
-languageCode = "de-de"
-title = "Experimentalphysik"
-theme = "ananke_mod"
-resourceDir = "./resources"
-contentDir = "./content"
+title = "Notre-Dame de Paris"
+baseURL = "https://example.com"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
+themesDir = "../.."
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "My blog"
+    weight = 1
+    contentDir = "content/en"
+  [languages.fr]
+    title = "Mon blogue"
+    weight = 2
+    contentDir = "content/fr"
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
 
-
 [params]
   favicon = ""
   site_logo = ""
-  description = "Experimentalphysik "
+  description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/DH0rns"
+  twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
-  youtube = "https://www.youtube.com/channel/UCBHB_aViFyYxlVgUEbgNQ9A"
+  youtube = ""
   github = ""
   gitlab = ""
   linkedin = ""
