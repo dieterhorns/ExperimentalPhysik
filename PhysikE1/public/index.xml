@@ -6,7 +6,16 @@
     <description>Recent content on Experimentalphysik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 09 May 2021 19:37:00 +0000</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 May 2021 17:31:26 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Physikalisches Pendel</title>
+      <link>http://exp-physik.netlify.app/physike1/physpendel/</link>
+      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/physike1/physpendel/</guid>
+      <description>Allgmeine Schwerependel sind beliebig geformte starre Körper, die um eine fixierte Achse aufgrund des wirkenden Drehmoments periodische Schwingungen ausführen. Wir betrachten zunächst die Drehmomentsgleichung für einen Körper der Masse $m$, der am Punkt $A$ aufgehängt ist. Die Verbindungslinie vom Punkt $A$ zum Schwerpunkt $S$ ist $s=\bar{AS}$. Dann ergibt sich bei einer Auslenkung des Pendels um einen Winkel $\theta$ ein rückstellendes Drehmoment $M=-mgs~\sin\theta$: $$ I_A \ddot\theta = -mgs \sin\theta.$$ Das Trägheitsmoment $I_A$ ist das Trägheitsmoment für die Rotationsachse im Punkt $A$.</description>
+    </item>
+    
     <item>
       <title>Resonanzen</title>
       <link>http://exp-physik.netlify.app/physike1/resonanzen/</link>
@@ -52,7 +61,7 @@ Beispiel Fadenpendel (wird auch mathematisches Pendel genannt).</description>
       <pubDate>Fri, 08 May 2020 20:10:57 +0200</pubDate>
       
       <guid>http://exp-physik.netlify.app/physike1/gekoppelteoszillatoren/</guid>
-      <description>Wenn wir zwei horizontale Federpendel mit jeweils gleicher Masse $m$ und Federkonstante $D$ durch eine dritte Feder mit Federkonstante $D_0$ verbinden, erhalten wir ein gekoppeltes System von Pendeln. Die Auslenkungen $x_1$ und $x_2$ um die jeweilige Ruhelage der Federpendel ergeben sich mit den Bewegungsgleichungen $$ \ddot x_1 + \frac{D}{m}x_1 + \frac{D_0}{m} (x_1-x_2)=0,$$ $$ \ddot x_2 + \frac{D}{m}x_2 + \frac{D_0}{m} (x_2-x_1)=0$$ ein System von zwei gekoppelten Differenzialgleichungen. Die Lösung dieses Systems ergibt sich aus der Linearkombination der beiden Normalschwingungen:</description>
+      <description>Wenn wir zwei horizontale Federpendel mit jeweils gleicher Masse $m$ und Federkonstante $D$ durch eine dritte Feder mit Federkonstante $D_0$ verbinden, erhalten wir ein gekoppeltes System von Pendeln. Die Auslenkungen $x_1$ und $x_2$ um die jeweilige Ruhelage der Federpendel ergeben mit den Bewegungsgleichungen $$ \ddot x_1 + \frac{D}{m}x_1 + \frac{D_0}{m} (x_1-x_2)=0,$$ $$ \ddot x_2 + \frac{D}{m}x_2 + \frac{D_0}{m} (x_2-x_1)=0$$ ein System von zwei gekoppelten Differenzialgleichungen. Die Lösungen dieses Systems lässt sich als Linearkombination der beiden Normalschwingungen oder Moden darstellen:</description>
     </item>
     
   </channel>
