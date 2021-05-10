@@ -25,7 +25,7 @@ $\sin \vartheta \approx \vartheta$ ($\vartheta$ im Bogenmaß) annehmen dürfen.
 Die Auslenkung in der Horizontalen ist $x=\ell \sin\vartheta$ und
 die rücktreibende Kraft in der Horizontalen $m\ddot x = -mg\sin\vartheta$, so dass
 $$ m \ddot x = -\frac{mg}{\ell} x,$$
-und damit ist das Problem äquivalent zu dem Federpendel für $D=mg/\ell$. Wir 
+und damit ist das Problem äquivalent zu dem Federpendel für $D=g/\ell$. Wir 
 erkennen in beiden Fällen ein _lineares Kraftegesetz_. Die Kreisfrequenz 
 $$\omega = \sqrt{\frac{g}{\ell}}.$$
 ## Gedämpfte Schwingungen

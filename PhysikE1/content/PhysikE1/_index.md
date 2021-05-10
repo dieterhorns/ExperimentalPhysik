@@ -5,4 +5,3 @@ featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "Mechanik einschließlich Kontinua, Wärmelehre"
 ---
 Hier haben wir es mit Mechanik, Kontinua, Wärmelehre zu tun.
-

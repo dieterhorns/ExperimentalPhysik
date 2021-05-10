@@ -2,29 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experimentalphysik</title>
-    <link>http://example.org/</link>
+    <link>http://exp-physik.netlify.app/</link>
     <description>Recent content on Experimentalphysik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 08 May 2021 18:24:04 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 May 2021 19:37:00 +0000</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>PhysikE1</title>
-      <link>http://example.org/physike1/</link>
+      <title>Resonanzen</title>
+      <link>http://exp-physik.netlify.app/physike1/resonanzen/</link>
       <pubDate>Sat, 08 May 2021 19:51:57 +0200</pubDate>
       
-      <guid>http://example.org/physike1/</guid>
-      <description>Hier haben wir es mit Mechanik, Kontinua, Wärmelehre zu tun.</description>
+      <guid>http://exp-physik.netlify.app/physike1/resonanzen/</guid>
+      <description>Periodische Anregung Wir ergänzen eine periodisch anregende Kraft $F(t)=F(t+T)$, mit der Periode $T=2\pi/\omega$, so dass wir eine inhomogene Differenzialgleichung erhalten $$ \ddot{x} + 2\gamma \dot{x} + \omega_0^2 x = \frac{F(t)}{m}.$$ Wir nehmen einen schwach gedämpften Fall an ($\gamma&amp;lt;\omega_0$). Nach einem Einschwingvorgang wird das System mit der anregenden Kreisfrequenz $\omega$ oszillieren. Während des Einschwingens werden durch die Dämpfung Schwingungen mit der (freien) Frequenz $\sqrt{\omega_0^2-\gamma^2}$ über eine charakteristische Zeit $1/\gamma$ gedämpft, so dass nach einer Zeit $t \gamma \gg 1$ lediglich die anregende Frequenz beiträgt.</description>
     </item>
     
     <item>
-      <title>Intro</title>
-      <link>http://example.org/schwingungen/intro/</link>
-      <pubDate>Sat, 08 May 2021 18:24:04 +0200</pubDate>
+      <title>Schwingungen</title>
+      <link>http://exp-physik.netlify.app/physike1/schwingungen/</link>
+      <pubDate>Sat, 08 May 2021 19:51:57 +0200</pubDate>
       
-      <guid>http://example.org/schwingungen/intro/</guid>
-      <description>Schwingungen Kurzfassung Mechanische schwingungen sind periodische Bewegungen. Harmonische Schwingungen basieren auf linearem Kraftgesetz (Beispiel: Hooke&amp;rsquo;sches Gesetz). Reibung sorgt für Dämpfung der Schwingung. Gekoppelte Oszillatoren. Bei angeregter Schwingung kommt es zu frequenzabhängiger Antwortfunktion (Resonanz) des mechanischen Systems. Mechanische Schwingungen sind Spezialfälle eines grundlegenden Phänomens in der Physik.
-Lernziel Sicheres Erkennen und Analysieren von Schwingungsbewegungen, experimentell und anhand der zugrundelegenden Differenzialgleichung. Energetische Betrachtung des Phänomens Resonanz/Resonanzkatastrophe. Anwendungen: seismische Isolation durch Pendel,&amp;hellip;
-Harmonische Schwingungen Ein lineares Kraftgesetz \begin{equation} m\ddot x = -Dx \end{equation} mit D z.</description>
+      <guid>http://exp-physik.netlify.app/physike1/schwingungen/</guid>
+      <description>Allgemeine Schwingungen sind alle Vorgänge, die periodisch ablaufen. Für eine eindimensionale Bewegung mit Periode $T$: $ x(t+T) = x(t).$
+Harmonische Schwingungen sind Schwingungen, die sich aus linearen Kraftgesetzen ergeben, wie z.B.: \begin{equation} m\ddot{x} = -Dx. \end{equation}
+Beispiel Federpendel Für ein reibungsfreies Federpendel mit Ruhelage $x=0$ ergibt sich für die Lösung der Bewegungsgleichung $$ x(t) = \hat x \sin(\omega t+\varphi),$$ und damit für die Kreisfrequenz $\omega$: $$ \omega = \sqrt{\frac{D}{m}}.$$
+Beispiel Fadenpendel (wird auch mathematisches Pendel genannt).</description>
+    </item>
+    
+    <item>
+      <title>Anfang</title>
+      <link>http://exp-physik.netlify.app/post/anfang/</link>
+      <pubDate>Sat, 08 May 2021 19:46:14 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/post/anfang/</guid>
+      <description>Irgendwo muss ich einmal anfangen.</description>
+    </item>
+    
+    <item>
+      <title>Schwingungen</title>
+      <link>http://exp-physik.netlify.app/post/schwingungen/</link>
+      <pubDate>Sat, 08 May 2021 18:46:49 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/post/schwingungen/</guid>
+      <description>Ok - this should show up</description>
+    </item>
+    
+    <item>
+      <title>Gekoppelte Pendel</title>
+      <link>http://exp-physik.netlify.app/physike1/gekoppelteoszillatoren/</link>
+      <pubDate>Fri, 08 May 2020 20:10:57 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/physike1/gekoppelteoszillatoren/</guid>
+      <description>Wenn wir zwei horizontale Federpendel mit jeweils gleicher Masse $m$ und Federkonstante $D$ durch eine dritte Feder mit Federkonstante $D_0$ verbinden, erhalten wir ein gekoppeltes System von Pendeln. Die Auslenkungen $x_1$ und $x_2$ um die jeweilige Ruhelage der Federpendel ergeben sich mit den Bewegungsgleichungen $$ \ddot x_1 + \frac{D}{m}x_1 + \frac{D_0}{m} (x_1-x_2)=0,$$ $$ \ddot x_2 + \frac{D}{m}x_2 + \frac{D_0}{m} (x_2-x_1)=0$$ ein System von zwei gekoppelten Differenzialgleichungen. Die Lösung dieses Systems ergibt sich aus der Linearkombination der beiden Normalschwingungen:</description>
     </item>
     
   </channel>

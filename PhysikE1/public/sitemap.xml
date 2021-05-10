@@ -2,31 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/physike1/</loc>
+    <loc>http://exp-physik.netlify.app/</loc>
+    <lastmod>2021-05-09T19:37:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/post/</loc>
+    <lastmod>2021-05-09T19:37:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/physike1/</loc>
     <lastmod>2021-05-08T19:51:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2021-05-08T18:24:04+02:00</lastmod>
+    <loc>http://exp-physik.netlify.app/physike2/</loc>
+    <lastmod>2021-05-08T19:51:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/schwingungen/intro/</loc>
-    <lastmod>2021-05-08T18:24:04+02:00</lastmod>
+    <loc>http://exp-physik.netlify.app/physike1/resonanzen/</loc>
+    <lastmod>2021-05-08T19:51:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/schwingungen/</loc>
-    <lastmod>2021-05-08T18:24:04+02:00</lastmod>
+    <loc>http://exp-physik.netlify.app/physike1/schwingungen/</loc>
+    <lastmod>2021-05-08T19:51:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://exp-physik.netlify.app/post/anfang/</loc>
+    <lastmod>2021-05-08T19:46:14+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://exp-physik.netlify.app/post/schwingungen/</loc>
+    <lastmod>2021-05-08T18:46:49+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/physike1/gekoppelteoszillatoren/</loc>
+    <lastmod>2020-05-08T20:10:57+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
