@@ -1,7 +1,7 @@
 ---
 title: "Physikalisches Pendel"
 date: 2021-05-10T17:31:26+02:00
-draft: true
+description: "Schwerependel"
 ---
 ## Allgmeine Schwerependel
 sind beliebig geformte starre Körper, die um eine fixierte Achse aufgrund des
