@@ -13,7 +13,17 @@
       <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
       
       <guid>http://exp-physik.netlify.app/physike1/physpendel/</guid>
-      <description>Allgmeine Schwerependel sind beliebig geformte starre Körper, die um eine fixierte Achse aufgrund des wirkenden Drehmoments periodische Schwingungen ausführen. Wir betrachten zunächst die Drehmomentsgleichung für einen Körper der Masse $m$, der am Punkt $A$ aufgehängt ist. Die Verbindungslinie vom Punkt $A$ zum Schwerpunkt $S$ ist $s=\bar{AS}$. Dann ergibt sich bei einer Auslenkung des Pendels um einen Winkel $\theta$ ein rückstellendes Drehmoment $M=-mgs~\sin\theta$: $$ I_A \ddot\theta = -mgs \sin\theta.$$ Das Trägheitsmoment $I_A$ ist das Trägheitsmoment für die Rotationsachse im Punkt $A$.</description>
+      <description>Allgmeine Schwerependel sind beliebig geformte starre Körper, die um eine fixierte Achse aufgrund des wirkenden Drehmoments periodische Schwingungen ausführen. Wir betrachten zunächst die Drehmomentsgleichung für einen Körper der Masse $m$, der am Punkt $A$ aufgehängt ist. Die Verbindungslinie vom Punkt $A$ zum Schwerpunkt $S$ ist $s=\overline{AS}$. Dann ergibt sich bei einer Auslenkung des Pendels um einen Winkel $\theta$ ein rückstellendes Drehmoment $M=-mgs~\sin\theta$: $$ I_A \ddot\theta = -mgs \sin\theta.$$ Das Trägheitsmoment $I_A$ ist das Trägheitsmoment für die Rotationsachse im Punkt $A$.</description>
+    </item>
+    
+    <item>
+      <title>Wellen</title>
+      <link>http://exp-physik.netlify.app/physike1/wellen/</link>
+      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/physike1/wellen/</guid>
+      <description>Allgemeine Wellen Aus der Beobachtung von Phänomenen in der Natur ist uns allen der Begriff der Welle vertraut. Wir kennen z.B. Wasserwellen und Seilwellen.
+Eine Welle breitet sich aus. Bei der Seilwelle können wir feststellen, dass die Auslenkung des Seils $\zeta$ mit zunehmender Zeit entlang des Seils fortschreitet, so dass $$ \zeta = \zeta(x,t)$$ eine Funktion der Position entlang des Seils $x$ und der Zeit $t$ ist. Wir erkennen aber auch, dass $x$ und $t$ nicht unabhängig voneinander sind.</description>
     </item>
     
     <item>
