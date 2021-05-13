@@ -6,7 +6,39 @@
     <description>Recent content on Experimentalphysik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 10 May 2021 17:31:26 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 May 2021 10:22:16 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elastische Verformungen</title>
+      <link>http://exp-physik.netlify.app/physike1/elastisch/</link>
+      <pubDate>Thu, 13 May 2021 10:22:16 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/physike1/elastisch/</guid>
+      <description>Zugspannung und Elastizitätsmodul 2in Festkörper mit Querschnittsfläche $A$ wird mit einer Kraft $F$ belastet, die senkrecht zur Oberfläche wirkt. Die Kraft pro Flächeneinheit wird Zugspannung $\sigma$ genannt: $$ \sigma = \frac{F}{A}.$$
+Die Zugspannung ist keine vektorielle Größe - wir betrachten nur die Kraft, die senkrecht auf der Oberfläche wirkt.
+In Experimenten zeigt sich, dass z.B. ein Kupferdraht unter Belastung (Gewicht) seine Länge ändert. Bei kleinen Kräften geschieht dies in einer linearen Weise, d.</description>
+    </item>
+    
+    <item>
+      <title>Akustik</title>
+      <link>http://exp-physik.netlify.app/physike1/akustik/</link>
+      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/physike1/akustik/</guid>
+      <description>Exkurs Physik von Musikinstrumenten Saiteninstrumente Bei Saiteninstrumenten wird ein Ton durch Anreißen/Zupfen (z.B. Gitarre), Streichen (z.B. Violine) oder über Anschlagen (z.B. Hammerklavier) erzeugt. Der Prozess regt ein breites Spektrum von Frequenzen an. Bei einer gegebenen Saitenlänge $L$ werden jedoch bevorzugt die Wellenlängen angeregt, die einer stehenden Welle mit $\lambda=2L, L, 2/3 L$ etc. entsprechen (Grundtöne und Obertöne). Zwei Saiten der gleichen Länge $L$ können zu stehenden Wellen gleicher Wellenlänge angeregt werden, werden aber in der Regel unterschiedlich klingen, weil z.</description>
+    </item>
+    
+    <item>
+      <title>Dopplereffekt</title>
+      <link>http://exp-physik.netlify.app/physike1/doppler/</link>
+      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/physike1/doppler/</guid>
+      <description>Beobachtung des Doppler-Effekts Wir kennen das Phänomen einer scheinbaren Veränderung der Tonhöhe von z.B. dem Martinshorn der Feuerwehr bei relativer Bewegung von Sender und Empfänger zueinander. In beiden Fällen nehmen wir an, dass das Medium in Ruhe ist.
+Experiment: Bewegte Stimmgabel. Mikrofon. Plastikrohr.
+Bewegter Sender Die Frequenz $\nu$ und die Ausbreitungsgeschwindigkeit der Schallwelle $c$ des bewegten Senders (Geschwindigkeit $v$)
+bleibt konstant. Die Abfolge der Wellenzüge wird jedoch durch die relative Bewegung während der Emission für den ruhenden Empfänger verkürzt.</description>
+    </item>
+    
     <item>
       <title>Physikalisches Pendel</title>
       <link>http://exp-physik.netlify.app/physike1/physpendel/</link>
@@ -17,6 +49,17 @@
     </item>
     
     <item>
+      <title>Reflexion und stehende Welle</title>
+      <link>http://exp-physik.netlify.app/physike1/reflexion/</link>
+      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/physike1/reflexion/</guid>
+      <description>Reflexion am Beispiel Seilwelle Wenn wir eine Seilwelle betrachten, die auf ein fixiertes Ende zuläuft, beobachten wir
+ eine reflektierte (zurücklaufende Welle) einen einlaufenden Wellenberg, der als Wellental (und umgekehrt) reflektiert wird. Wenn das Ende frei beweglich ist, beobachten wir, dass ein Wellenberg als Wellenberg reflektiert wird (bzw. ein Wellental als Wellental zurückläuft.  Wir sprechen im Falle eines festen Endes von einem Phasensprung um $\pi$ bei der Reflexion.
+Überlagerung der Wellen Die reflektierte Welle überlagert sich mit der einlaufenden Welle.</description>
+    </item>
+    
+    <item>
       <title>Wellen</title>
       <link>http://exp-physik.netlify.app/physike1/wellen/</link>
       <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
@@ -24,6 +67,16 @@
       <guid>http://exp-physik.netlify.app/physike1/wellen/</guid>
       <description>Allgemeine Wellen Aus der Beobachtung von Phänomenen in der Natur ist uns allen der Begriff der Welle vertraut. Wir kennen z.B. Wasserwellen und Seilwellen.
 Eine Welle breitet sich aus. Bei der Seilwelle können wir feststellen, dass die Auslenkung des Seils $\zeta$ mit zunehmender Zeit entlang des Seils fortschreitet, so dass $$ \zeta = \zeta(x,t)$$ eine Funktion der Position entlang des Seils $x$ und der Zeit $t$ ist. Wir erkennen aber auch, dass $x$ und $t$ nicht unabhängig voneinander sind.</description>
+    </item>
+    
+    <item>
+      <title>Wellengleichung</title>
+      <link>http://exp-physik.netlify.app/physike1/wellengleichung/</link>
+      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/physike1/wellengleichung/</guid>
+      <description>Wellengleichung Wir können die Seilwelle im Hinblick auf die zugrundeliegende Bewegungsgleichung für ein kleines Seilstück der Länge $\Delta x$ betrachten. Die Masse $m=\Delta x \mu$, wobei $\mu = \Delta m /\Delta x$ die Massenbelegung ist (wir nehmen an, dass die Massenbelegung konstant ist).
+Das Seil ist gespannt mit der Seilspannung $T$. Wenn das Seil ausgelenkt wird, erfährt das Seil eine Kraft in Richtung der Auslenkung $\Delta \zeta=\zeta(x+\Delta x)-\zeta(x)$ $$ \mu \Delta x \frac{\partial^2 \zeta}{\partial t^2} = - T \frac{\Delta \zeta}{\Delta x}.</description>
     </item>
     
     <item>
@@ -45,24 +98,6 @@ Eine Welle breitet sich aus. Bei der Seilwelle können wir feststellen, dass die
 Harmonische Schwingungen sind Schwingungen, die sich aus linearen Kraftgesetzen ergeben, wie z.B.: \begin{equation} m\ddot{x} = -Dx. \end{equation}
 Beispiel Federpendel Für ein reibungsfreies Federpendel mit Ruhelage $x=0$ ergibt sich für die Lösung der Bewegungsgleichung $$ x(t) = \hat x \sin(\omega t+\varphi),$$ und damit für die Kreisfrequenz $\omega$: $$ \omega = \sqrt{\frac{D}{m}}.$$
 Beispiel Fadenpendel (wird auch mathematisches Pendel genannt).</description>
-    </item>
-    
-    <item>
-      <title>Anfang</title>
-      <link>http://exp-physik.netlify.app/post/anfang/</link>
-      <pubDate>Sat, 08 May 2021 19:46:14 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/post/anfang/</guid>
-      <description>Irgendwo muss ich einmal anfangen.</description>
-    </item>
-    
-    <item>
-      <title>Schwingungen</title>
-      <link>http://exp-physik.netlify.app/post/schwingungen/</link>
-      <pubDate>Sat, 08 May 2021 18:46:49 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/post/schwingungen/</guid>
-      <description>Ok - this should show up</description>
     </item>
     
     <item>

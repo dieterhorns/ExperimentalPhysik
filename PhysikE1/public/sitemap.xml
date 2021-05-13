@@ -2,7 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://exp-physik.netlify.app/physike1/elastisch/</loc>
+    <lastmod>2021-05-13T10:22:16+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://exp-physik.netlify.app/</loc>
+    <lastmod>2021-05-13T10:22:16+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/physike1/akustik/</loc>
+    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/physike1/doppler/</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -12,7 +27,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://exp-physik.netlify.app/physike1/reflexion/</loc>
+    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://exp-physik.netlify.app/physike1/wellen/</loc>
+    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/physike1/wellengleichung/</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -39,16 +64,6 @@
   </url><url>
     <loc>http://exp-physik.netlify.app/physike1/schwingungen/</loc>
     <lastmod>2021-05-08T19:51:57+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/post/anfang/</loc>
-    <lastmod>2021-05-08T19:46:14+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/post/schwingungen/</loc>
-    <lastmod>2021-05-08T18:46:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
