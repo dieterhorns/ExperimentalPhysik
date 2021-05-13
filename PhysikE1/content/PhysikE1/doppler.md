@@ -7,19 +7,21 @@ description: "Bewegter Sender, bewegter Empfänger, Anwendungen"
 ## Beobachtung des Doppler-Effekts
 Wir kennen das Phänomen einer scheinbaren Veränderung der Tonhöhe
 von z.B. dem Martinshorn der Feuerwehr bei relativer Bewegung von Sender und
-Empfänger zueinander. In beiden Fällen nehmen wir an, dass 
-das Medium in Ruhe ist.
+Empfänger zueinander.  Wir betrachten im Folgenden den einfachsten Fall eines
+Senders und Empfängers die sich entlang der Verbindungslinie relativ zueinander bewegen. 
+
+Wir nehmen weiterhin an, dass das Medium in Ruhe ist.
 
 Experiment: Bewegte Stimmgabel. Mikrofon. Plastikrohr. 
 ### Bewegter Sender
 Die Frequenz $\nu$ und die Ausbreitungsgeschwindigkeit 
 der Schallwelle $c$ des bewegten Senders (Geschwindigkeit $v$)  
-bleibt konstant. Die Abfolge der Wellenzüge wird
+bleibt konstant. Die Abfolge der Wellenzüge (Wellenlänge) wird
 jedoch durch die relative Bewegung während der Emission für den 
 ruhenden Empfänger verkürzt. Nehmen wir
 an, dass die Wellenlänge $\lambda = c/\nu$ in Ruhe wahrgenommen wird. 
 Während der Periode $P=1/\nu$  bewegt sich der Sender um die Wegstrecke
-$\Delta x = Pv = v/\nu$. Die wahrgenommene Wellenlänge, also die 
+$\Delta x = Pv = v/\nu$. Die wahrgenommene Wellenlänge $\lambda'$, also die 
 Abfolge von zwei Wellenzügen ist gegeben durch $\lambda' = \lambda - \Delta x.$
 Die resultierende wahrgenommene Frequenz $\nu'=c/\lambda'$:
 $$ \nu' = \frac{c}{\lambda - v/\nu}= \frac{c}{\frac{c}{\nu} - \frac{v}{\nu}} 
@@ -28,7 +30,8 @@ $$ \nu' = \frac{c}{\lambda - v/\nu}= \frac{c}{\frac{c}{\nu} - \frac{v}{\nu}}
 Für den Fall, dass $v\ge c$ gilt, ergibt sich die interessante Situation, dass
 der Sender sich schneller bewegt als die Ausbreitungsgeschwindigkeit der 
 Wellen. In diesem Fall bildet sich eine Wellenfront aus, der sogenannte Mach-Kegel.
-Die Wellenfront entspricht der Überlagerung aller Wellenfronten. Für Schallwellen
+Die Wellenfront entspricht der Überlagerung aller Wellen, die entlang der
+Bahnkurve des Körpers abgegeben wurden. Für Schallwellen
 entsteht eine nicht-lineare Schockwelle, die als lauter Knall (_Überschallknall_)
 wahrgenommen wird (bei ausgedehnten Objekten ergeben sich auch mehrere Mach-Kegel).
 

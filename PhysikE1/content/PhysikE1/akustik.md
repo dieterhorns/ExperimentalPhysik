@@ -6,7 +6,7 @@ description: "Musikinstrumente"
 ## Exkurs Physik von Musikinstrumenten
 
 ### Saiteninstrumente
-Bei Saiteninstrumenten wird ein Ton durch Anreißen/Zupfen (z.B. Gitarre), 
+Bei Saiteninstrumenten wird ein Ton durch Zupfen (z.B. Gitarre), 
 Streichen (z.B. Violine) oder über Anschlagen (z.B. Hammerklavier) erzeugt. 
 Der Prozess regt ein breites _Spektrum_ von Frequenzen an. Bei einer gegebenen
 Saitenlänge 	$L$ werden jedoch bevorzugt die Wellenlängen angeregt, die 
@@ -16,19 +16,20 @@ Zwei Saiten der gleichen Länge $L$ können zu stehenden Wellen gleicher Wellenl
 angeregt werden, werden aber in der Regel unterschiedlich klingen, weil z.B.
 die Spannung $T$ 
 der Saite höher gewählt wird und damit die Ausbreitungsgeschwindigkeit
-$v=(T/\mu)^{1/2}$ größer und damit die Frequenz $\nu=v/\lambda$ höher ist. 
-Der durch die Schwingungen an die Luftmoleküle übertragenen Dichtewellen haben
-eine entsprechend höhere Frequenz. Die Dichtewellen der Luft breiten sich aus und
-bringen das Trommelfell des Ohrs bei der selben Frequenz in Bewegung und wir nehmen
-einen Ton wahr. 
+$v=(T/\mu)^{1/2}$ größer und die Frequenz $\nu=v/\lambda$ höher ist. 
 Durch die Wahl einer _dünneren_ Saite lässt sich die Frequenz bei gleicher Länge
-ebenfalls erhöhen (siehe z.B, die Saiten einer Gitarre). 
+ebenfalls erhöhen (siehe z.B, unterschiedlichen Dicken der  Saiten einer Gitarre). 
+
+Die Schwingungen der Saiten bringen die umgebenden Luftmoleküle ebenfalls zum Schwingen 
+an und erzeugen somit Dichtewellen in der Luft. Die Dichtewellen breiten sich aus und
+bringen das Trommelfell des Ohrs bei der selben Frequenz in Bewegung: wir nehmen
+einen Ton wahr. 
 
 
-Der Klang eines Saiteninstruments hängt von der durch Art des Spiels (z.B. Anschlag
-der Saite) und der damit einzigartigen Überlagerung des Grundtons und der Obertöne. 
+Der Klang eines Saiteninstruments hängt von der Art des Spiels ab (z.B. Anschlag
+der Saite): Es werden charakteristische Grund- und Obertöne erzeugt.
 Zusätzlich ist die Bauweise (Form und Material) des Klangkörpers für die 
-Klangfarbe entscheidend.
+Klangfarbe des erzeugten Tons entscheidend. 
 
 ### Blasinstrumente/Orgel
 Im Gegensatz zu den Saiteninstrumenten wird bei Blasinstrumenten die Luftsäule
