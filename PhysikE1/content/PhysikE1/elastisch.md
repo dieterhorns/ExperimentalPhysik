@@ -15,11 +15,11 @@ Komponente parallel zur Fläche erzeugt eine Schubspannung. .
 
 In Experimenten zeigt sich, dass z.B. ein Kupferdraht, an dem wir ein Gewicht befestigen 
 seine Länge ändert. Bei kleinen Zugspannungen geschieht dies in einer linearen
-Weise, d.h. die _relative_ Längenänderung $\Delta L/L$ ist proportional zur
+Weise, d.h. die _relative_ Längenänderung $\epsilon:=\Delta L/L$ ist proportional zur
 Zugspannung $\sigma$ mit der Proportionalitätskonstante $1/E$, das sogenannte
 *Elastizitätsmodul*. 
 
-$$ \frac{\Delta L}{L} = \frac{1}{E} \sigma.$$
+$$ \epsilon = \frac{\Delta L}{L} = \frac{1}{E} \sigma.$$
 Das Elastizitätsmodul $E$ ist eine Materialkonstante und
 trägt die Einheit Kraft/Fläche $[\mathrm{N}~\mathrm{m}^{-2}$]. Wir geben hier einige
 typische Werte für $E$ an (je größer $E$, desto geringer ist die Längendehnung):
@@ -31,11 +31,40 @@ typische Werte für $E$ an (je größer $E$, desto geringer ist die Längendehnu
 | Kupfer   | 110           | 200          |  9           | 3,5                 | 0,35   |
 |Aluminium |  70           |  40          | 2,7          | 5,1                 | 0,35   |
 | Baustahl | 210           | 300          | 8            | 5,0                 | 0,28   |
+| Nylon    |  3            |              |              |                     |        |
+| Keramik  |               |              |              |                     |        |
 {{</table>}}
 <caption> 
 Für eine weitergehende Tabelle der Materialeigenschaften von Metallen: 
 <a href="https://www.electrical-contacts-wiki.com/index.php/Physikalische_Eigenschaften_der_wichtigsten_Metalle">[1]</a>
 </caption>
+
+### Zusammenhang Elastizitätsmodul und Bindungsenergie
+Warum unterscheiden sich die Werte für das Elastizitätsmodul für unterschiedliche Materialien? Auf atomarer Ebene lässt sich das 
+zumindest qualitativ auf die Bindungsenergie $U_0$ der Atome zurückführen. Eine einfache Betrachtung hierzu:
+
+ Wir nehmen an, dass es die Bindungsenergie $U=U(r)$  nur vom Abstand abhängt. Der atomare Abstand sei $r_0$, dann ist die Spannung pro
+Atom 
+$$ \sigma = \frac{F}{r_0^2}.$$
+Die relative Dehnung ist
+$$ \epsilon = \frac{r(\sigma}-r_0}{r_0},$$
+wobei die rücktreibende Kraft durch die Ableitung der Bindungsenergie $U(r)$ gegeben ist:
+$$ F = \frac{dU}{dr}.$$
+
+Das $E$-Modul ist gegeben durch
+ $$ E = \frac{d\sigma}{d\epsilon} = \frac{d \sigma}{dr} \left(\frac{d\epsilon}{dr}\right)^{-1} = 
+\frac{d\sigma}{dr}r_0.$$
+$$ E = \frac{1}{r_0}\frac{d}{dr} \frac{dU}{dr} = \frac{1}{r_0} \frac{d^2 U}{dr^2}.$$ 
+Für ein allgemeines Potenzial der Form
+$$ U(r) = -\frac{A}{r^n} + \frac{B}{r^m}$$
+mit $U(r_0)=U_0<0$ lässt sich zeigen:
+$$ E =-U_0 \frac{n~m}{r_0^3}.$$
+Die Bindungsenergie $-U_0$ ist  positiv und sollte in etwa proportional zur Schmelzwärme $k_B~T_s$ 
+sein. Der Term $r_0^3$ ist das atomare Volumen, so dass sich für die meisten Materialien (nicht jedoch für
+Elastomere) ergibt
+$$ E\propto T_s/r_0^3$$. 
+
+
 
 ### Zusammenhang $E$ und Federkonstante $D$
 
@@ -88,6 +117,20 @@ Der lineare Zusammenhang zwischen Querkontraktion und Längenänderung
 $$\frac{\Delta d}{d} = -\mu \frac{\Delta L}{L}$$
 ist materialspezifisch. Die einheitenlose Konstante $\mu$ wird _Poissonzahl_ $\mu$ genannt.
 
+Für Metalle ist $\mu\approx 0,3$, für Käse und Gummi ist $\mu \approx 0,5$. Kork hat $\mu \approx 0$. Aufgrund
+dieser Eigenschaft können wir überhaupt einen Korken in eine Flasche drücken.
+
+
+
+## Kompressionsmodul $K$
+Für einen Körper mit einer Zugspannung $-\sigma$ in einer Richtung ergibt sich das neue Volumen zu
+
+$$ V' = (L+\Delta L) ( d - \Delta d)^2 \approx (L + \Delta L) d^2(1 - 2\frac{\Delta d}{d})\approx L d^2  ( 1 + \frac{\Delta L}{L} - 2 \frac{\Delta d}{d}),$$
+so dass 
+$$ \frac{\Delta V}{V} = \epsilon(1-2\mu).$$
+
+
+
 
 
 ##  Schermodul $G$ 
@@ -118,8 +161,6 @@ $$ P = 2\pi \sqrt{\frac{I}{\kappa}}$$
 lässt sich bei bekanntem Trägheitsmoment $I$ und bekannter Geometrie das Richtmoment $\kappa$ und damit das Schermodul $G$ vermessen.
 
 
-
-## Kompressionsmodul $K$
 
 
 

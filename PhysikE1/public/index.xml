@@ -8,6 +8,15 @@
     <language>de-de</language>
     <lastBuildDate>Thu, 13 May 2021 10:22:16 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Pendel</title>
+      <link>http://exp-physik.netlify.app/pendel/</link>
+      <pubDate>Fri, 14 May 2021 18:16:43 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/pendel/</guid>
+      <description>Übersicht Pendel  Mathematisches Pendel (Länge $\ell$) $$ P = 2\pi \sqrt{\frac{\ell}{g}} $$ Federpendel (Masse $m$, Federkonstante $D$) $$ P = 2\pi \sqrt{\frac{m}{D}} $$ Physikalisches Pendel (Trägheitsmoment $I$, Abstand Aufhängung zu Schwerpunkt $s$, Masse $m$) $$ P = 2\pi \sqrt{\frac{I}{mgs}} $$ Torsionspendel (Trägheitsmoment $I$, Richtmoment $\kappa$) $$ P = 2\pi \sqrt{\frac{I}{\kappa} $$  </description>
+    </item>
+    
+    <item>
       <title>Elastische Verformungen</title>
       <link>http://exp-physik.netlify.app/physike1/elastisch/</link>
       <pubDate>Thu, 13 May 2021 10:22:16 +0200</pubDate>
