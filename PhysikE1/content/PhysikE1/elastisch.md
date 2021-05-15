@@ -129,6 +129,8 @@ $$ V' = (L+\Delta L) ( d - \Delta d)^2 \approx (L + \Delta L) d^2(1 - 2\frac{\De
 so dass 
 $$ \frac{\Delta V}{V} = \epsilon(1-2\mu).$$
 
+Hieraus ergibt sich sofort, dass $\mu < 0,5$ gelten muss, damit bei einer Dehnung durch Zugspannung das Volumen abnimmt. 
+
 
 
 
@@ -159,11 +161,4 @@ $$ \kappa = \frac{\pi R^4 G}{2 L}.$$
 Aus der Messung der Pendelperiode eines Torsionspendels
 $$ P = 2\pi \sqrt{\frac{I}{\kappa}}$$
 lässt sich bei bekanntem Trägheitsmoment $I$ und bekannter Geometrie das Richtmoment $\kappa$ und damit das Schermodul $G$ vermessen.
-
-
-
-
-
-
-
 
