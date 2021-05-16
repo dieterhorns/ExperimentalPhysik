@@ -1,6 +1,6 @@
 ---
 title: "Experimentalphysik"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+Featured_image: "/images/Ingamozgas.jpg"
 description: "Mechanik.Wärmelehre.Elektrodynamik.Optik"
 ---
 Physik für alle. 
