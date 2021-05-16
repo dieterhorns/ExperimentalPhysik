@@ -1,6 +1,7 @@
 ---
 title: "Elastische Verformungen"
 date: 2021-05-13T10:22:16+02:00
+weight: 18
 description: "Spannungen, Elastizität"
 ---
 ## Zugspannung und Elastizitätsmodul
