@@ -1,7 +1,7 @@
 ---
 title: "Gekoppelte Pendel"
 date: 2020-05-08T20:10:57+02:00
-featured_image: '/images/Ingamozgas.jpg'
+weight: 14
 description: "Systeme von Pendeln"
 ---
 Wenn wir zwei horizontale Federpendel mit jeweils gleicher

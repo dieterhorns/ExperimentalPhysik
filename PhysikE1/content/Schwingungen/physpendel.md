@@ -1,6 +1,7 @@
 ---
 title: "Physikalisches Pendel"
 date: 2021-05-10T17:31:26+02:00
+weight: 11
 description: "Schwerependel"
 ---
 ## Allgmeine Schwerependel

@@ -1,6 +1,7 @@
 ---
 title: "Pendel"
 date: 2021-05-14T18:16:43+02:00
+weight: 12
 ---
 
 ## Übersicht Pendel

@@ -1,15 +1,16 @@
 ---
 title: "Schwingungen"
 date: 2021-05-08T19:51:57+02:00
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "Periodische Systeme"
+weight: 10
 ---
 ## Allgemeine Definition 
-*Schwingungen* sind alle Vorgänge, die periodisch ablaufen. Für eine eindimensionale
+*Schwingungen* sind alle Vorgänge, die *periodisch* ablaufen. Für eine eindimensionale
 Bewegung mit Periode $P$:
 $ x(t+P) = x(t).$
 ## Harmonische Schwingungen
-sind Schwingungen, die sich aus linearen Kraftgesetzen ergeben, wie z.B.:
+sind Schwingungen, die sich aus *linearen Kraftgesetzen* ergeben, wie z.B.
+das Hooke'sche Gesetz:
 \begin{equation} m\ddot{x} = -Dx. \end{equation}
 ## Beispiel Federpendel
 Für ein reibungsfreies Federpendel  mit Ruhelage $x=0$ ergibt sich für die Lösung
@@ -25,9 +26,10 @@ $\sin \vartheta \approx \vartheta$ ($\vartheta$ im Bogenmaß) annehmen dürfen.
 Die Auslenkung in der Horizontalen ist $x=\ell \sin\vartheta$ und
 die rücktreibende Kraft in der Horizontalen $m\ddot x = -mg\sin\vartheta$, so dass
 $$ m \ddot x = -\frac{mg}{\ell} x,$$
-und damit ist das Problem äquivalent zu dem Federpendel für $D=g/\ell$. Wir 
+und damit ist das Problem äquivalent zu dem Federpendel für $D=mg/\ell$. Wir 
 erkennen in beiden Fällen ein _lineares Kraftegesetz_. Die Kreisfrequenz 
 $$\omega = \sqrt{\frac{g}{\ell}}.$$
+
 ## Gedämpfte Schwingungen
 Die Reibungskraft $F_r = -k \dot{x}$ wirkt der Bewegungsrichtung entgegen und
 in dem hier betrachteten Fall der _Newton'schen Reibung_ ist die 
@@ -35,13 +37,13 @@ Kraft proportional zur
 Geschwindigkeit. Zusammen mit dem linearen Kraftgesetz ergibt sich die Bewegungsgleichung eines _gedämpften harmonischen Oszillators_:
 $$ m\ddot x = -Dx - k \dot{x},$$
 die wir umstellen zur Normalform 
-$$ \ddot{x} + 2\gamma \dot{x} + \omega_0^2 x = 0.$$ 
-Die Kreisfrequenz 
-$$\omega_0 = (D/m)^{1/2}$$ 
- ist uns schon vorher bei z.B. dem 
-ungedämpften Federpendel begegnet. Der Dämpfungsterm 
-$$\gamma:= \frac{k}{2m}$$
-hat ebenfalls die Einheit einer Frequenz ($1/s$).
+$$ \ddot{x} + 2\gamma \dot{x} + \omega_0^2 x = 0,$$ 
+mit der Kreisfrequenz 
+$$\omega_0 = (D/m)^{1/2}$$ des ungedämpften Systems 
+und dem  Dämpfungsterm $$\gamma:= \frac{k}{2m}.$$
+Der Dämpfungsterm hat genau wie $\omega_0$ die Einheit einer Frequenz ($1/s$).
+
+Wir wollen jetzt untersuchen, wie die Lösungen dieser Differenzialgleichung aussehen.
 ### Lösungen für gedämpfte Schwingungen.
 Wir wählen $x(t) = A \exp(\lambda t)$ als Ansatz für die Lösung und erhalten
 mit $\dot{x} = \lambda x$ und $\ddot{x} = \lambda^2 x$ 
@@ -63,8 +65,7 @@ $$ A_2 = -\frac{v_0 - \lambda_1 x_0}{\lambda_1 - \lambda_2}.$$
 
 Um die Terme mit $\lambda_{1,2}$  etwas handlicher zu gestalten, definieren
 wir $\delta:= \sqrt{\gamma^2-\omega_0^2}$. 
-
-$$ x(t) = \frac{v_0 + \gamma x_0 +\delta x_0}{2\delta} e^{-\gamma~t}e^{\delta t}
+%% x(t) = \frac{v_0 + \gamma x_0 +\delta x_0}{2\delta} e^{-\gamma~t}e^{\delta t}
          -\frac{v_0 + \gamma x_0 -\delta x_0}{2\delta} e^{-\gamma~t}e^{-\delta t}$$
 bzw.
 $$ x(t) = x_0 e^{-\gamma~t} 
@@ -78,7 +79,7 @@ $$ x(t) = x_0 e^{-\gamma t} \left( \frac{e^{\delta t} + e^{-\delta t}}{2} + \lef
     \frac{e^{\delta t} - e^{-\delta t}}{2\delta} \right).$$
 
 
-Je nach Stärke der Dämpfung $\gamma$ ergeben sich drei unterschiedliche Lösungsarten:
+Je nach Stärke der Dämpfung $\gamma$ ergeben sich drei unterschiedliche Lösungstypen:
    * Schwach gedämpft  (**Schwingfall**): $\gamma^2 < \omega_0^2$, 
 so dass $\lambda = -\gamma \pm i \sqrt{\omega_0^2-\gamma^2}$. 
 $$ x(t) = x_0 e^{-\gamma t} \left(
@@ -113,7 +114,13 @@ $$ \omega_0 t / (2Q) = 1$$
 bzw. für $\omega_0\approx \omega = 2\pi/P$ bei der Periode $P$ folgt 
 die Anzahl der Schwingungen:
 $$ t/P = Q/\pi$$. 
+Ist die Näherung $\omega_0\approx \omega$ angebracht? 
+Hierzu betrachten wir
 $$ \omega^2 = \omega_0^2-\gamma^2 = \omega_0^2\left( 1 - \frac{\gamma^2}{\omega_0^2}\right) = \omega_0^2\left( 1-\frac{1}{4Q^2}\right).$$
+Als Reihe entwickelt $\sqrt{1-\epsilon^2} \approx 1-\frac{\epsilon^2}{2}$ ergibt sich für die relative Verschiebung der Frequenz:
+
+$$ \Delta \omega}{\omega_0} = 1-\frac{\omega}{\omega_0} = -\frac{1}{8Q^2}.$$
+Für einen Wert von $Q=10$ ist die relative Abweichung der Frequenz lediglich $0,1$~\%.
 
 ### Zum Nachdenken
 Die höchsten $Q$-Werte liegen bei etwa $10^{11}$. Wie lange dauert es hier, bis
