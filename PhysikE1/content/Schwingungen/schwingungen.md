@@ -123,5 +123,7 @@ $$ \Delta \omega}{\omega_0} = 1-\frac{\omega}{\omega_0} = -\frac{1}{8Q^2}.$$
 Für einen Wert von $Q=10$ ist die relative Abweichung der Frequenz lediglich $0,1$~\%.
 
 ### Zum Nachdenken
-Die höchsten $Q$-Werte liegen bei etwa $10^{11}$. Wie lange dauert es hier, bis
+   * Die höchsten $Q$-Werte liegen bei etwa $10^{11}$. Wie lange dauert es hier, bis
 die Schwingungsamplitude auf $1/e$ des ursprünglichen Wertes abfallen.
+   * Wie sieht die Energiebilanz beim ungedämpften Pendel aus? 
+   * Wie sieht die Energiebilanz beim angeregten Pendel aus? 

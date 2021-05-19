@@ -51,6 +51,10 @@ $$ x_1(t) = A_0 \cos\left(\frac{\omega -\Omega}{2} t\right) \cos\left(\frac{\ome
 $$ x_2(t) = -A_0 \sin\left(\frac{\omega -\Omega}{2} t\right) \sin\left(\frac{\omega+\Omega}{2}t \right).$$
 
 Die gekoppelte Bewegung wird durch zwei Frequenzen beschrieben. Eine kleine
-Frequenz $\Omega-\omega$ und eine hohe Frequenz $\omega + \Omega$. Die beiden
+Frequenz $\Omega-\omega$ und eine hohe Frequenz $\omega + \Omega$.
+Die Frequenzen $\omega$ und $\Omega > \omega$ sind die Frequenzen der beiden
+Normalschwingungen. Die kleinere Frequenz $\omega$ ist dabei die Frequenz der 
+Schwingung, bei der die beiden Massen sich gleichgerichtet bewegen. Die beiden
 Pendel sind jeweils bei beiden Frequenzen um den Phasenwinkel $\pi/2$ in der
-Bewegung zueinander verschoben. 
+Bewegung zueinander verschoben: Wenn die Bewegung des einen Pendels eine maximale 
+Amplitude erreicht, ruht das andere Pendel. 
