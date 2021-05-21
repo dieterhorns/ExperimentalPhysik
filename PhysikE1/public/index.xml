@@ -6,7 +6,7 @@
     <description>Recent content on Experimentalphysik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 17 May 2021 22:46:20 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 May 2021 08:04:37 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Schwingungen</title>
       <link>http://exp-physik.netlify.app/schwingungen/schwingungen/</link>
@@ -67,7 +67,16 @@ In Experimenten zeigt sich, dass z.B. ein Kupferdraht, an dem wir ein Gewicht be
     </item>
     
     <item>
-      <title>Stroemungen</title>
+      <title>Viskosität</title>
+      <link>http://exp-physik.netlify.app/kontinuumsmechanik/viskosit%C3%A4t/</link>
+      <pubDate>Fri, 21 May 2021 08:04:37 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/viskosit%C3%A4t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strömungen</title>
       <link>http://exp-physik.netlify.app/kontinuumsmechanik/stroemungen/</link>
       <pubDate>Mon, 17 May 2021 22:46:20 +0200</pubDate>
       

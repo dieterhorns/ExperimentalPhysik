@@ -19,7 +19,7 @@ enableRobotsTXT = true
 
 
 [params]
-  themeVariant = "red"
+  themeVariant = "blue"
   author = "Dieter Horns"
   favicon = ""
   site_logo = ""
