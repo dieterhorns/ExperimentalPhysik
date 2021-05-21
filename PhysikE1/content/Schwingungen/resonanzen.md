@@ -64,6 +64,7 @@ Analyse der Resonanzkurve:
    * (ohne Beweis): Die Amplitude fällt auf $|\hat x|_{r}/\sqrt{2}$ an
 den Grenzen des  Frequenzintervalls $\omega_r \pm \gamma$ ab. 
  Die resultierende Breite der Resonanz von $2\gamma$ wird
-auch als *Güte* oder *Q-Faktor*  bezeichnet.
+auch als *Güte* oder *Q-Faktor*  bezeichnet (siehe auch [gedämpfte Schwingung]({{< relref "/schwingungen/schwingungen" >}} "gedaempfte Schwingungen") )
    * $\omega = \omega_0$: $\varphi =  \pi/2$. 
    * $\omega \rightarrow \infty$: $\varphi \rightarrow \pi$, $|\hat x| \rightarrow 0$. 
+

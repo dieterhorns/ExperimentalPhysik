@@ -99,7 +99,7 @@ $$\lim_{x\rightarrow x_0} \frac{f(x)}{g(x)} = \lim_{x\rightarrow x_0} \frac{f'(x
 $$ x(t) = x_0 e^{-\gamma t} \left( 1 + \left[\gamma + \frac{v_0}{x_0}\right ] t\right).$$
    * Starke Dämpfung (**Kriechfall**): $\gamma^2 > \omega_0^2$ und die Lösung
 $$x(t) = x_0 e^{-\gamma t} \left( \cosh \omega t + \left[\gamma + \frac{v_0}{x_0}\right] \frac{\sinh \omega t}{\omega}\right).$$
-### Qualitätsfaktor
+### Qualitätsfaktor 
 Häufig wird für einen Oszillator ein einheitenloser Qualitätsfaktor $Q$ definiert:
 $$ Q :=  \frac{\omega_0}{2\gamma}.$$
 Typische Qualitätsfaktoren liegen bei etwa 100 (einfaches Fadenpendel) und reichen

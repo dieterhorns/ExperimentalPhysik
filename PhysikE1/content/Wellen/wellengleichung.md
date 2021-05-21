@@ -1,6 +1,7 @@
 ---
 title: "Wellengleichung"
 date: 2021-05-10T17:31:26+02:00
+weight: 3
 description: "Beispiel Seilwelle"
 ---
 ## Wellengleichung

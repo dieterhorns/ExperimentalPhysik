@@ -2,6 +2,7 @@
 title: "Akustik"
 date: 2021-05-10T17:31:26+02:00
 menu: "Physik E1"
+weight: 10
 description: "Musikinstrumente"
 ---
 ## Exkurs Physik von Musikinstrumenten
