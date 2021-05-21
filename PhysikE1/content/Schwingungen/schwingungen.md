@@ -65,7 +65,7 @@ $$ A_2 = -\frac{v_0 - \lambda_1 x_0}{\lambda_1 - \lambda_2}.$$
 
 Um die Terme mit $\lambda_{1,2}$  etwas handlicher zu gestalten, definieren
 wir $\delta:= \sqrt{\gamma^2-\omega_0^2}$. 
-%% x(t) = \frac{v_0 + \gamma x_0 +\delta x_0}{2\delta} e^{-\gamma~t}e^{\delta t}
+$$ x(t) = \frac{v_0 + \gamma x_0 +\delta x_0}{2\delta} e^{-\gamma~t}e^{\delta t}
          -\frac{v_0 + \gamma x_0 -\delta x_0}{2\delta} e^{-\gamma~t}e^{-\delta t}$$
 bzw.
 $$ x(t) = x_0 e^{-\gamma~t} 
@@ -119,8 +119,8 @@ Hierzu betrachten wir
 $$ \omega^2 = \omega_0^2-\gamma^2 = \omega_0^2\left( 1 - \frac{\gamma^2}{\omega_0^2}\right) = \omega_0^2\left( 1-\frac{1}{4Q^2}\right).$$
 Als Reihe entwickelt $\sqrt{1-\epsilon^2} \approx 1-\frac{\epsilon^2}{2}$ ergibt sich für die relative Verschiebung der Frequenz:
 
-$$ \Delta \omega}{\omega_0} = 1-\frac{\omega}{\omega_0} = -\frac{1}{8Q^2}.$$
-Für einen Wert von $Q=10$ ist die relative Abweichung der Frequenz lediglich $0,1$~\%.
+$$ \frac{\Delta \omega}{\omega_0} = 1-\frac{\omega}{\omega_0} = -\frac{1}{8Q^2}.$$
+Für einen Wert von $Q=10$ ist die relative Abweichung der Frequenz lediglich $0,1~$\%.
 
 ### Zum Nachdenken
    * Die höchsten $Q$-Werte liegen bei etwa $10^{11}$. Wie lange dauert es hier, bis

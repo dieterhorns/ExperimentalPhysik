@@ -6,27 +6,25 @@
     <description>Recent content on Experimentalphysik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 16 May 2021 12:42:17 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 22:46:20 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Auftrieb</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</link>
-      <pubDate>Sun, 16 May 2021 12:42:17 +0200</pubDate>
+      <title>Schwingungen</title>
+      <link>http://exp-physik.netlify.app/schwingungen/schwingungen/</link>
+      <pubDate>Sat, 08 May 2021 19:51:57 +0200</pubDate>
       
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</guid>
-      <description>Archimedes&amp;rsquo;sches Prinzip In einer ruhenden Flüssigkeit mit Massendichte $\rho$ bildet sich das hydrostatische Gleichgewicht aus, so dass bei einer Schwerebeschleunigung $g$ in z.B. der $z$-Richtung gilt:
-$$ \frac{dp}{dz} = - \rho g.$$
-In diesem Zustand gilt das Archimedes&amp;rsquo;sche Prinzip der Auftriebskraft:
-Wenn wir einen beliebig geformten Körper mit Volumen $V$ und mit mittlerer Massendichte $\rho_K$ vollständig in diese Flüssigkeit eintauchen, erfährt der Körper eine Auftriebskraft, die der Gewichtskraft des verdrängten Volumens der Flüssigkeit entspricht::</description>
+      <guid>http://exp-physik.netlify.app/schwingungen/schwingungen/</guid>
+      <description>Allgemeine Definition Schwingungen sind alle Vorgänge, die periodisch ablaufen. Für eine eindimensionale Bewegung mit Periode $P$: $ x(t+P) = x(t).$
+Harmonische Schwingungen sind Schwingungen, die sich aus linearen Kraftgesetzen ergeben, wie z.B. das Hooke&amp;rsquo;sche Gesetz: \begin{equation} m\ddot{x} = -Dx. \end{equation}
+Beispiel Federpendel Für ein reibungsfreies Federpendel mit Ruhelage $x=0$ ergibt sich für die Lösung der Bewegungsgleichung $$ x(t) = \hat x \sin(\omega t+\varphi),$$ und damit für die Kreisfrequenz $\omega$: $$ \omega = \sqrt{\frac{D}{m}}.</description>
     </item>
     
     <item>
-      <title>Druck</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</link>
-      <pubDate>Fri, 14 May 2021 18:35:37 +0200</pubDate>
+      <title>Physikalisches Pendel</title>
+      <link>http://exp-physik.netlify.app/schwingungen/physpendel/</link>
+      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
       
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</guid>
-      <description>Flüssigkeit Im Vergleich zu den elastischen Änderungen eines Festkörpers und der Kompressibilität von Gasen, verhalten sich Flüssigkeiten deutlich anders:
- Das Schermodul einer Flüssigkeit $G\approx 0$: Experimentell beobachten wir, dass die Flüssigkeit in einem rotierenden Gefäß eine Paraboloid-Form annimmt. Eine Flüssigkeit ist (nahezu) inkompressibel.  Statischer Druck Wenn wir mit einem Stempel eine Kraft $F$ senkrecht auf eine Oberfläche $A$ einer Flüssigkeit ausüben, entspricht das einem statischen Druck $p$: $$ p:= \frac{F}{A}.</description>
+      <guid>http://exp-physik.netlify.app/schwingungen/physpendel/</guid>
+      <description>Allgmeine Schwerependel sind beliebig geformte starre Körper, die um eine fixierte Achse aufgrund des wirkenden Drehmoments periodische Schwingungen ausführen. Wir betrachten zunächst die Drehmomentsgleichung für einen Körper der Masse $m$, der am Punkt $A$ aufgehängt ist. Die Verbindungslinie vom Punkt $A$ zum Schwerpunkt $S$ ist $s=\overline{AS}$. Dann ergibt sich bei einer Auslenkung des Pendels um einen Winkel $\theta$ ein rückstellendes Drehmoment $M=-mgs~\sin\theta$: $$ I_A \ddot\theta = -mgs \sin\theta.$$ Das Trägheitsmoment $I_A$ ist das Trägheitsmoment für die Rotationsachse im Punkt $A$.</description>
     </item>
     
     <item>
@@ -36,6 +34,15 @@ Wenn wir einen beliebig geformten Körper mit Volumen $V$ und mit mittlerer Mass
       
       <guid>http://exp-physik.netlify.app/schwingungen/pendel/</guid>
       <description>Übersicht Pendel  Mathematisches Pendel (Länge $\ell$) $$ P = 2\pi \sqrt{\frac{\ell}{g}} $$ Federpendel (Masse $m$, Federkonstante $D$) $$ P = 2\pi \sqrt{\frac{m}{D}} $$ Physikalisches Pendel (Trägheitsmoment $I$, Abstand Aufhängung zu Schwerpunkt $s$, Masse $m$) $$ P = 2\pi \sqrt{\frac{I}{mgs}} $$ Torsionspendel (Trägheitsmoment $I$, Richtmoment $\kappa$) $$ P = 2\pi \sqrt{\frac{I}{\kappa}} $$  Zum Nachdenken  Wie lang müssen Sie die Fadenlänge $\ell$ wählen, um $P=1~$s zu erhalten? Wenn Sie einen dünnen Ring mit Radius $r$ am Umfang aufhängen: Wie groß müssen Sie $r$ wählen, damit $P=1~$s ist?</description>
+    </item>
+    
+    <item>
+      <title>Gekoppelte Pendel</title>
+      <link>http://exp-physik.netlify.app/schwingungen/gekoppelteoszillatoren/</link>
+      <pubDate>Fri, 08 May 2020 20:10:57 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/schwingungen/gekoppelteoszillatoren/</guid>
+      <description>Wenn wir zwei horizontale Federpendel mit jeweils gleicher Masse $m$ und Federkonstante $D$ durch eine dritte Feder mit Federkonstante $D_0$ verbinden, erhalten wir ein gekoppeltes System von Pendeln. Die Auslenkungen $x_1$ und $x_2$ um die jeweilige Ruhelage der Federpendel ergeben mit den Bewegungsgleichungen $$ \ddot x_1 + \frac{D}{m}x_1 + \frac{D_0}{m} (x_1-x_2)=0,$$ $$ \ddot x_2 + \frac{D}{m}x_2 + \frac{D_0}{m} (x_2-x_1)=0$$ ein System von zwei gekoppelten Differenzialgleichungen. Die Lösungen dieses Systems lässt sich als Linearkombination der beiden Normalschwingungen oder Moden darstellen:</description>
     </item>
     
     <item>
@@ -50,11 +57,43 @@ In Experimenten zeigt sich, dass z.B. ein Kupferdraht, an dem wir ein Gewicht be
     </item>
     
     <item>
+      <title>Druck</title>
+      <link>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</link>
+      <pubDate>Fri, 14 May 2021 18:35:37 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</guid>
+      <description>Flüssigkeit Im Vergleich zu den elastischen Änderungen eines Festkörpers und der Kompressibilität von Gasen, verhalten sich Flüssigkeiten deutlich anders:
+ Das Schermodul einer Flüssigkeit $G\approx 0$: Experimentell beobachten wir, dass die Flüssigkeit in einem rotierenden Gefäß eine Paraboloid-Form annimmt. Eine Flüssigkeit ist (nahezu) inkompressibel.  Statischer Druck Wenn wir mit einem Stempel eine Kraft $F$ senkrecht auf eine Oberfläche $A$ einer Flüssigkeit ausüben, entspricht das einem statischen Druck $p$: $$ p:= \frac{F}{A}.</description>
+    </item>
+    
+    <item>
+      <title>Stroemungen</title>
+      <link>http://exp-physik.netlify.app/kontinuumsmechanik/stroemungen/</link>
+      <pubDate>Mon, 17 May 2021 22:46:20 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/stroemungen/</guid>
+      <description>Kontinuität Wir betrachten jetzt ein dynamisches System: ein durchströmtes Rohr. Die Flüssigkeit sei ideal, also reibungsfrei. Das Rohr habe am Anfang eine Querschnittsfläche $A_1$ und die (inkompressible) Flüssigkeit der Dichte $\rho$ durchströmt diesen Querschnitt mit der Geschwindigkeit $v_1$. Das Rohrende habe den Querschnitt $A_2$. Der Höhenunterschied der beiden Rohrenden sei $h$.
+Wir können davon ausgehen, dass die Flüssigkeitsmenge, die pro Zeiteinheit das Rohr durchströmt entlang des Rohres überall gleich sein muss.</description>
+    </item>
+    
+    <item>
+      <title>Auftrieb</title>
+      <link>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</link>
+      <pubDate>Sun, 16 May 2021 12:42:17 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</guid>
+      <description>Archimedes&amp;rsquo;sches Prinzip In einer ruhenden Flüssigkeit mit Massendichte $\rho$ bildet sich das hydrostatische Gleichgewicht aus, so dass bei einer Schwerebeschleunigung $g$ in z.B. der $z$-Richtung gilt:
+$$ \frac{dp}{dz} = - \rho g.$$
+In diesem Zustand gilt das Archimedes&amp;rsquo;sche Prinzip der Auftriebskraft:
+Wenn wir einen beliebig geformten Körper mit Volumen $V$ und mit mittlerer Massendichte $\rho_K$ vollständig in diese Flüssigkeit eintauchen, erfährt der Körper eine Auftriebskraft, die der Gewichtskraft des verdrängten Volumens der Flüssigkeit entspricht::</description>
+    </item>
+    
+    <item>
       <title>Akustik</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/akustik/</link>
+      <link>http://exp-physik.netlify.app/wellen/akustik/</link>
       <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
       
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/akustik/</guid>
+      <guid>http://exp-physik.netlify.app/wellen/akustik/</guid>
       <description>Exkurs Physik von Musikinstrumenten Saiteninstrumente Bei Saiteninstrumenten wird ein Ton durch Zupfen (z.B. Gitarre), Streichen (z.B. Violine) oder über Anschlagen (z.B. Hammerklavier) erzeugt. Der Prozess regt ein breites Spektrum von Frequenzen an. Bei einer gegebenen Saitenlänge $L$ werden jedoch bevorzugt die Wellenlängen angeregt, die einer stehenden Welle mit $\lambda=2L, L, 2/3 L$ etc. entsprechen (Grundtöne und Obertöne). Zwei Saiten der gleichen Länge $L$ können zu stehenden Wellen gleicher Wellenlänge angeregt werden, werden aber in der Regel unterschiedlich klingen, weil z.</description>
     </item>
     
@@ -68,15 +107,6 @@ In Experimenten zeigt sich, dass z.B. ein Kupferdraht, an dem wir ein Gewicht be
 Wir nehmen weiterhin an, dass das Medium in Ruhe ist.
 Experiment: Bewegte Stimmgabel. Mikrofon. Plastikrohr.
 Bewegter Sender Die Frequenz $\nu$ und die Ausbreitungsgeschwindigkeit der Schallwelle $c$ des bewegten Senders (Geschwindigkeit $v$)</description>
-    </item>
-    
-    <item>
-      <title>Physikalisches Pendel</title>
-      <link>http://exp-physik.netlify.app/schwingungen/physpendel/</link>
-      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/schwingungen/physpendel/</guid>
-      <description>Allgmeine Schwerependel sind beliebig geformte starre Körper, die um eine fixierte Achse aufgrund des wirkenden Drehmoments periodische Schwingungen ausführen. Wir betrachten zunächst die Drehmomentsgleichung für einen Körper der Masse $m$, der am Punkt $A$ aufgehängt ist. Die Verbindungslinie vom Punkt $A$ zum Schwerpunkt $S$ ist $s=\overline{AS}$. Dann ergibt sich bei einer Auslenkung des Pendels um einen Winkel $\theta$ ein rückstellendes Drehmoment $M=-mgs~\sin\theta$: $$ I_A \ddot\theta = -mgs \sin\theta.$$ Das Trägheitsmoment $I_A$ ist das Trägheitsmoment für die Rotationsachse im Punkt $A$.</description>
     </item>
     
     <item>
@@ -117,26 +147,6 @@ Das Seil ist gespannt mit der Seilspannung $T$. Wenn das Seil ausgelenkt wird, e
       
       <guid>http://exp-physik.netlify.app/schwingungen/resonanzen/</guid>
       <description>Periodische Anregung Wir ergänzen eine periodisch anregende Kraft $F(t)=F(t+T)$, mit der Periode $T=2\pi/\omega$, so dass wir eine inhomogene Differenzialgleichung erhalten $$ \ddot{x} + 2\gamma \dot{x} + \omega_0^2 x = \frac{F(t)}{m}.$$ Wir nehmen einen schwach gedämpften Fall an ($\gamma&amp;lt;\omega_0$). Nach einem Einschwingvorgang wird das System mit der anregenden Kreisfrequenz $\omega$ oszillieren. Während des Einschwingens werden durch die Dämpfung Schwingungen mit der (freien) Frequenz $\sqrt{\omega_0^2-\gamma^2}$ über eine charakteristische Zeit $1/\gamma$ gedämpft, so dass nach einer Zeit $t \gamma \gg 1$ lediglich die anregende Frequenz beiträgt.</description>
-    </item>
-    
-    <item>
-      <title>Schwingungen</title>
-      <link>http://exp-physik.netlify.app/schwingungen/schwingungen/</link>
-      <pubDate>Sat, 08 May 2021 19:51:57 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/schwingungen/schwingungen/</guid>
-      <description>Allgemeine Definition Schwingungen sind alle Vorgänge, die periodisch ablaufen. Für eine eindimensionale Bewegung mit Periode $P$: $ x(t+P) = x(t).$
-Harmonische Schwingungen sind Schwingungen, die sich aus linearen Kraftgesetzen ergeben, wie z.B.: \begin{equation} m\ddot{x} = -Dx. \end{equation}
-Beispiel Federpendel Für ein reibungsfreies Federpendel mit Ruhelage $x=0$ ergibt sich für die Lösung der Bewegungsgleichung $$ x(t) = \hat x \sin(\omega t+\varphi),$$ und damit für die Kreisfrequenz $\omega$: $$ \omega = \sqrt{\frac{D}{m}}.$$</description>
-    </item>
-    
-    <item>
-      <title>Gekoppelte Pendel</title>
-      <link>http://exp-physik.netlify.app/schwingungen/gekoppelteoszillatoren/</link>
-      <pubDate>Fri, 08 May 2020 20:10:57 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/schwingungen/gekoppelteoszillatoren/</guid>
-      <description>Wenn wir zwei horizontale Federpendel mit jeweils gleicher Masse $m$ und Federkonstante $D$ durch eine dritte Feder mit Federkonstante $D_0$ verbinden, erhalten wir ein gekoppeltes System von Pendeln. Die Auslenkungen $x_1$ und $x_2$ um die jeweilige Ruhelage der Federpendel ergeben mit den Bewegungsgleichungen $$ \ddot x_1 + \frac{D}{m}x_1 + \frac{D_0}{m} (x_1-x_2)=0,$$ $$ \ddot x_2 + \frac{D}{m}x_2 + \frac{D_0}{m} (x_2-x_1)=0$$ ein System von zwei gekoppelten Differenzialgleichungen. Die Lösungen dieses Systems lässt sich als Linearkombination der beiden Normalschwingungen oder Moden darstellen:</description>
     </item>
     
   </channel>

@@ -2,23 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</loc>
-    <lastmod>2021-05-16T12:42:17+02:00</lastmod>
+    <loc>http://exp-physik.netlify.app/schwingungen/schwingungen/</loc>
+    <lastmod>2021-05-08T19:51:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://exp-physik.netlify.app/</loc>
-    <lastmod>2021-05-16T12:42:17+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/</loc>
-    <lastmod>2021-05-16T12:42:17+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</loc>
-    <lastmod>2021-05-14T18:35:37+02:00</lastmod>
+    <loc>http://exp-physik.netlify.app/schwingungen/physpendel/</loc>
+    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -27,8 +17,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://exp-physik.netlify.app/schwingungen/</loc>
-    <lastmod>2021-05-14T18:16:43+02:00</lastmod>
+    <loc>http://exp-physik.netlify.app/schwingungen/gekoppelteoszillatoren/</loc>
+    <lastmod>2020-05-08T20:10:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -37,17 +27,42 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/akustik/</loc>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</loc>
+    <lastmod>2021-05-14T18:35:37+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/</loc>
+    <lastmod>2021-05-17T22:46:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/</loc>
+    <lastmod>2021-05-17T22:46:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/stroemungen/</loc>
+    <lastmod>2021-05-17T22:46:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</loc>
+    <lastmod>2021-05-16T12:42:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/schwingungen/</loc>
+    <lastmod>2021-05-14T18:16:43+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/wellen/akustik/</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://exp-physik.netlify.app/wellen/doppler/</loc>
-    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/schwingungen/physpendel/</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -74,16 +89,6 @@
   </url><url>
     <loc>http://exp-physik.netlify.app/schwingungen/resonanzen/</loc>
     <lastmod>2021-05-08T19:51:57+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/schwingungen/schwingungen/</loc>
-    <lastmod>2021-05-08T19:51:57+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/schwingungen/gekoppelteoszillatoren/</loc>
-    <lastmod>2020-05-08T20:10:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

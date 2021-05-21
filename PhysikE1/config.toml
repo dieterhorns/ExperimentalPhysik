@@ -1,7 +1,8 @@
 baseURL = "http://exp-physik.netlify.app/"
 languageCode = "de-de"
 title = "Experimentalphysik"
-theme = "ananke"
+# theme = "ananke"
+theme = "hugo-theme-learn"
 resourceDir = "./resources"
 contentDir = "./content"
 SectionPagesMenu = "main"
@@ -13,8 +14,13 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
+[outputs]
+  home = [ "HTML", "RSS", "JSON"]
+
 
 [params]
+  themeVariant = "red"
+  author = "Dieter Horns"
   favicon = ""
   site_logo = ""
   description = "Experimentalphysik "
