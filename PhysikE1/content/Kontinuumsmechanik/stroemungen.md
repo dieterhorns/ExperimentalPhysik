@@ -56,6 +56,7 @@ Der höhere äußere Druck drückt die Flüssigkeit in den Luftstrom.
 
 ## Anwendung: Prandtl'sches Staurohr
 
+[![this is my image](schemes/prandtl.png])({{< relref "schemes/prandtl.png" >}})
 
      
 
