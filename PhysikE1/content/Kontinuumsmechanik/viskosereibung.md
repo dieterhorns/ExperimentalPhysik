@@ -31,11 +31,13 @@ gilt. Diese maximale Geschwindigkeit wird z.B. für Regentropfen erreicht und so
 wir einen Regenfall unbeschadet überstehen (ohne die Reibungskräfte würden Regentropfen eine unangenehm hohe
 kinetische Energie haben). 
 
+
 #### Viskoser Widerstand dominiert
 Für $v\ll v_\mathrm{krit}$ dominiert der viskose Reibungsterm, so dass
 $$ mg = \frac{4}{3} \rho r^3 = C_1 v_\mathrm{term} r,$$
 und damit
 $$ v_\mathrm{term}= \frac{4}{3} \frac{\rho}{C_1} r^2 \propto r^2.$$
+
 
 #### Druckreibung dominiert
 Für $v\gg v_\mathrm{krit}$ dominiert die Druckreibung, so dass
@@ -43,6 +45,9 @@ $$ mg = \frac{4}{3} \rho r^3 = C_2 v_\mathrm{term}^2 r^2,$$
 und damit
 $$ v_\mathrm{term} = \sqrt{\frac{4}{3} \frac{\rho}{C_2} r }\propto r^{1/2}.$$
 
+#### Numerisches Beispiel
+
+{{< gist dieterhorns a2c8edb5c0240c5a87ace94ff46d9d14.js >}}
 
 
 
