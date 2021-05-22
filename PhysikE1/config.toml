@@ -42,7 +42,7 @@ enableRobotsTXT = true
 
 [params.matomo]
  url = "https://piwik.uni-hamburg.de"
- id  =  "8f50e8e07f454a06a06a42be44bb97f2"
+ id  =  1
 
 [params.matomo.track]
  button = "Datenerhebung zulassen"
