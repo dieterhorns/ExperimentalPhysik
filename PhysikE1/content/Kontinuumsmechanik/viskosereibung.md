@@ -47,7 +47,7 @@ $$ v_\mathrm{term} = \sqrt{\frac{4}{3} \frac{\rho}{C_2} r }\propto r^{1/2}.$$
 
 #### Numerisches Beispiel
 
-{{< gist dieterhorns a2c8edb5c0240c5a87ace94ff46d9d14.js >}}
+{{< gist dieterhorns a2c8edb5c0240c5a87ace94ff46d9d14 >}}
 
 
 
