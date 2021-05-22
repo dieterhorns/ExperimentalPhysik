@@ -2,7 +2,7 @@ baseURL = "http://exp-physik.netlify.app/"
 languageCode = "de-de"
 title = "Experimentalphysik"
 # theme = "ananke"
-theme = "hugo-theme-learn"
+theme = [ "hugo-theme-learn", "matomo" ]
 resourceDir = "./resources"
 contentDir = "./content"
 SectionPagesMenu = "main"
@@ -39,6 +39,18 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+
+[params.matomo]
+ url = "https://piwik.uni-hamburg.de"
+ id  =  "8f50e8e07f454a06a06a42be44bb97f2"
+
+[params.matomo.track]
+ button = "Datenerhebung zulassen"
+ message = "Ihre Sitzungsdaten werden erhoben."
+[params.matomo.block]
+ button = "Datenerhebung blockieren"
+ message = "Ihre Sitzungsdaten werden nicht erhoben."
+
 
 [markup]
   defaultMarkdownHandler = "goldmark"

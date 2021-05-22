@@ -32,5 +32,7 @@ Wir wollen in den ersten beiden Semestern _zusammen_ die Grundlagen legen.
 Ich habe hier versucht, eine kompakte Darstellung der Themen und Inhalte 
 zu liefern. Alle Erklärungen sind kurz gehalten und auf wenige Details beschränkt.
 Kommen Sie in die Vorlesungen, gehen Sie in die Übungen und besuchen Sie 
-die Tutorien. 
+die Tutorien.
+
+Dann wird alles gut. 
 

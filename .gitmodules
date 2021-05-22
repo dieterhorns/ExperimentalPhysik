@@ -1,0 +1,3 @@
+[submodule "PhysikE1/themes/matomo"]
+	path = PhysikE1/themes/matomo
+	url = https://github.com/holehan/hugo-components-matomo.git
