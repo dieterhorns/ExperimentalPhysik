@@ -1,7 +1,7 @@
 ---
 title: "Druck"
 date: 2021-05-14T18:35:37+02:00
-weight: 19
+weight: 9
 ---
 ## Flüssigkeit
 Im Vergleich zu den elastischen Änderungen eines Festkörpers und der 

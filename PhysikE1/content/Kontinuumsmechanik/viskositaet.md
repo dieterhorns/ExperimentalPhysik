@@ -1,19 +1,21 @@
 ---
 title: "Viskosität"
 date: 2021-05-21T08:04:37+02:00
+weight: 21
 ---
-## Innere Reibung in Flüssigkeiten
+## Viskosität und innere Reibung in Flüssigkeiten
 Flüssigkeiten haften an Oberflächen (siehe auch Oberflächeneffekte). Es ist also eine Kraft nötig, um eine
 Oberfläche relativ zu einer Flüssigkeit bzw. eine Flüssigkeit relativ zu einer Oberfläche mit
 konstanter Geschwindigkeit zu bewegen. 
 Die nötige Kraft wird proportional zu der Größe der Oberfläche $A$ sein. Für unterschiedliche Flüssigkeiten
-ist aufgrund Stoffeigenschaften bzw. Bindungsenergien ein unterschiedliches Verhalten zu erwarten
-(Stoffkonstante **dynamische Viskosität** $\eta$). 
+ist aufgrund Stoffeigenschaften bzw. Bindungsenergien ein unterschiedliches Verhalten zu erwarten - wir charakterisieren
+die Zähigkeit der Flüssigkeit mit einer Stoffkonstante, die **dynamische Viskosität** $\eta$. 
 
-Innerhalb der Flüssigkeit können wir erwarten, dass die Molekülbindungen einer Relativbewegung von benachbarten 
+Innerhalb der Flüssigkeit können wir erwarten, dass die anziehenden Kräfte der Molekülbindungenl
+ einer Relativbewegung von benachbarten 
 Volumenelementen entgegenwirkt. Die Molekülbindungen sind bei Flüssigkeiten der
 wesentliche Grund für die __innere Reibung__. Es kommt hierbei also weniger auf die Geschwindigkeit an sondern vielmehr auf die
-Geschwindigkeitsänderung innerhalb des Fluids. Wir fassen zusammen:
+Geschwindigkeitsänderung innerhalb des Fluids. Wir fassen für die innere Reibungskraft $F$ zusammen:
 
 $$ F = \eta  A \left| \frac{dv}{dz}\right|,$$
 wobei $dv/dz$ die Änderung der Geschwindigkeit senkrecht zu der Fließbewegung ist. Die Stoffkonstante 
@@ -21,12 +23,20 @@ wobei $dv/dz$ die Änderung der Geschwindigkeit senkrecht zu der Fließbewegung 
 trägt die Einheit Pa~s. 
 
 Wir können die Kraft/Fläche auch als Scherspannung zusammenfassen und erhalten
+das __Newton'sche Reibungsgesetz__:
 $$ \tau = \frac{F}{A} = \eta \left| \frac{dv}{dz}\right|.$$
 Im einfachsten Fall einer _Newton'schen_ Flüssigkeit ist $\eta$ konstant. 
+Auf den ersten Blick scheint die Scherspannung $\tau$ bei Flüssigkeiten ähnlich wie bei der Verformung eines Festkörpers 
+zu wirken. Die wesentlichen Unterschiede sind jedoch:
+   * Festkörper: Die Scherspannung ist proportional zur Verformung (der Scherung).
+   * Flüssigkeit: Die Scherspannung ist proportional zum Geschwindigkeitsgefälle.
+   * Festkörper: Die Scherung ist elastisch, dh. ein Festkörper kehrt zurück in die ursprüngliche Form.
+   * Flüssigkeit: Die Verformung der Wassermoleküle ist nicht-elastisch.
 
-Die dynamische Viskosität wird in Flüssigkeiten von der Temperatur abhängen, weil hier die
-molekulare Bindungsenergie hauptsächlich die innere Reibung bedingt.  Mit zunehmender Temperatur sinkt
-die Bindungsenergie und die Viskosität wird mit zunehmender Temperatur sinken (Beispiel: Schmierfette, Olivenöl im Kühlschrank).  
+
+Die dynamische Viskosität ändert sich deutlich bei Änderungen der Temperatur, weil hier die
+molekulare Bindungsenergie hauptsächlich die innere Reibung bedingt.  Mit zunehmender Temperatur lockert sich die
+molekulare Bindung und die Viskosität wird mit zunehmender Temperatur sinken (Beispiel: Teer, Schmierfette, Olivenöl im Kühlschrank).  
 
 In Gasen ist die Viskosität deutlich kleiner 
 als in Flüssigkeiten und auf die Stöße der Gasatome untereinander zurückzuführen.  Mit zunehmender Temperatur wird der Impulsübertrag

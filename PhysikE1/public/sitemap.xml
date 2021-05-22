@@ -2,8 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://exp-physik.netlify.app/wellen/wellen/</loc>
+    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/wellen/wellengleichung/</loc>
+    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/wellen/reflexion/</loc>
+    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/elastisch/</loc>
+    <lastmod>2021-05-13T10:22:16+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</loc>
+    <lastmod>2021-05-14T18:35:37+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</loc>
+    <lastmod>2021-05-16T12:42:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/wellen/akustik/</loc>
+    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://exp-physik.netlify.app/schwingungen/schwingungen/</loc>
     <lastmod>2021-05-08T19:51:57+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/wellen/doppler/</loc>
+    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -22,38 +62,28 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/elastisch/</loc>
-    <lastmod>2021-05-13T10:22:16+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</loc>
-    <lastmod>2021-05-14T18:35:37+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/</loc>
-    <lastmod>2021-05-21T08:04:37+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/</loc>
-    <lastmod>2021-05-21T08:04:37+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/viskosit%C3%A4t/</loc>
-    <lastmod>2021-05-21T08:04:37+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://exp-physik.netlify.app/kontinuumsmechanik/stroemungen/</loc>
     <lastmod>2021-05-17T22:46:20+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</loc>
-    <lastmod>2021-05-16T12:42:17+02:00</lastmod>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/viskositaet/</loc>
+    <lastmod>2021-05-21T08:04:37+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/viskosereibung/</loc>
+    <lastmod>2021-05-21T18:58:18+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/</loc>
+    <lastmod>2021-05-21T18:58:18+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/</loc>
+    <lastmod>2021-05-21T18:58:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -62,32 +92,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://exp-physik.netlify.app/wellen/akustik/</loc>
-    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/wellen/doppler/</loc>
-    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/wellen/reflexion/</loc>
-    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://exp-physik.netlify.app/wellen/</loc>
-    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/wellen/wellen/</loc>
-    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/wellen/wellengleichung/</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

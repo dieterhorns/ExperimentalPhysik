@@ -2,7 +2,14 @@
 title: "Strömungen"
 date: 2021-05-17T22:46:20+02:00
 description: "dynamische Systeme"
+weight: 20
 ---
+Strömungen lassen sich gut beschreiben, wenn einige Bedingungen erfüllt sind:
+   1. Scherspannungen sind vernachlässigbar, dh. es gibt nur wenig __innere Reibung__.
+   2. Inkompressibilität (Dichte bleibt konstant).
+   3. Stationäre Strömung (d.h. Geschwindigkeit eines Volumenelementes ist nur vom Ort aber
+      nicht von der Zeit abhängig. 
+
 ## Kontinuität
 Wir betrachten jetzt ein dynamisches System: ein durchströmtes Rohr. Die Flüssigkeit sei ideal, also 
 reibungsfrei. Das Rohr habe am Anfang eine Querschnittsfläche $A_1$ und die (inkompressible) Flüssigkeit 
@@ -46,5 +53,10 @@ statischen Luftdruck festgedrückt.
 die Öffnung eines Gefäßes gelenkt. Hierbei wird durch eine Verengung die Strömung
 in einen kleineren Querschnitt geführt und dadurch die Geschwindigkeit erhöht.
 Der höhere äußere Druck drückt die Flüssigkeit in den Luftstrom. 
+
+## Anwendung: Prandtl'sches Staurohr
+
+[![this is my image](prandtl.png])({{< relref "prandtl.png" >}})
+
      
 

@@ -6,7 +6,80 @@
     <description>Recent content on Experimentalphysik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 21 May 2021 08:04:37 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 May 2021 18:58:18 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wellen</title>
+      <link>http://exp-physik.netlify.app/wellen/wellen/</link>
+      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/wellen/wellen/</guid>
+      <description>Allgemeine Wellen Aus der Beobachtung von Phänomenen in der Natur ist uns allen der Begriff der Welle vertraut. Wir kennen z.B. Wasserwellen und Seilwellen.
+Eine Welle breitet sich aus. Bei der Seilwelle können wir feststellen, dass die Auslenkung des Seils $\zeta$ mit zunehmender Zeit entlang des Seils fortschreitet, so dass $$ \zeta = \zeta(x,t)$$ eine Funktion der Position entlang des Seils $x$ und der Zeit $t$ ist. Wir erkennen aber auch, dass $x$ und $t$ nicht unabhängig voneinander sind.</description>
+    </item>
+    
+    <item>
+      <title>Wellengleichung</title>
+      <link>http://exp-physik.netlify.app/wellen/wellengleichung/</link>
+      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/wellen/wellengleichung/</guid>
+      <description>Wellengleichung Wir können die Seilwelle im Hinblick auf die zugrundeliegende Bewegungsgleichung für ein kleines Seilstück der Länge $\Delta x$ betrachten. Die Masse $m=\Delta x \mu$, wobei $\mu = \Delta m /\Delta x$ die Massenbelegung ist (wir nehmen an, dass die Massenbelegung konstant ist).
+Das Seil ist gespannt mit der Seilspannung $T$. Wenn das Seil ausgelenkt wird, erfährt das Seil eine Kraft in Richtung der Auslenkung $\Delta \zeta=\zeta(x+\Delta x)-\zeta(x)$ $$ \mu \Delta x \frac{\partial^2 \zeta}{\partial t^2} = - T \frac{\Delta \zeta}{\Delta x}.</description>
+    </item>
+    
+    <item>
+      <title>Reflexion und stehende Welle</title>
+      <link>http://exp-physik.netlify.app/wellen/reflexion/</link>
+      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/wellen/reflexion/</guid>
+      <description>Reflexion am Beispiel Seilwelle Wenn wir eine Seilwelle betrachten, die auf ein fixiertes Ende zuläuft, beobachten wir
+ eine reflektierte (zurücklaufende Welle) einen einlaufenden Wellenberg, der als Wellental (und umgekehrt) reflektiert wird. Wenn das Ende frei beweglich ist, beobachten wir, dass ein Wellenberg als Wellenberg reflektiert wird (bzw. ein Wellental als Wellental zurückläuft.  Wir sprechen im Falle eines festen Endes von einem Phasensprung um $\pi$ bei der Reflexion.
+Überlagerung der Wellen Die reflektierte Welle überlagert sich mit der einlaufenden Welle.</description>
+    </item>
+    
+    <item>
+      <title>Elastische Verformungen</title>
+      <link>http://exp-physik.netlify.app/kontinuumsmechanik/elastisch/</link>
+      <pubDate>Thu, 13 May 2021 10:22:16 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/elastisch/</guid>
+      <description>Zugspannung und Elastizitätsmodul Ein Festkörper mit Querschnittsfläche $A$ wird mit einer Kraft $F$ belastet, die senkrecht zur Oberfläche wirkt. Die Kraft pro Flächeneinheit wird Zugspannung $\sigma$ genannt: $$ \sigma = \frac{F}{A}.$$
+Die Zugspannung ist keine vektorielle Größe - wir betrachten nur die Kraft, die senkrecht auf der Oberfläche wirkt (die Komponente parallel zur Fläche erzeugt eine Schubspannung. .
+In Experimenten zeigt sich, dass z.B. ein Kupferdraht, an dem wir ein Gewicht befestigen seine Länge ändert.</description>
+    </item>
+    
+    <item>
+      <title>Druck</title>
+      <link>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</link>
+      <pubDate>Fri, 14 May 2021 18:35:37 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</guid>
+      <description>Flüssigkeit Im Vergleich zu den elastischen Änderungen eines Festkörpers und der Kompressibilität von Gasen, verhalten sich Flüssigkeiten deutlich anders:
+ Das Schermodul einer Flüssigkeit $G\approx 0$: Experimentell beobachten wir, dass die Flüssigkeit in einem rotierenden Gefäß eine Paraboloid-Form annimmt. Eine Flüssigkeit ist (nahezu) inkompressibel.  Statischer Druck Wenn wir mit einem Stempel eine Kraft $F$ senkrecht auf eine Oberfläche $A$ einer Flüssigkeit ausüben, entspricht das einem statischen Druck $p$: $$ p:= \frac{F}{A}.</description>
+    </item>
+    
+    <item>
+      <title>Auftrieb</title>
+      <link>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</link>
+      <pubDate>Sun, 16 May 2021 12:42:17 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</guid>
+      <description>Archimedes&amp;rsquo;sches Prinzip In einer ruhenden Flüssigkeit mit Massendichte $\rho$ bildet sich das hydrostatische Gleichgewicht aus, so dass bei einer Schwerebeschleunigung $g$ in z.B. der $z$-Richtung gilt:
+$$ \frac{dp}{dz} = - \rho g.$$
+In diesem Zustand gilt das Archimedes&amp;rsquo;sche Prinzip der Auftriebskraft:
+Wenn wir einen beliebig geformten Körper mit Volumen $V$ und mit mittlerer Massendichte $\rho_K$ vollständig in diese Flüssigkeit eintauchen, erfährt der Körper eine Auftriebskraft, die der Gewichtskraft des verdrängten Volumens der Flüssigkeit entspricht::</description>
+    </item>
+    
+    <item>
+      <title>Akustik</title>
+      <link>http://exp-physik.netlify.app/wellen/akustik/</link>
+      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/wellen/akustik/</guid>
+      <description>Exkurs Physik von Musikinstrumenten Saiteninstrumente Bei Saiteninstrumenten wird ein Ton durch Zupfen (z.B. Gitarre), Streichen (z.B. Violine) oder über Anschlagen (z.B. Hammerklavier) erzeugt. Der Prozess regt ein breites Spektrum von Frequenzen an. Bei einer gegebenen Saitenlänge $L$ werden jedoch bevorzugt die Wellenlängen angeregt, die einer stehenden Welle mit $\lambda=2L, L, 2/3 L$ etc. entsprechen (Grundtöne und Obertöne). Zwei Saiten der gleichen Länge $L$ können zu stehenden Wellen gleicher Wellenlänge angeregt werden, werden aber in der Regel unterschiedlich klingen, weil z.</description>
+    </item>
+    
     <item>
       <title>Schwingungen</title>
       <link>http://exp-physik.netlify.app/schwingungen/schwingungen/</link>
@@ -16,6 +89,18 @@
       <description>Allgemeine Definition Schwingungen sind alle Vorgänge, die periodisch ablaufen. Für eine eindimensionale Bewegung mit Periode $P$: $ x(t+P) = x(t).$
 Harmonische Schwingungen sind Schwingungen, die sich aus linearen Kraftgesetzen ergeben, wie z.B. das Hooke&amp;rsquo;sche Gesetz: \begin{equation} m\ddot{x} = -Dx. \end{equation}
 Beispiel Federpendel Für ein reibungsfreies Federpendel mit Ruhelage $x=0$ ergibt sich für die Lösung der Bewegungsgleichung $$ x(t) = \hat x \sin(\omega t+\varphi),$$ und damit für die Kreisfrequenz $\omega$: $$ \omega = \sqrt{\frac{D}{m}}.</description>
+    </item>
+    
+    <item>
+      <title>Dopplereffekt</title>
+      <link>http://exp-physik.netlify.app/wellen/doppler/</link>
+      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/wellen/doppler/</guid>
+      <description>Beobachtung des Doppler-Effekts Wir kennen das Phänomen einer scheinbaren Veränderung der Tonhöhe von z.B. dem Martinshorn der Feuerwehr bei relativer Bewegung von Sender und Empfänger zueinander. Wir betrachten im Folgenden den einfachsten Fall eines Senders und Empfängers die sich entlang der Verbindungslinie relativ zueinander bewegen.
+Wir nehmen weiterhin an, dass das Medium in Ruhe ist.
+Experiment: Bewegte Stimmgabel. Mikrofon. Plastikrohr.
+Bewegter Sender Die Frequenz $\nu$ und die Ausbreitungsgeschwindigkeit der Schallwelle $c$ des bewegten Senders (Geschwindigkeit $v$)</description>
     </item>
     
     <item>
@@ -46,107 +131,33 @@ Beispiel Federpendel Für ein reibungsfreies Federpendel mit Ruhelage $x=0$ ergi
     </item>
     
     <item>
-      <title>Elastische Verformungen</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/elastisch/</link>
-      <pubDate>Thu, 13 May 2021 10:22:16 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/elastisch/</guid>
-      <description>Zugspannung und Elastizitätsmodul Ein Festkörper mit Querschnittsfläche $A$ wird mit einer Kraft $F$ belastet, die senkrecht zur Oberfläche wirkt. Die Kraft pro Flächeneinheit wird Zugspannung $\sigma$ genannt: $$ \sigma = \frac{F}{A}.$$
-Die Zugspannung ist keine vektorielle Größe - wir betrachten nur die Kraft, die senkrecht auf der Oberfläche wirkt (die Komponente parallel zur Fläche erzeugt eine Schubspannung. .
-In Experimenten zeigt sich, dass z.B. ein Kupferdraht, an dem wir ein Gewicht befestigen seine Länge ändert.</description>
-    </item>
-    
-    <item>
-      <title>Druck</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</link>
-      <pubDate>Fri, 14 May 2021 18:35:37 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</guid>
-      <description>Flüssigkeit Im Vergleich zu den elastischen Änderungen eines Festkörpers und der Kompressibilität von Gasen, verhalten sich Flüssigkeiten deutlich anders:
- Das Schermodul einer Flüssigkeit $G\approx 0$: Experimentell beobachten wir, dass die Flüssigkeit in einem rotierenden Gefäß eine Paraboloid-Form annimmt. Eine Flüssigkeit ist (nahezu) inkompressibel.  Statischer Druck Wenn wir mit einem Stempel eine Kraft $F$ senkrecht auf eine Oberfläche $A$ einer Flüssigkeit ausüben, entspricht das einem statischen Druck $p$: $$ p:= \frac{F}{A}.</description>
-    </item>
-    
-    <item>
-      <title>Viskosität</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/viskosit%C3%A4t/</link>
-      <pubDate>Fri, 21 May 2021 08:04:37 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/viskosit%C3%A4t/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Strömungen</title>
       <link>http://exp-physik.netlify.app/kontinuumsmechanik/stroemungen/</link>
       <pubDate>Mon, 17 May 2021 22:46:20 +0200</pubDate>
       
       <guid>http://exp-physik.netlify.app/kontinuumsmechanik/stroemungen/</guid>
-      <description>Kontinuität Wir betrachten jetzt ein dynamisches System: ein durchströmtes Rohr. Die Flüssigkeit sei ideal, also reibungsfrei. Das Rohr habe am Anfang eine Querschnittsfläche $A_1$ und die (inkompressible) Flüssigkeit der Dichte $\rho$ durchströmt diesen Querschnitt mit der Geschwindigkeit $v_1$. Das Rohrende habe den Querschnitt $A_2$. Der Höhenunterschied der beiden Rohrenden sei $h$.
-Wir können davon ausgehen, dass die Flüssigkeitsmenge, die pro Zeiteinheit das Rohr durchströmt entlang des Rohres überall gleich sein muss.</description>
+      <description>Strömungen lassen sich gut beschreiben, wenn einige Bedingungen erfüllt sind:
+ Scherspannungen sind vernachlässigbar, dh. es gibt nur wenig innere Reibung. Inkompressibilität (Dichte bleibt konstant). Stationäre Strömung (d.h. Geschwindigkeit eines Volumenelementes ist nur vom Ort aber nicht von der Zeit abhängig.  Kontinuität Wir betrachten jetzt ein dynamisches System: ein durchströmtes Rohr. Die Flüssigkeit sei ideal, also reibungsfrei. Das Rohr habe am Anfang eine Querschnittsfläche $A_1$ und die (inkompressible) Flüssigkeit der Dichte $\rho$ durchströmt diesen Querschnitt mit der Geschwindigkeit $v_1$.</description>
     </item>
     
     <item>
-      <title>Auftrieb</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</link>
-      <pubDate>Sun, 16 May 2021 12:42:17 +0200</pubDate>
+      <title>Viskosität</title>
+      <link>http://exp-physik.netlify.app/kontinuumsmechanik/viskositaet/</link>
+      <pubDate>Fri, 21 May 2021 08:04:37 +0200</pubDate>
       
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</guid>
-      <description>Archimedes&amp;rsquo;sches Prinzip In einer ruhenden Flüssigkeit mit Massendichte $\rho$ bildet sich das hydrostatische Gleichgewicht aus, so dass bei einer Schwerebeschleunigung $g$ in z.B. der $z$-Richtung gilt:
-$$ \frac{dp}{dz} = - \rho g.$$
-In diesem Zustand gilt das Archimedes&amp;rsquo;sche Prinzip der Auftriebskraft:
-Wenn wir einen beliebig geformten Körper mit Volumen $V$ und mit mittlerer Massendichte $\rho_K$ vollständig in diese Flüssigkeit eintauchen, erfährt der Körper eine Auftriebskraft, die der Gewichtskraft des verdrängten Volumens der Flüssigkeit entspricht::</description>
+      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/viskositaet/</guid>
+      <description>Viskosität und innere Reibung in Flüssigkeiten Flüssigkeiten haften an Oberflächen (siehe auch Oberflächeneffekte). Es ist also eine Kraft nötig, um eine Oberfläche relativ zu einer Flüssigkeit bzw. eine Flüssigkeit relativ zu einer Oberfläche mit konstanter Geschwindigkeit zu bewegen. Die nötige Kraft wird proportional zu der Größe der Oberfläche $A$ sein. Für unterschiedliche Flüssigkeiten ist aufgrund Stoffeigenschaften bzw. Bindungsenergien ein unterschiedliches Verhalten zu erwarten - wir charakterisieren die Zähigkeit der Flüssigkeit mit einer Stoffkonstante, die dynamische Viskosität $\eta$.</description>
     </item>
     
     <item>
-      <title>Akustik</title>
-      <link>http://exp-physik.netlify.app/wellen/akustik/</link>
-      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
+      <title>Viskose Reibung</title>
+      <link>http://exp-physik.netlify.app/kontinuumsmechanik/viskosereibung/</link>
+      <pubDate>Fri, 21 May 2021 18:58:18 +0200</pubDate>
       
-      <guid>http://exp-physik.netlify.app/wellen/akustik/</guid>
-      <description>Exkurs Physik von Musikinstrumenten Saiteninstrumente Bei Saiteninstrumenten wird ein Ton durch Zupfen (z.B. Gitarre), Streichen (z.B. Violine) oder über Anschlagen (z.B. Hammerklavier) erzeugt. Der Prozess regt ein breites Spektrum von Frequenzen an. Bei einer gegebenen Saitenlänge $L$ werden jedoch bevorzugt die Wellenlängen angeregt, die einer stehenden Welle mit $\lambda=2L, L, 2/3 L$ etc. entsprechen (Grundtöne und Obertöne). Zwei Saiten der gleichen Länge $L$ können zu stehenden Wellen gleicher Wellenlänge angeregt werden, werden aber in der Regel unterschiedlich klingen, weil z.</description>
-    </item>
-    
-    <item>
-      <title>Dopplereffekt</title>
-      <link>http://exp-physik.netlify.app/wellen/doppler/</link>
-      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/wellen/doppler/</guid>
-      <description>Beobachtung des Doppler-Effekts Wir kennen das Phänomen einer scheinbaren Veränderung der Tonhöhe von z.B. dem Martinshorn der Feuerwehr bei relativer Bewegung von Sender und Empfänger zueinander. Wir betrachten im Folgenden den einfachsten Fall eines Senders und Empfängers die sich entlang der Verbindungslinie relativ zueinander bewegen.
-Wir nehmen weiterhin an, dass das Medium in Ruhe ist.
-Experiment: Bewegte Stimmgabel. Mikrofon. Plastikrohr.
-Bewegter Sender Die Frequenz $\nu$ und die Ausbreitungsgeschwindigkeit der Schallwelle $c$ des bewegten Senders (Geschwindigkeit $v$)</description>
-    </item>
-    
-    <item>
-      <title>Reflexion und stehende Welle</title>
-      <link>http://exp-physik.netlify.app/wellen/reflexion/</link>
-      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/wellen/reflexion/</guid>
-      <description>Reflexion am Beispiel Seilwelle Wenn wir eine Seilwelle betrachten, die auf ein fixiertes Ende zuläuft, beobachten wir
- eine reflektierte (zurücklaufende Welle) einen einlaufenden Wellenberg, der als Wellental (und umgekehrt) reflektiert wird. Wenn das Ende frei beweglich ist, beobachten wir, dass ein Wellenberg als Wellenberg reflektiert wird (bzw. ein Wellental als Wellental zurückläuft.  Wir sprechen im Falle eines festen Endes von einem Phasensprung um $\pi$ bei der Reflexion.
-Überlagerung der Wellen Die reflektierte Welle überlagert sich mit der einlaufenden Welle.</description>
-    </item>
-    
-    <item>
-      <title>Wellen</title>
-      <link>http://exp-physik.netlify.app/wellen/wellen/</link>
-      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/wellen/wellen/</guid>
-      <description>Allgemeine Wellen Aus der Beobachtung von Phänomenen in der Natur ist uns allen der Begriff der Welle vertraut. Wir kennen z.B. Wasserwellen und Seilwellen.
-Eine Welle breitet sich aus. Bei der Seilwelle können wir feststellen, dass die Auslenkung des Seils $\zeta$ mit zunehmender Zeit entlang des Seils fortschreitet, so dass $$ \zeta = \zeta(x,t)$$ eine Funktion der Position entlang des Seils $x$ und der Zeit $t$ ist. Wir erkennen aber auch, dass $x$ und $t$ nicht unabhängig voneinander sind.</description>
-    </item>
-    
-    <item>
-      <title>Wellengleichung</title>
-      <link>http://exp-physik.netlify.app/wellen/wellengleichung/</link>
-      <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/wellen/wellengleichung/</guid>
-      <description>Wellengleichung Wir können die Seilwelle im Hinblick auf die zugrundeliegende Bewegungsgleichung für ein kleines Seilstück der Länge $\Delta x$ betrachten. Die Masse $m=\Delta x \mu$, wobei $\mu = \Delta m /\Delta x$ die Massenbelegung ist (wir nehmen an, dass die Massenbelegung konstant ist).
-Das Seil ist gespannt mit der Seilspannung $T$. Wenn das Seil ausgelenkt wird, erfährt das Seil eine Kraft in Richtung der Auslenkung $\Delta \zeta=\zeta(x+\Delta x)-\zeta(x)$ $$ \mu \Delta x \frac{\partial^2 \zeta}{\partial t^2} = - T \frac{\Delta \zeta}{\Delta x}.</description>
+      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/viskosereibung/</guid>
+      <description>Reibungskräfte bei Bewegung in einer Flüssigkeit Ein Körper, der sich mit der Geschwindigkeit $\mathbf{v}$ durch eine Flüssigkeit bewegt, erfährt eine Reibungskraft der folgenden Form
+$$ \mathbf{F}_r = - (k_1 v + k_2 v^2) \mathbf{\hat{v}},$$ wobei $\mathbf{\hat{v}}$ der Einheitsvektor der Geschwindigkeit ist. Der erste Term repräsentiert den viskosen Widerstand und der zweite Term den Druckwiderstand (Wirbelwiderstand).
+Für den Spezialfall einer Kugel mit Radius $r$ ist $$ |\mathbf{F}_r| = C_1 r v + C_2 r^2 v^2,$$ wobei $C_1$ proportional zur Viskosität ist und $C_2$ proportional zu der Dichte des Mediums ist.</description>
     </item>
     
     <item>

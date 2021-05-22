@@ -1,6 +1,7 @@
 ---
 title: "Auftrieb"
 date: 2021-05-16T12:42:17+02:00
+weight: 10
 ---
 ## Archimedes'sches Prinzip
 In einer ruhenden Flüssigkeit mit Massendichte $\rho$ bildet sich 
