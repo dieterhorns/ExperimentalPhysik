@@ -1,7 +1,7 @@
 ---
 title: "Viskose Reibung"
 date: 2021-05-21T18:58:18+02:00
-weight: 22
+weight: 23
 ---
 ## Reibungskräfte bei Bewegung in einer Flüssigkeit 
 Ein Körper, der sich mit der Geschwindigkeit $\mathbf{v}$ durch eine Flüssigkeit bewegt, erfährt eine Reibungskraft der folgenden Form
@@ -46,6 +46,15 @@ und damit
 $$ v_\mathrm{term} = \sqrt{\frac{4}{3} \frac{\rho}{C_2} r }\propto r^{1/2}.$$
 
 #### Numerisches Beispiel
+Das numerische Beispiel können Sie via python notebook selbst ausführen
+und mit den Parametern spielen. 
+
+Versuchen Sie zum Beispiel folgende Frage zu lösen: Anstatt den Ball fallen zu
+lassen, werfen Sie den Ball senkrecht mit einer Geschwindigkeit $v_0$ nach oben. Vergleichen Sie
+die Zeit, die der Ball benötigt, um den höchsten Punkt zu erreichen mit der Zeit, die der Ball dann
+benötigt, um den Ausgangspunkt wieder zu erreichen? Fliegt der Ball länger/kürzer/gleich lang?
+
+Sie können das Problem auch durch Nachdenken lösen.
 
 {{< gist dieterhorns a2c8edb5c0240c5a87ace94ff46d9d14 >}}
 

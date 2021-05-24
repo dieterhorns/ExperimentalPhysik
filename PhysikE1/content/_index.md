@@ -4,14 +4,14 @@ Featured_image: "/images/Ingamozgas.jpg"
 description: "Mechanik.Wärmelehre.Elektrodynamik.Optik"
 chapter : true
 ---
-### Einleitung
+### Einladung
 
 Physik zu lernen ist ein Prozess, der mit Staunen anfängt und uns alle sehr
 beansprucht. Wenn Sie sich auf diesen Prozess einlassen, wird das Staunen nie richtig aufhören.
 # Wo die Reise anfängt
 Sie kennen Physik aus der Schule. Sie kennen viele Konzepte und Ideen der Physik. 
 Sie wissen, was eine Kraft ist und dass Energie erhalten ist. Sie haben
-auch schon von vielen Elementen der modernen Physik gehört - dem photoelektrischen
+auch schon von Aspekten der modernen Physik gehört - z.B. dem photoelektrischen
 Effekt, der speziellen Relativitätstheorie. 
 Sie wollen offensichtlich mehr dazu wissen.
 
@@ -22,7 +22,7 @@ einfachen und alltäglichen Phänomene sind gar nicht einfach zu erklären. Waru
 ein See von der Oberfläche her zu? Wie fliegt ein Flugzeug? 
 
 Und wenn Sie dann noch genauer hinschauen, stellen Sie fest, dass die 
-sehr anschaulichen Antworten von  Armin Maiwald (_Sendung mit der Maus_) 
+einige vermeintlich einfachen Antworten 
 zwar sehr überzeugend sind, aber noch lange nicht alles erklären. In einigen 
 Fällen ist die Antwort auch lange ausgeblieben: wie fliegt eigentlich eine Hummel?
 

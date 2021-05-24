@@ -1,7 +1,7 @@
 ---
 title: "Viskosität"
 date: 2021-05-21T08:04:37+02:00
-weight: 21
+weight: 22
 ---
 ## Viskosität und innere Reibung in Flüssigkeiten
 Flüssigkeiten haften an Oberflächen (siehe auch Oberflächeneffekte). Es ist also eine Kraft nötig, um eine
