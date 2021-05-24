@@ -1,7 +1,7 @@
 ---
 title: "Hagen-Poisseuille Gesetz"
 date: 2021-05-24T20:46:25+02:00
-weight: 23
+weight: 25
 ---
 ## Laminare, viskose Strömung im Rohr
 Eine Newton'sche Flüssigkeit mit dynamischer Viskosität $\eta$ durchströmt 
