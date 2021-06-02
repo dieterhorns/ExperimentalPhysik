@@ -1,7 +1,7 @@
 --- 
 title: Kontinuumsmechanik
 Featured_image: "/images/flow.jpg"
-weigth: 30
+weigth: 10
 ---
 Im Gegensatz zu ausgedehnten, starren Körpern, betrachten wir hier verformbare
 Objekte. Auch Festkörper haben elastische Eigenschaften und sind verformbar. 
