@@ -4,7 +4,7 @@ date: 2021-05-10T17:31:26+02:00
 weight: 11
 description: "Schwerependel"
 ---
-## Allgmeine Schwerependel
+## Allgemeine Schwerependel
 sind beliebig geformte starre Körper, die um eine fixierte Achse aufgrund des
 wirkenden Drehmoments periodische Schwingungen ausführen. Wir betrachten
 zunächst die Drehmomentsgleichung für einen Körper der Masse $m$, der am Punkt

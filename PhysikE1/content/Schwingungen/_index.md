@@ -4,7 +4,7 @@ Featured_image: "/images/Kiiking_11.jpg"
 weight: 1
 ---
 ## Zum Thema
-Das Phänomen der Schwingungen ist von zentraler Bedeutung für **alle* Bereiche
+Das Phänomen der Schwingungen ist von zentraler Bedeutung für *alle* Bereiche
 der Physik. Sei es die subnukleare Elementarteilchenphysik als auch Festkörperphysik bis hin 
 zu stellarar Astrophysik und Kosmologie. 
 

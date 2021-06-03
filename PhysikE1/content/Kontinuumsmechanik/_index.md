@@ -16,4 +16,5 @@ Erkennen von folgenden Konzepten
    * Energieerhaltung und Bernoulli-Gleichung
    * Laminare und Turbulente Strömungen
    * Dynamischer Auftrieb
+   * Turbulenter Strömungswiderstand
 
