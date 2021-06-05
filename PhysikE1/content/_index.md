@@ -22,8 +22,8 @@ einfachen und alltäglichen Phänomene sind gar nicht einfach zu erklären. Waru
 ein See von der Oberfläche her zu? Wie fliegt ein Flugzeug? 
 
 Und wenn Sie dann noch genauer hinschauen, stellen Sie fest, dass die 
-einige vermeintlich einfachen Antworten 
-zwar sehr überzeugend sind, aber noch lange nicht alles erklären. In einigen 
+vermeintlich einfachen Antworten 
+zwar sehr überzeugend scheinen, aber auch nicht alles erklären können. In einigen 
 Fällen ist die Antwort auch lange ausgeblieben: wie fliegt eigentlich eine Hummel?
 
 Wir wollen in den ersten beiden Semestern _zusammen_ die Grundlagen legen. 
