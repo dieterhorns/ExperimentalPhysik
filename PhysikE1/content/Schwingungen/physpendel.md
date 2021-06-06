@@ -64,6 +64,6 @@ $$ \ell_r = s+r.$$
 
 Im praktischen Versuch lässt sich durch Messung der Punkte $A$ und $B$ mit
 gleicher Periode durch den Abstand der beiden Punkte die reduzierte Pendellänge
-und damit die Schwerebeschleunigung messen ohne das Trägheitsmoment des Pendels zu
+und damit die Schwerebeschleunigung messen, ohne das Trägheitsmoment des Pendels zu
 kennen!
 

@@ -92,7 +92,8 @@ $$x(t) = x_0 e^{-\gamma t} \left( 1 + \left[\gamma + \frac{v_0}{x_0}\right]
 
  Der Grenzwert für $\delta\rightarrow 0$ ergibt sich aus der Regel von L'Hospital
 mit 
-$$\lim_{x\rightarrow x_0} \frac{f(x)}{g(x)} = \lim_{x\rightarrow x_0} \frac{f'(x)}{g'(x)}.$$
+$$\lim_{\delta\rightarrow 0} \frac{f(\delta)}{g(\delta)} = 
+   \lim_{\delta\rightarrow0 } \frac{f'(\delta)}{g'(\delta)}.$$
  Mit $f(\delta) = \exp(\delta~t)-\exp(-\delta~t)$ und 
     $f'(\delta)=t \exp(\delta~t) + t\exp(-\delta~t)$. 
     $g'(\delta)= 2$ ist $f'(\delta=0)/g'(\delta=0)= t$:
@@ -108,7 +109,7 @@ bis zu $10^{4}$ für elektrische Schwingkreise und Resonatoren.
 ### Beispiel
 Der $Q$-Faktor eines Fadenpendels lässt sich z.B. aus der Anzahl der Schwingungen
 abschätzen bis die Amplitude der Schwingung auf $x_0/e$ absinkt:
-$$A(t) = x_0 e^{-\gamma t} = x_0 e^{-\omega_0 t / (2 Q},$$
+$$A(t) = x_0 e^{-\gamma t} = x_0 e^{-\omega_0 t / (2 Q)},$$
 für 
 $$ \omega_0 t / (2Q) = 1$$
 bzw. für $\omega_0\approx \omega = 2\pi/P$ bei der Periode $P$ folgt 
