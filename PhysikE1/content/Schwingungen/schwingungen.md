@@ -31,17 +31,17 @@ erkennen in beiden Fällen ein _lineares Kraftegesetz_. Die Kreisfrequenz
 $$\omega = \sqrt{\frac{g}{\ell}}.$$
 
 ## Gedämpfte Schwingungen
-Die Reibungskraft $F_r = -k \dot{x}$ wirkt der Bewegungsrichtung entgegen und
+Die Reibungskraft $F_r = -b \dot{x}$ wirkt der Bewegungsrichtung entgegen und
 in dem hier betrachteten Fall der _Newton'schen Reibung_ ist die 
 Kraft proportional zur
 Geschwindigkeit. Zusammen mit dem linearen Kraftgesetz ergibt sich die Bewegungsgleichung eines _gedämpften harmonischen Oszillators_:
-$$ m\ddot x = -Dx - k \dot{x},$$
+$$ m\ddot x = -Dx - b \dot{x},$$
 die wir umstellen zur Normalform 
 $$ \ddot{x} + 2\gamma \dot{x} + \omega_0^2 x = 0,$$ 
 mit der Kreisfrequenz 
 $$\omega_0 = (D/m)^{1/2}$$ des ungedämpften Systems 
-und dem  Dämpfungsterm $$\gamma:= \frac{k}{2m}.$$
-Der Dämpfungsterm hat genau wie $\omega_0$ die Einheit einer Frequenz ($1/s$).
+und dem  Dämpfungsterm $$\gamma:= \frac{b}{2m}.$$
+Der Dämpfungsterm hat genau wie $\omega_0$ die Einheit $1/s$.
 
 Wir wollen jetzt untersuchen, wie die Lösungen dieser Differenzialgleichung aussehen.
 ### Lösungen für gedämpfte Schwingungen.
