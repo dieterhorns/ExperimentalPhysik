@@ -1,0 +1,25 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
+    &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+  </a>
+    <div>{{ partial "social-follow.html" . }}</div>
+  </div>
+  {{ partial "mathjax_support.html" . }}
+  {{ partial "matomo-tracking" . }}
+  <!-- Matomo -->
+	<script type="text/javascript">
+		  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+	      var u="https://www.piwik.uni-hamburg.de/";
+	      _paq.push(['setTrackerUrl', u+'matomo.php']);
+	      _paq.push(['setSiteId', '232']);
+	      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+	      g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+	    })();
+	</script>
+	<!-- End Matomo Code -->
+</footer>
