@@ -120,7 +120,7 @@ Hierzu betrachten wir
 $$ \omega^2 = \omega_0^2-\gamma^2 = \omega_0^2\left( 1 - \frac{\gamma^2}{\omega_0^2}\right) = \omega_0^2\left( 1-\frac{1}{4Q^2}\right).$$
 Als Reihe entwickelt $\sqrt{1-\epsilon^2} \approx 1-\frac{\epsilon^2}{2}$ ergibt sich für die relative Verschiebung der Frequenz:
 
-$$ \frac{\Delta \omega}{\omega_0} = 1-\frac{\omega}{\omega_0} = -\frac{1}{8Q^2}.$$
+$$ \frac{\Delta \omega}{\omega_0} = 1-\frac{\omega}{\omega_0} = \frac{1}{8Q^2}.$$
 Für einen Wert von $Q=10$ ist die relative Abweichung der Frequenz lediglich $0,1~$\%.
 
 ### Zum Nachdenken
