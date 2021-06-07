@@ -59,7 +59,7 @@ $$ 2(\omega_0^2-\omega_r^2)(-2\omega_r) + 8 \gamma^2\omega_r=0,$$
 mit der Lösung
 $$ \omega_r = \sqrt{\omega_0^2 - 2 \gamma^2}.$$
 
-Analyse der Resonanzkurve:
+## Analyse der Resonanzkurve:
    * Für ein Federpendel ist z.B. die Amplitude der Auslenkung $A$ über das
    Hooke'sche Gesetz mit der Amplitude der Kraft verknüpft: $|\hat F|=kA$, so dass
     $$ |\hat x| = \frac{\omega_0^2}{\sqrt{(\omega_0^2-\omega_A^2)^2+4\gamma^2\omega_A^2}}.$$
