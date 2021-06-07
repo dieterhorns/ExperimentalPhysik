@@ -60,9 +60,13 @@ mit der Lösung
 $$ \omega_r = \sqrt{\omega_0^2 - 2 \gamma^2}.$$
 
 Analyse der Resonanzkurve:
-   * $\omega_A \rightarrow 0$: $\varphi\rightarrow 0$, $|\hat x| = \frac{\hat F}{m\omega_0}$. 
+   * Für ein Federpendel ist z.B. die Amplitude der Auslenkung $A$ über das
+   Hooke'sche Gesetz mit der Amplitude der Kraft verknüpft: $|\hat F|=kA$, so dass
+    $$ |\hat x| = \frac{\omega_0^2}{\sqrt{(\omega_0^2-\omega_A^2)^2+4\gamma^2\omega_A^2}}.$$
+   * $\omega_A \rightarrow 0$: $\varphi\rightarrow 0$, $|\hat x| = A$. 
    * $\omega_A = \omega_r<\omega_0$: Resonanzamplitude 
-    $$|\hat x|_{r} = \frac{\hat F}{2m\gamma\sqrt{(\omega_0^2-\gamma^2)}}$$
+    $$|\hat x|_{r} = A\frac{\omega_0^2}{2\gamma\sqrt{(\omega_0^2-\gamma^2)}}\approx A \frac{\omega_0}{2\gamma} = A\cdot Q,$$
+    für $\gamma\ll \omega_0$.
    * (ohne Beweis): Die Amplitude fällt auf $|\hat x|_{r}/\sqrt{2}$ an
 den Grenzen des  Frequenzintervalls $\omega_r \pm \gamma$ ab. 
  Die resultierende Breite der Resonanz von $2\gamma$ wird
