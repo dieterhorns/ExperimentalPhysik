@@ -13,21 +13,21 @@ Die Analyse der Kräfte ist jedoch oft nicht nötig, um zum Beispiel
 die Periode eines Systems zu bestimmen. 
 
 ## Beispielhaft: Kugel auf Bahn
-Wenn wir eine Kugel auf einer bogenförmigen Bahn
-zum Rollen bringen, beobachten wir ein periodisches Hin- und 
-Herbewegen. Wenn wir die Periode ausrechnen wollen, merken wir recht schnell, dass
-das System auch in der Kleinwinkelnäherung nicht ganz einfach zu betrachten ist, weil
-es zur Überlagerung der Roll- und Translationsbewegung kommt. Wie können wir die 
+Wenn wir eine Kugel auf einer bogenförmigen Bahn zum Rollen bringen, beobachten
+wir ein periodisches Hin- und Herbewegen. Wenn wir die Periode ausrechnen
+wollen, merken wir recht schnell, dass das System auch in der
+Kleinwinkelnäherung nicht ganz einfach zu betrachten ist, weil es zur
+Überlagerung der Roll- und Translationsbewegung kommt. Wie können wir die
 Periode berechnen?
 
 ## Ansatz Energieerhaltung
-Wir können für das reibungsfreie System ansetzen, dass die Summe der kinetischen und potenziellen
-Energie zeitlich erhalten ist, also
+Wir können für das nahezu reibungsfreie System ansetzen, dass die Summe der
+kinetischen und potenziellen Energie zeitlich erhalten ist, also
 
 $$ \dot E_\mathrm{tot} = 0 = \dot E_\mathrm{kin} + \dot E_\mathrm{pot}.$$
-Wenn es uns gelingt, die Energie als Funktion der kinetischen Variablen aufzuschreiben, 
-erhalten wir dann die gesuchte Bewegungsgleichung mit dem Ansatz der Energieerhaltung ohne
-die Kräfte betrachten zu müssen.
+Wenn es uns gelingt, die Energie als Funktion der kinetischen Variablen
+aufzuschreiben, erhalten wir dann die gesuchte Bewegungsgleichung mit dem
+Ansatz der Energieerhaltung ohne die Kräfte betrachten zu müssen.
 
 ## Beispiel Schlitten auf Kreisbogen
 Wir nehmen an, dass ein reibungsfreier Schlitten der Masse $m$ (z.B. auf einer 
@@ -39,10 +39,10 @@ Punkt der Unterlage hin-und her schwingen.
 
 Wie groß ist die Periode dieser Schwingung?
 
-Wir betrachten die kinetische Energie (hier gibt es keine Rollbewegung) des Systems:
-$$ E_\mathrm{kin} = \frac{m}{2} v^2 = \frac{m}{2} (\dot \theta R)^2,$$
-wobei wir jetzt die Bahngeschwindigkeit $v= \dot\theta R$ ersetzen. Der Winkel $\theta$ sei der
-Auslenkungswinkel des Schlittens aus der Ruheposition.
+Wir betrachten die kinetische Energie (hier gibt es keine Rollbewegung) des
+Systems: $$ E_\mathrm{kin} = \frac{m}{2} v^2 = \frac{m}{2} (\dot \theta R)^2,$$
+wobei wir jetzt die Bahngeschwindigkeit $v= \dot\theta R$ ersetzen. Der Winkel
+$\theta$ sei der Auslenkungswinkel des Schlittens aus der Ruheposition.
 
 Die potenzielle Energie des Schlittens $E_\mathrm{pot}$ bei einer Auslenkung
 $\theta$ ergibt sich aus dem Höhenunterschied zur Ruheposition 
@@ -86,4 +86,17 @@ Für das Trägheitsmoment einer Vollkugel mit Masse $m$ und Radius $r$ gilt $I=2
 $$ E_\mathrm{kin} = \frac{m}{2} \dot \theta^2 R^2 + \frac{2/5~mr^2}{2} \frac{R^2}{r^2} \dot \theta^2.$$
 Wir kürzen und fassen Terme zusammen
 $$ E_\mathrm{kin} = \frac{m}{2} \dot \theta^2 R^2 \left(1 + \frac{2}{5}\right)= \frac{7}{5} \frac{m}{2} \dot \theta^2 R^2 .$$
+
+Für die Gesamtenergie in der Kleinwinkelnäherung ist demnach
+$$ E_\mathrm{tot} = mgR \frac{\theta^2}{2} + \frac{1}{2} \frac{7}{5} mR^2 \dot\theta^2.$$
+Wir bilden wieder die Ableitung nach der Zeit und nehmen an, dass $\dot E_\mathrm{tot} = 0$ gilt
+$$ 0 = mgR\dot\theta\theta + \frac{7}{5} mR^2 \ddot \theta \dot\theta,$$
+und damit
+$$ \ddot \theta = -\frac{5}{7} \frac{g}{R} \theta.$$
+Mit dem Ansatz $\theta(t) = \theta_0 \sin(\omega t + \varphi)$ ergibt sich für die 
+Kreisfrequenz
+$$\omega = \sqrt{\frac{5}{7} \frac{g}{R}}.$$
+Die Periode $P$:
+$$ P = 2\pi \sqrt{\frac{7}{5} \frac{R}{g}},$$
+also um einen Faktor $\sqrt{7/5}\approx 1.2$ größer als im Fall des Schlittens.
 
