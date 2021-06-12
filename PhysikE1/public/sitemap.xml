@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://exp-physik.netlify.app/schwingungen/</loc>
+    <lastmod>2021-05-25T08:51:47+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://exp-physik.netlify.app/wellen/wellen/</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,6 +22,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://exp-physik.netlify.app/wellen/</loc>
+    <lastmod>2021-06-12T21:11:49+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://exp-physik.netlify.app/kontinuumsmechanik/elastisch/</loc>
     <lastmod>2021-05-13T10:22:16+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -24,6 +34,11 @@
   </url><url>
     <loc>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</loc>
     <lastmod>2021-05-14T18:35:37+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/</loc>
+    <lastmod>2021-05-24T20:46:25+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -77,23 +92,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/hagenp/</loc>
+    <lastmod>2021-05-24T20:46:25+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://exp-physik.netlify.app/wellen/energie/</loc>
+    <lastmod>2021-06-12T21:11:49+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://exp-physik.netlify.app/</loc>
-    <lastmod>2021-05-21T18:58:18+02:00</lastmod>
+    <lastmod>2021-06-12T21:11:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/</loc>
-    <lastmod>2021-05-21T18:58:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/schwingungen/</loc>
-    <lastmod>2021-05-14T18:16:43+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://exp-physik.netlify.app/wellen/</loc>
-    <lastmod>2021-05-10T17:31:26+02:00</lastmod>
+    <loc>http://exp-physik.netlify.app/schwingungen/energiesatz/</loc>
+    <lastmod>2021-05-25T08:51:47+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

@@ -8,8 +8,9 @@ description: "Wellenphänomene"
 Aus der Beobachtung von Phänomenen in der Natur ist uns allen der
 Begriff der Welle vertraut. Wir kennen z.B. Wasserwellen und Seilwellen. 
 
-Eine Welle breitet sich aus. Bei der Seilwelle können wir feststellen, dass die
-Auslenkung des Seils $\zeta$ mit zunehmender Zeit 
+Im Unterschied zu einer Schwingung, breitet sich eine Welle im Raum aus. 
+Bei der Seilwelle können wir feststellen, dass die
+Auslenkung (_Elongation_)  des Seils $\zeta$ mit zunehmender Zeit 
 entlang des Seils fortschreitet, so dass 
 $$ \zeta = \zeta(x,t)$$
 eine Funktion der Position entlang des Seils $x$ und der Zeit $t$ ist. Wir
@@ -34,18 +35,18 @@ wir die Welle zu einem festen Zeitpunkt anschauen.
 
 An einem festen Ort oszilliert z.B. ein kleines Seilstück   mit einer Kreisfrequenz
 $$ \omega = k~v,$$
-Im einfachsten Fall ist die Geschwindigkeit 
+Im einfachsten Fall ist die Ausbreitungsgeschwindigkeit 
 $$v = \frac{\omega}{k} = \nu\lambda $$
 zeitlich und räumlich konstant ($\omega=2\pi \nu$). 
+
 Im allgemeinen ergeben sich jedoch 
 kompliziertere _Dispersionsrelationen_ wenn z.B. die Ausbreitungsgeschwindigkeit
-oder die Wellenlänge variieren.
-
+oder die Wellenlänge räumlich variieren.
 
    * Alle Funktionen $\zeta(x-vt)$ beschreiben eindimensionale Wellen, die sich
-entlang der positiven $x$-Richtung ausbreiten. 
+entlang der _positiven_ $x$-Richtung ausbreiten. 
    * Alle Funktionen $\zeta(x+vt)$ beschreiben eindimensionale Wellen, die sich 
-entlang der negativen $x$-Richtung ausbreiten.
+entlang der _negativen_ $x$-Richtung ausbreiten.
    * Die Funktion $\zeta(x)$ gibt hierbei die Form der Welle an.
    * Harmonische Wellen sind von der Form 
   $$\zeta(x,t)=\zeta_0 \sin(k(x\pm vt)) = \zeta_0 \sin(kx\pm\omega t).$$
