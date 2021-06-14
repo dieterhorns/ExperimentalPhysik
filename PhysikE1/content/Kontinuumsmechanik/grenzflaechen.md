@@ -17,13 +17,4 @@ einem Winkel von $45^\circ$ in die Flüssigkeit hineinzeigt. Dem überlagert
 sind die _Adhäsionskräfte_ zwischen Gefäßoberfläche und den Molekülen der
 Flüssigkeit. 
 
-<caption>
- Grenzfläche: Adhäsionskraft $F_a$ und Kohäsionskraft $F_k$ überlagern sich. Die
-Oberfläche richtet sich senkrecht zur resultierenden Kraft aus. Der Grenzwinkel ist $\varphi$<90^\circ$.
-für _benetzende_ Grenzfläche.
-</caption>
 ![benetzende Grenzschicht](/kontinuumsmechanik/images/benetzend.png)
-
-
-
-
