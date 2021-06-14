@@ -26,7 +26,7 @@ Die Ausbreitungsgeschwindigkeit $v$ einer Welle hängt von der Art der Welle ab:
 
    * Transversale Seilwelle (Spannung $T$, Längenmassendichte $\mu$):
      $$ v = \sqrt{\frac{T}{\mu}} = \sqrt{\frac{\sigma}{\rho}}.$$
-   * Schallwelle in idealem Gas (Adiabatenindex $\kappa$, Druck $\p$, 
+   * Schallwelle in idealem Gas (Adiabatenindex $\kappa$, Druck $p$, 
      Massendichte $\rho$):
      $$ v = \sqrt{\kappa \frac{p}{\rho}}$$
    * Transversalwellen in Festkörpern  mit Schermodul $G$:
@@ -37,5 +37,5 @@ Die Ausbreitungsgeschwindigkeit $v$ einer Welle hängt von der Art der Welle ab:
      $$ v = \sqrt{\frac{g\lambda}{2\pi} \tanh \left(\frac{2\pi d}{\lambda}\right)}$$
      mit den Näherungen $d\ll \lambda$:
      $$ v\approx \sqrt{g d}$$
-     und $d\gg \lambda$:
+     und $d\gg \lambda \rightarrow \tanh\rightarrow 1$:
      $$ v\approx \sqrt{\frac{ g\lambda}{2\pi}}.$$
