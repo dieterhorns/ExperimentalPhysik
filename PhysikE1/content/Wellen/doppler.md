@@ -47,6 +47,10 @@ $$c' = c + v$$
 und damit ist 
 $$\nu' = \frac{c'}{\lambda} = \frac{c+v}{\lambda} = \nu\left(1+\frac{v}{c}\right).$$
 
+## Allgemeiner Fall
+Im allgemeinen können sich sowohl Sender ${v}_S$ 
+als auch Empfänger bewegen ${v}_E$. 
+$$ \nu' = \nu \frac{1+v_S/c}{1-v_E/c}.$$
 ## Anwendungen
    * Dopplereffekt in der Medizin: Bei Ultraschalluntersuchungen kann die Frequenzverschiebung bei der Reflexion an z.B. Blut in Adern benutzt werden, um deren 
 Fließgeschwindigkeit zu bestimmen.
