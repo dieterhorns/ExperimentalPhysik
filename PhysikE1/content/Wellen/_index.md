@@ -5,12 +5,12 @@ weight: 8
 ---
 ## Überblick 
 ### Wellengleichung
-Lineare und ungedämpfte ein-dimensionale Wellen mit Elongation $\xi(x,t)$
+Lineare und ungedämpfte ein-dimensionale Wellen mit Elongation $\zeta(x,t)$
 sind Lösungen der _Wellengleichung_:
-$$ \frac{\partial^2 \xi}{\partial t^2} = v^2 \frac{\partial^2 \xi}{\partial x^2}.$$
+$$ \frac{\partial^2 \zeta}{\partial t^2} = v^2 \frac{\partial^2 \zeta}{\partial x^2}.$$
 
 Harmonische Wellen:
-$$ \xi(x,t) = \xi_m \cos (\omega t - kx + \varphi),$$
+$$ \zeta(x,t) = \zeta_m \cos (\omega t - kx + \varphi),$$
 mit der Wellenzahl 
 $$ k = \frac{2\pi}{\lambda},$$
 der Ausbreitungsgeschwindigkeit 
