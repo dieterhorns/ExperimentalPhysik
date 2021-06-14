@@ -25,7 +25,7 @@ sein. Transversale Wellen können linear oder elliptisch polarisiert sein.
 Die Ausbreitungsgeschwindigkeit $v$ einer Welle hängt von der Art der Welle ab:
 
    * Transversale Seilwelle (Spannung $T$, Längenmassendichte $\mu$):
-     $$ v = \sqrt{T}{\mu} = \sqrt{\frac{\sigma}{\rho}}.$$
+     $$ v = \sqrt{\frac{T}{\mu}} = \sqrt{\frac{\sigma}{\rho}}.$$
    * Schallwelle in idealem Gas (Adiabatenindex $\kappa$, Druck $\p$, 
      Massendichte $\rho$):
      $$ v = \sqrt{\kappa \frac{p}{\rho}}$$
