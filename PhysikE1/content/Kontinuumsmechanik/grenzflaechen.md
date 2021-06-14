@@ -18,3 +18,4 @@ sind die _Adhäsionskräfte_ zwischen Gefäßoberfläche und den Molekülen der
 Flüssigkeit. 
 
 ![benetzende Grenzschicht](/kontinuumsmechanik/images/benetzend.png)
+![nicht-benetzende Grenzschicht](/kontinuumsmechanik/images/nichtbenetzend.png)
