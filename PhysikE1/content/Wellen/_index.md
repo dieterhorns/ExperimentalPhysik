@@ -29,19 +29,13 @@ Die Ausbreitungsgeschwindigkeit $v$ einer Welle hängt von der Art der Welle ab:
    * Schallwelle in idealem Gas (Adiabatenindex $\kappa$, Druck $\p$, 
      Massendichte $\rho$):
      $$ v = \sqrt{\kappa \frac{p}{\rho}}$$
-   * Longitudinalwelle in dünnen Stäben mit 
-   [Elastizitätsmodul $E$]({{< ref="kontinuumsmechanik/elastisch" >}}):
-     $$ v = \sqrt{\frac{E}{\rho}.$$
-   * Transversalwellen in Festkörpern  mit
-   [Schermodul $G$]({{< ref="kontinuumsmechanik/elastisch" >}}):
+   * Transversalwellen in Festkörpern  mit Schermodul $G$:
      $$ v = \sqrt{\frac{G}{\rho}.$$
+   * Longitudinalwelle in dünnen Stäben mit Elastizitätsmodul $E$:
+     $$ v = \sqrt{\frac{E}{\rho}.$$
    * Schwerewellen Flüssigkeit (Tiefe $d$, Schwerebeschleunigung $g$):
      $$ v = \sqrt{\frac{g\lambda}{2\pi} \tanh \left(\frac{2\pi d}{\lambda}\right)}$$
      mit den Näherungen $d\ll \lambda$:
      $$ v\approx \sqrt{g d}$$
      und $d\gg \lambda$:
      $$ v\approx \sqrt{\frac{ g\lambda}{2\pi}}.$$
-     
-
-
-

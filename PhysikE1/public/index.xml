@@ -150,7 +150,7 @@ Bewegter Sender Die Frequenz $\nu$ und die Ausbreitungsgeschwindigkeit der Schal
     </item>
     
     <item>
-      <title>Viskose Reibung</title>
+      <title>Strömungswiderstand</title>
       <link>http://exp-physik.netlify.app/kontinuumsmechanik/viskosereibung/</link>
       <pubDate>Fri, 21 May 2021 18:58:18 +0200</pubDate>
       
@@ -172,13 +172,13 @@ Wir wollen jetzt bestimmen
     </item>
     
     <item>
-      <title>Energie</title>
+      <title>Energietransport</title>
       <link>http://exp-physik.netlify.app/wellen/energie/</link>
       <pubDate>Sat, 12 Jun 2021 21:11:49 +0200</pubDate>
       
       <guid>http://exp-physik.netlify.app/wellen/energie/</guid>
-      <description>Energiebetrachtung Eine Welle überträgt Energie. Bei der Seilwelle wird z.B. bei der Auslenkung eines Seilelements Arbeit geleistet. Bei der Rückkehr in die Ruheposition wird wiederum Arbeit an einem benachbarten Seilelement geleistet.
-Die rücktreibende Kraft beim Seil hatten wir bereits bei der Wellengleichung kennengelernt $$ F = -T \frac{\partial \zeta}{\partial x}.$$</description>
+      <description>Leistung Eine Welle überträgt Energie. Bei der Seilwelle wird z.B. bei der Auslenkung eines Seilelements Arbeit geleistet. Bei der Rückkehr in die Ruheposition wird wiederum Arbeit an einem benachbarten Seilelement geleistet.
+Die rücktreibende Kraft beim Seil hatten wir bereits bei der Wellengleichung kennengelernt $$ F = -T \frac{\partial \zeta}{\partial x}.$$ Die Rate, mit der Arbeit durch diese Kraft geleistet wird ergibt sich als Leistung aus $$ P= F v = -T \frac{\partial \zeta}{\partial x} \frac{\partial \zeta}{\partial t}.</description>
     </item>
     
     <item>
