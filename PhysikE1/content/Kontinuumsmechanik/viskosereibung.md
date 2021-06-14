@@ -1,5 +1,5 @@
 ---
-title: "Viskose Reibung"
+title: "Strömungswiderstand"
 date: 2021-05-21T18:58:18+02:00
 weight: 23
 ---

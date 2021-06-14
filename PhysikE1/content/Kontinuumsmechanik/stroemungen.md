@@ -5,7 +5,8 @@ description: "dynamische Systeme"
 weight: 20
 ---
 Strömungen lassen sich gut beschreiben, wenn einige Bedingungen erfüllt sind:
-   1. Scherspannungen sind vernachlässigbar, dh. es gibt nur wenig __innere Reibung__.
+   1. Scherspannungen sind vernachlässigbar, dh. es gibt nur wenig 
+   [innere Reibung]({{< ref "kontinuumsmechanik/viskositaet/" >}}).
    2. Inkompressibilität (Dichte bleibt konstant).
    3. Stationäre Strömung (d.h. Geschwindigkeit eines Volumenelementes ist nur vom Ort aber
       nicht von der Zeit abhängig. 
