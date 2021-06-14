@@ -1,6 +1,7 @@
 ---
 title: "Oberflächen"
 date: 2021-06-14T17:19:19+02:00
+weight: 26
 ---
 ## Oberflächenspannung
 An der Oberfläche (bzw. Grenzschicht) einer Flüssigkeit fehlen die benachbarten 

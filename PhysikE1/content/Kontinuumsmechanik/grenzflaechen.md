@@ -1,6 +1,7 @@
 ---
 title: "Grenzflächen"
 date: 2021-06-14T19:24:34+02:00
+weight: 28
 ---
 ## Kapillarität
 Zwischen zwei unterschiedlichen Materialien (z.B. Wasser und Glas) 
