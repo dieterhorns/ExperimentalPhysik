@@ -6,7 +6,7 @@
     <description>Recent content on Experimentalphysik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 12 Jun 2021 21:11:49 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jun 2021 19:24:34 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wellen</title>
       <link>http://exp-physik.netlify.app/wellen/wellen/</link>
@@ -169,6 +169,27 @@ Für den Spezialfall einer Kugel mit Radius $r$ ist $$ |\mathbf{F}_r| = C_1 r v 
       <description>Laminare, viskose Strömung im Rohr Eine Newton&amp;rsquo;sche Flüssigkeit mit dynamischer Viskosität $\eta$ durchströmt ein Rohr der Länge $L$ mit Radius $R$. Der Druckunterschied zwischen den beiden Rohrenden sei $\Delta p$ und die beiden Rohrenden befinden sich auf gleicher Höhe.
 Wir wollen jetzt bestimmen
  wie das Geschwindigkeitsprofil der Strömung im Rohr ausschaut und wie die Flüssigkeitsmenge pro Zeiteinheit von dem Rohrquerschnitt abhängt.  Die Strömung soll laminar (also wirbelfrei) und stationär sein (d.</description>
+    </item>
+    
+    <item>
+      <title>Grenzflächen</title>
+      <link>http://exp-physik.netlify.app/kontinuumsmechanik/grenzflaechen/</link>
+      <pubDate>Mon, 14 Jun 2021 19:24:34 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/grenzflaechen/</guid>
+      <description>Kapillarität Zwischen zwei unterschiedlichen Materialien (z.B. Wasser und Glas) bildet sich eine Grenzschicht. Tauchen wir einen Hohlzylinder aus Glas in eine Flüssigkeit, bildet sich ein Meniskus, dessen Form entweder
+ benetzend ist, d.h. der Grenzwinkel zwischen den beiden Oberflächen ist $0^\circ\le \phi\le 90^\circ$ oder nicht-benetzend ist, d.h. der Grenzwinkel ist $90^\circ&amp;lt; \phi&amp;lt; 180^\circ$.  Der Grenzwinkel ergibt sich aus der Überlagerung der Kohäsionskraft $\mathbf{F}_a$, die entlang der Randlinie der Flüssigkeit unter einem Winkel von $45^\circ$ in die Flüssigkeit hineinzeigt.</description>
+    </item>
+    
+    <item>
+      <title>Oberflächen</title>
+      <link>http://exp-physik.netlify.app/kontinuumsmechanik/oberflaechen/</link>
+      <pubDate>Mon, 14 Jun 2021 17:19:19 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/oberflaechen/</guid>
+      <description>Oberflächenspannung An der Oberfläche (bzw. Grenzschicht) einer Flüssigkeit fehlen die benachbarten Atome/Moleküle. Die Atome sind dort weniger stark gebunden. Um die Oberfläche zu vergrößern, muss die Bindungsenergie der entsprechenden neuen Oberflächenatome reduziert werden.
+Die Energie $\Delta W$ pro Fläche $\Delta A$ ist die Oberflächenergie $\epsilon$: $$ \epsilon = \frac{\Delta W}{\Delta A}.$$
+Die Kraft, die nötig ist, um die Oberflächenergie zu vergrößern (Experiment: Metallbügel der Seitenlänge $L$ in Seife eingetaucht) ergibt sich aus der Änderung der Oberfläche um $\Delta A$:</description>
     </item>
     
     <item>
