@@ -25,14 +25,14 @@ sein. Transversale Wellen können linear oder elliptisch polarisiert sein.
 Die Ausbreitungsgeschwindigkeit $v$ einer Welle hängt von der Art der Welle ab:
 
    * Transversale Seilwelle (Spannung $T$, Längenmassendichte $\mu$):
-     $$ v = \sqrt{T}{\mu} = \sqrt{\frac{\sigma}{\rho}.$$
+     $$ v = \sqrt{T}{\mu} = \sqrt{\frac{\sigma}{\rho}}.$$
    * Schallwelle in idealem Gas (Adiabatenindex $\kappa$, Druck $\p$, 
      Massendichte $\rho$):
      $$ v = \sqrt{\kappa \frac{p}{\rho}}$$
    * Transversalwellen in Festkörpern  mit Schermodul $G$:
-     $$ v = \sqrt{\frac{G}{\rho}.$$
+     $$ v = \sqrt{\frac{G}{\rho}}.$$
    * Longitudinalwelle in dünnen Stäben mit Elastizitätsmodul $E$:
-     $$ v = \sqrt{\frac{E}{\rho}.$$
+     $$ v = \sqrt{\frac{E}{\rho}}.$$
    * Schwerewellen Flüssigkeit (Tiefe $d$, Schwerebeschleunigung $g$):
      $$ v = \sqrt{\frac{g\lambda}{2\pi} \tanh \left(\frac{2\pi d}{\lambda}\right)}$$
      mit den Näherungen $d\ll \lambda$:
