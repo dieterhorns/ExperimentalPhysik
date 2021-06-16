@@ -27,7 +27,7 @@ typische Werte für $E$ an (je größer $E$, desto geringer ist die Längendehnu
 
 | Material | El.Modul $E$  | Streckgrenze | $\rho$       |  $v_s$              |  $\mu$ |
 |----------|---------------|--------------|--------------|---------------------|--------|
-|          | [GPa]         |  [MPa]       | [$10^3$ kg m$^{-3}$]| [km~s$^{-1}$ |        |
+|          | [GPa]         |  [MPa]       | [$10^3$ kg m$^{-3}$]| [km s$^{-1}]$ |        |
 | Kupfer   | 110           | 200          |  9           | 3,5                 | 0,35   |
 |Aluminium |  70           |  40          | 2,7          | 5,1                 | 0,35   |
 | Baustahl | 210           | 300          | 8            | 5,0                 | 0,28   |
