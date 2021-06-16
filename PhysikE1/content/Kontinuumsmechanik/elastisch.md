@@ -72,7 +72,7 @@ sogenannte _Streckgrenze_, ändert sich das Verhalten:
   *  die Ausdehnung $\Delta L$ ist nicht mehr linear  zur Zugspannung
   *  wenn wir die Zugspannung auf 0 reduzieren, bleibt $\Delta L>0$.
 Die übliche Konvention für die Streckgrenze ist eine Abweichung von 
-$\Delta L/L = 0,2~\%$. 
+$\Delta L/L = 0,002$. 
 
 Wenn die Zugspannung weiter anwächst, vergrößert sich die Länge nicht-linear bis
 die sogenannte Fließgrenze überschritten wird. Jetzt reicht schon eine reduzierte
