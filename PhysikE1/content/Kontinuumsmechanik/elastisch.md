@@ -95,7 +95,7 @@ dieser Eigenschaft können wir überhaupt einen Korken in eine Flasche drücken.
 
 
 
-## Kompressionsmodul $K$
+## Querkontraktion und Volumenänderung
 Für einen Körper mit einer Zugspannung $-\sigma$ in einer Richtung ergibt sich das neue Volumen zu
 
 $$ V' = (L+\Delta L) ( d + \Delta d)^2 \approx (L + \Delta L) d^2(1 + 2\frac{\Delta d}{d})\approx L d^2  ( 1 + \frac{\Delta L}{L} + 2 \frac{\Delta d}{d}),$$
