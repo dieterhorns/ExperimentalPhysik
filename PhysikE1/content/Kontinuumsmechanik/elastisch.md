@@ -79,7 +79,7 @@ die sogenannte Fließgrenze überschritten wird. Jetzt reicht schon eine reduzie
 Zugspannung aus, um den Körper weiter zu dehnen: es bildet sich  eine Einschnürung, so
 dass bei gleicher Kraft die Zugspannung an dieser Stelle zunimmt bis es zum Bruch kommt.
 
-Bei Federstahl kommt es bei einer relativen Längenänderung von etwa $6~\%$ zum Bruch. 
+Bei Federstahl kommt es bei einer relativen Längenänderung von etwa $0,06$ zum Bruch. 
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Spgs-Dehnungs-Kurve_Dehngrenze.svg/480px-Spgs-Dehnungs-Kurve_Dehngrenze.svg.png" caption="Abbildung Wikipedia, schematisches Diagramm mit Zugspannung $\sigma$ vs. rel. Längenänderung $\epsilon=\Delta L/L$" link="https://de.wikipedia.org/wiki/Elastizit%C3%A4tsgrenze#Flie%C3%9Fgrenze">}}
 
