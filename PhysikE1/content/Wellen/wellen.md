@@ -53,7 +53,7 @@ entlang der _negativen_ $x$-Richtung ausbreiten.
    * Wellen lassen sich als Überlagerung von harmonischen 
 Wellen darstellen
   $$ \zeta(x,t) = \sum_i \zeta_i \sin(k_ix - \omega t).$$
-   * Die Auslenkung der Seilwelle ist ein Beispiel für eine *transversale* Welle (Schwingungsrichtung senkrecht zur Ausbreitungsrichtung)
+   * Die Auslenkung der Seilwelle ist ein Beispiel einer *transversalen* Welle (Schwingungsrichtung senkrecht zur Ausbreitungsrichtung)
    * Die Dichteänderung von Schallwellen ist ein Beispiel für 
      eine *longitudinale* Welle (Schwingungsrichtung parallel zur Ausbreitungsrichtung)
    * Wellen, die  sich in Richtung des Wellenvektors  
