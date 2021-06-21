@@ -35,7 +35,7 @@ Zusätzlich müssen wir berücksichtigen, dass ein vorhandener Druck $p_1$ bzw. 
 anliegt, der Arbeit an der Flüssigkeit verrichtet $p dV = dW$. Wir dürfen verlangen, dass die Energie erhalten bleibt, die
 Summe der drei Komponenten (Druck, kinetische Energie, potenzielle Energie  - jeweils pro Volumeneinheit) konstant sein muss:
 
-$$ p_1 + \frac{rho}{2} v_1^2 + \rho g h_1 = p_2 \frac{rho}{2} v_2^2 + \rho g (h_1 + h).$$ 
+$$ p_1 + \frac{\rho}{2} v_1^2 + \rho g h_1 = p_2 + \frac{\rho}{2} v_2^2 + \rho g (h_1 + h).$$ 
 
 Diese Gleichung ist als _Bernoulli-Gleichung_ bekannt. 
 
