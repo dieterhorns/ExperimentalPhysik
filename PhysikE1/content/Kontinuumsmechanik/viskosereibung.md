@@ -34,16 +34,16 @@ kinetische Energie haben).
 
 #### Viskoser Widerstand dominiert
 Für $v\ll v_\mathrm{krit}$ dominiert der viskose Reibungsterm, so dass
-$$ mg = \frac{4}{3} \rho r^3 = C_1 v_\mathrm{term} r,$$
+$$ mg = \frac{4\pi}{3} \rho r^3 = C_1 v_\mathrm{term} r,$$
 und damit
-$$ v_\mathrm{term}= \frac{4}{3} \frac{\rho}{C_1} r^2 \propto r^2.$$
+$$ v_\mathrm{term}= \frac{4\pi}{3} \frac{\rho}{C_1} r^2 \propto r^2.$$
 
 
 #### Druckreibung dominiert
 Für $v\gg v_\mathrm{krit}$ dominiert die Druckreibung, so dass
 $$ mg = \frac{4}{3} \rho r^3 = C_2 v_\mathrm{term}^2 r^2,$$
 und damit
-$$ v_\mathrm{term} = \sqrt{\frac{4}{3} \frac{\rho}{C_2} r }\propto r^{1/2}.$$
+$$ v_\mathrm{term} = \sqrt{\frac{4\pi}{3} \frac{\rho}{C_2} r }\propto r^{1/2}.$$
 
 #### Numerisches Beispiel
 Das numerische Beispiel können Sie via python notebook selbst ausführen
