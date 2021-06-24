@@ -41,7 +41,7 @@ Die Ausdehnung findet bei isotropen Festkörpern in alle Raumdimensionen statt, 
 $$ V(T+\Delta T) = V (1+\alpha \Delta T)^3 \approx V (1+3\alpha \Delta T) = V (1+\gamma \Delta T)$$
 mit $\gamma = 3\alpha$  ergibt.
 
-Die Werte von $\alpha$ (in Einheiten K$^←-1}$) liegen bei Metallen bei etwa $\alpha\approx 1\ldots 3\times 10^{-5}$ K$^{-1}$. 
+Die Werte von $\alpha$ (in Einheiten K$^{-1}$) liegen bei Metallen bei etwa $\alpha\approx 1\ldots 3\times 10^{-5}$ K$^{-1}$. 
 Spezielle Legierungen wie z.B. Invar (Eisen-Nickel Legierung, entdeckt von Charles Guillaume, Nobelpreis der Physik 1920) haben 
 einen deutlich reduzierten Wärmeausdehnungskoeffizienten von $\alpha \approx 2\times 10^{-6}~$K$^{-1}$. 
 
