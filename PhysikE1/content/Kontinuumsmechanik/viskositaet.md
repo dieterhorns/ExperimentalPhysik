@@ -67,9 +67,7 @@ Eigenschaft, dass bei großer Schergeschwindigkeit $\dot \gamma=dv/dz$
 die Viskosität deutlich größer ist als bei kleinen Schergeschwindigkeiten 
 (dilatantes Fluid). Eine Bingham-Flüssigkeit fängt erst oberhalb einer
 bestimmten Scherspannung $\tau$ an zu fließen (Beispiel: Ketchup, Wandfarbe, Hefeteig).
-{{<figure src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Scherspannung_Nichtnewtonscher_Fluide_linear.png?classes=shadow&width=600px" 
-   caption="Unterschiedliche dynamische Viskositäten als Funktion der 
-   Schergeschwindigkeit $\dot \gamma=dv/dz$ (Abb.: Dietmar Haba)">}}
+{{<figure src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Scherspannung_Nichtnewtonscher_Fluide_linear.png?classes=shadow&width=600px" caption="Unterschiedliche dynamische Viskositäten als Funktion der Schergeschwindigkeit $\dot \gamma=dv/dz$ (Abb.: Dietmar Haba)">}}
 
 ### Beispiel für eine nicht-Newton'sche Flüssigkeit für zu Hause
 Rühren Sie etwas feine Maisstärke (zum Binden von Saucen) mit Wasser an. Sie werden merken, dass sie bei langsamen Rührbewegungen
