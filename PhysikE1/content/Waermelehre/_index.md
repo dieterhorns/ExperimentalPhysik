@@ -1,5 +1,5 @@
 ---
-title: "Waermelehre"
+title: "Wärmelehre"
 date: 2021-06-24T19:00:03+02:00
 ---
 
