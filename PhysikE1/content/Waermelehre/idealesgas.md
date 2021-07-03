@@ -58,7 +58,9 @@ dass $p(0) = p_0=1~\mathrm{atm}$ und $p(h)$ der gesuchte Druck in der Höhe $h$ 
 $$\int\limits_{p_0}^{p(h)} \frac{d\tilde p}{\tilde p} = -\frac{mg}{RT} \int\limits_{0}^h dz.$$
 $$ \ln \frac{p(h)}{p_0} = -\frac{mg}{RT} h,$$
 ergibt 
-$$ p(h) = p_0 \exp\left( -\frac{h}{h_0} \right),$$
+$$ p(h) = p_0 \exp\left( -\frac{h}{h_0} \right)$$
+bzw.
+$$ \rho(h)= \rho_0 \exp\left( -\frac{h}{h_0} \right)$$
 mit 
 $$ \frac{1}{h_0} = \frac{mg}{RT}.$$
 Wir nehmen für die Atmosphäre die Normalbedingung an und eine Zusammensetzung $80~\\%$ Stickstoff ($N_2$) und 
@@ -68,3 +70,13 @@ Damit wird die exponentielle Abklinglänge
 $$ h_0 \approx 8038~\mathrm{m},$$
 also in etwa die Höhe der höchsten Berge und in etwa der Höhe der Troposphäre ($h=10~\mathrm{km}$).
 
+Wir können die barometrische Höhenformel auch energetisch interpretieren: Das Verhältnis der potenziellen Energie $mgh$ zu der mittleren
+kinetischen Energie $RT$ pro mol:
+
+$$ \rho(h) = \rho_o \exp\left( -\frac{mgh}{RT}\right),$$
+diese Gleichgewichtsverteilung der Teilchenzahlen in den verschiedenen Energiezuständen (hier die potenzielle Energie) bei einer
+gegebenen Temperatur ist ein spezielles Beispiel der **Boltzmann-Verteilung**  für die Anzahldichte der Energiezustände 
+$$ n_i = \mathrm{const.} \exp\left( -\frac{E_i}{kT} \right),$$
+bzw. für das Verhältnis
+$$ \frac{n_i}{n_j} = \frac{g_i}{g_j} \exp\left(-\frac{E_i-E_j}{kT}\right).$$
+Die Faktoren $g_i$, $g_j$ sind statistische Gewichte, die ein Maß dafür sind, wie viele möglichen Zustände mit der jeweiligen Energie $E_i$, $E_j$ existieren.

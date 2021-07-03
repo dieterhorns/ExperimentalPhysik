@@ -55,6 +55,20 @@ Weiterhin zeigen Quartz (0,4 ppm/K), Pyrex (3 ppm/K) und Marmor (2 ppm/K) gering
 
 
 ## Quecksilberthermometer
+Eine einfache Anordnung zur Temperaturmessung besteht aus einem Reservoir für eine Flüssigkeit, die über den zu messenden Temperaturbereich keinen
+Phasenübergang macht. Ein Quecksilberthermometer besteht z.B. aus einer Glaskanüle mit einem geringen Radius $r$ und einem Reservoir mit Fassungsvermögen $V$.
+Bei Erhöhung der Temperatur um $\Delta T$  dehnt sich das umgebende Material aus z.B. Pyrex nur wenig aus. Die Volumenänderung des Quecksilbers ergibt sich zu
+$$ \Delta V = \gamma V \Delta T = \Delta h \pi r^2,$$
+so dass das Quecksilber in der Kanüle um die Höhe $h$ aufsteigt:
+$$ \Delta h = \gamma \Delta T \frac{V}{\pi r^2}.$$
+Durch geeignete Wahl von $V/r^2$ lässt sich erreichen, dass die Steighöhe 
+$$\frac{\Delta h}{\Delta T} = \gamma \frac{V}{\pi r^2}$$
+eine sehr präzise Ablesegenauigkeit erlaubt. 
 
 
 ## Bimetallthermometer
+Eine weitere sehr einfache Anordnung zur Bestimmung von Temperatur ist ein zweilagiges Blech aus Materialien mit möglichst großem Unterschied der
+linearen Expansionskoeffizienten. Bei Erwärmung des Bimetalls krümmt sich das Blech. Hierdurch lassen sich sehr einfach __Thermostate__ realisieren. 
+Das Bimetall kann durch die Biegung z.B. elektrische Stromkreise bei Erwärmung Schließen oder Öffnen. Bei Gasheizungen bleibt das Gasventil der Pilotflamme
+geöffnet, solange die Pilotflamme das mit einem Bimetall versehene Ventil aufheizt. Erlischt die Pilotflamme wird durch das automatische Schließen des
+Ventils die Gaszufuhr unterbrochen.

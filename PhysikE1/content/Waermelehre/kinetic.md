@@ -70,4 +70,19 @@ so dass sich bei der Integration
 $$ \int dN = 4\pi \int\limits_0^\infty dv v^2 N_0 e^{-\frac{mv^2}{2kT}}  = n N_A$$
 die Gesamtzahl der Teilchen für ein Gas aus $N=nN_A$ Molekülen ergibt.
 
+## Boltzmann-Verteilung 
+Wir können die (massenabhängige) Geschwindigkeitsverteilung auch in eine Verteilung der kinetischen Energie umschreiben. 
+Mit 
+$$ E_\mathrm{kin} = \frac{m}{2} v^2 = \frac{3}{2} kT,$$
+ist 
+$$\frac{dE_\mathrm{kin}}{dv} = mv\qquad dE_\mathrm{kin} = mv dv,$$
+so dass 
+$$ dN =  n N_A \frac{2}{\sqrt{\pi}} \left( \frac{1}{kT}\right)^{3/2} \sqrt{E_\mathrm{kin}} \exp\left( -\frac{E_\mathrm{kin}}{kT}\right) dE_\mathrm{kin}.$$
+Wenn wir das Verhältnis der Moleküle mit Energie $E_\mathrm{kin}>E_0$ zu allen Molekülen $nN_A$ anschauen, integrieren wir die
+Verteilungsfunktion der kinetischen Energie auf und erhalten 
+$$ \frac{N(E_\mathrm{kin}>E_0)}{nN_A} = \frac{2}{\sqrt{\pi}} \sqrt{\frac{E_0}{kT}} \exp\left(-\frac{E_0}{kT}\right).$$
+Diese charakteristische Reduktion der Anzahl der Moleküle mit einem exponentiellen Term $\exp(-E/kT)$ ist ein Beispiel der __Boltzmann-Verteilung__
+für Gleichgewichtszustände.
+
+
 
