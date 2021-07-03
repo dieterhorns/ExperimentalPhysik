@@ -6,7 +6,7 @@
     <description>Recent content on Experimentalphysik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 14 Jun 2021 19:24:34 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 16:29:13 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wellen</title>
       <link>http://exp-physik.netlify.app/wellen/wellen/</link>
@@ -131,6 +131,26 @@ Bewegter Sender Die Frequenz $\nu$ und die Ausbreitungsgeschwindigkeit der Schal
     </item>
     
     <item>
+      <title>Temperatur</title>
+      <link>http://exp-physik.netlify.app/waermelehre/temperatur/</link>
+      <pubDate>Thu, 24 Jun 2021 19:03:17 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/waermelehre/temperatur/</guid>
+      <description>Temperaturmessung Die Wahrnehmung von warm und kalt ist durch die Nerven in der Haut möglich (Thermozeption). Sogenannte Kälterezeptoren erzeugen bei gleichbleibender Temperatur eine konstante Rate von Nervenpulsen (10-40 Pulse/s), die bei Änderung der Temperatur wechselt. Bei sehr hohen Temperaturen kommt ein Schmerzempfinden hinzu.
+Die Messung einer Temperatur (Thermometrie) beruht auf temperaturabhängige Effekte:
+ rel. Längenänderung $\Delta L/L\propto \Delta T$, rel. Volumenänderung $\Delta V/V \propto \Delta T$, Schallgeschwindigkeit in einem Gas $\propto \sqrt{T}$, Änderung des Brechungsindex in einem Gas, Johnson-Rauschen der Leitungselektronen, Doppler-Verbreiterung von spektralen Linien, Änderung der Leitfähigkeit für elektrischen Strom in Leitern.</description>
+    </item>
+    
+    <item>
+      <title>Kinetische Gastheorie</title>
+      <link>http://exp-physik.netlify.app/waermelehre/kinetic/</link>
+      <pubDate>Thu, 24 Jun 2021 20:48:15 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/waermelehre/kinetic/</guid>
+      <description>Kinetische Gastheorie Die Zustandsgrößen Druck ($p$) und Temperatur ($T$) haben wir bislang makroskopisch definiert ohne dabei über einen Zusammenhang zu den zugrundeliegenden mikroskopischen Eigenschaften des Gases nachzudenken. Wir können einen unmittelbaren Zusammenhang herstellen, indem wir für das ideale Gas annehmen, dass es aus Molekülen (bzw. Atomen) besteht, die untereinander und mit der Wand elastisch stoßen können. Die Ausdehnung der Moleküle kann zunächst vernachlässigt werden. Da es keine weiteren Austauschkräfte zwischen den Molekülen im idealen Gas gibt, kann es auch keine Phasenübergänge geben.</description>
+    </item>
+    
+    <item>
       <title>Strömungen</title>
       <link>http://exp-physik.netlify.app/kontinuumsmechanik/stroemungen/</link>
       <pubDate>Mon, 17 May 2021 22:46:20 +0200</pubDate>
@@ -161,6 +181,16 @@ Für den Spezialfall einer Kugel mit Radius $r$ ist $$ |\mathbf{F}_r| = C_1 r v 
     </item>
     
     <item>
+      <title>Ideales Gas</title>
+      <link>http://exp-physik.netlify.app/waermelehre/idealesgas/</link>
+      <pubDate>Sun, 27 Jun 2021 15:45:37 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/waermelehre/idealesgas/</guid>
+      <description>Zustandsgrößen Das ideale Gas wird mit drei Zustandsgrößen beschrieben: $p$, $V$, $T$ mit dem Zusammenhang der Zustandsgleichung: \begin{equation} pV = N k_B T, \end{equation} wobei $N$ die Anzahl der Moleküle im Gas sind und $k_B$ die Boltzmannkonstante $$ k_B = 1,38\times 10^{-24} \frac{J}{K}.$$
+Stoffmengen Die Anzahl der Moleküle (immer synonym zu Atomen zu verstehen) in einem Gas lässt sich auch als Zahl der Mole $n$ angeben mit der Avogadro-Konstante $N_A$: $$ N_A = 6,022 \times 10^{23} \frac{\mathrm{g}}{\mathrm{u}~\mathrm{mol}}.</description>
+    </item>
+    
+    <item>
       <title>Hagen-Poisseuille Gesetz</title>
       <link>http://exp-physik.netlify.app/kontinuumsmechanik/hagenp/</link>
       <pubDate>Mon, 24 May 2021 20:46:25 +0200</pubDate>
@@ -172,16 +202,6 @@ Wir wollen jetzt bestimmen
     </item>
     
     <item>
-      <title>Grenzflächen</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/grenzflaechen/</link>
-      <pubDate>Mon, 14 Jun 2021 19:24:34 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/grenzflaechen/</guid>
-      <description>Kapillarität Zwischen zwei unterschiedlichen Materialien (z.B. Wasser und Glas) bildet sich eine Grenzschicht. Tauchen wir einen Hohlzylinder aus Glas in eine Flüssigkeit, bildet sich ein Meniskus, dessen Form entweder
- benetzend ist, d.h. der Grenzwinkel zwischen den beiden Oberflächen ist $0^\circ\le \phi\le 90^\circ$ oder nicht-benetzend ist, d.h. der Grenzwinkel ist $90^\circ&amp;lt; \phi&amp;lt; 180^\circ$.  Der Grenzwinkel ergibt sich aus der Überlagerung der Kohäsionskraft $\mathbf{F}_a$, die entlang der Randlinie der Flüssigkeit unter einem Winkel von $45^\circ$ in die Flüssigkeit hineinzeigt.</description>
-    </item>
-    
-    <item>
       <title>Oberflächen</title>
       <link>http://exp-physik.netlify.app/kontinuumsmechanik/oberflaechen/</link>
       <pubDate>Mon, 14 Jun 2021 17:19:19 +0200</pubDate>
@@ -190,6 +210,26 @@ Wir wollen jetzt bestimmen
       <description>Oberflächenspannung An der Oberfläche (bzw. Grenzschicht) einer Flüssigkeit fehlen die benachbarten Atome/Moleküle. Die Atome sind dort weniger stark gebunden. Um die Oberfläche zu vergrößern, muss die Bindungsenergie der entsprechenden neuen Oberflächenatome reduziert werden.
 Die Energie $\Delta W$ pro Fläche $\Delta A$ ist die Oberflächenergie $\epsilon$: $$ \epsilon = \frac{\Delta W}{\Delta A}.$$
 Die Kraft, die nötig ist, um die Oberflächenergie zu vergrößern (Experiment: Metallbügel der Seitenlänge $L$ in Seife eingetaucht) ergibt sich aus der Änderung der Oberfläche um $\Delta A$:</description>
+    </item>
+    
+    <item>
+      <title>Zustandsänderung</title>
+      <link>http://exp-physik.netlify.app/waermelehre/zustandsaenderung/</link>
+      <pubDate>Sun, 27 Jun 2021 16:29:13 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/waermelehre/zustandsaenderung/</guid>
+      <description>$pV$-Diagramm Wir betrachten die Zustandsänderungen in einem $pV$-Diagramm. Zunächst unterscheiden wir drei unterschiedliche Prozessführungen
+ Isotherme Zustandsänderung $T$ ist konstant Isobare Zustandsänderung $p$ ist konstant Isochore Zustandsänderung $V$ ist konstant.  Isotherme Zustandsänderung Wir starten bei $p_0$, $V_0$ und verändern das Volumen durch einen Kolben bis wir den Endpunkt $p_1, V_1$ erreichen. Die Temperatur $T_a$ bleibt konstant (durch Austausch von Wärme mit der Umgebung). Mit Messung des Drucks $p$ bestätigen wir das Boyle-Mariotte&amp;rsquo;sche Gesetz, dass bei konstanter Temperatur $pV$ konstant bleibt.</description>
+    </item>
+    
+    <item>
+      <title>Grenzflächen</title>
+      <link>http://exp-physik.netlify.app/kontinuumsmechanik/grenzflaechen/</link>
+      <pubDate>Mon, 14 Jun 2021 19:24:34 +0200</pubDate>
+      
+      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/grenzflaechen/</guid>
+      <description>Kapillarität Zwischen zwei unterschiedlichen Materialien (z.B. Wasser und Glas) bildet sich eine Grenzschicht. Tauchen wir einen Hohlzylinder aus Glas in eine Flüssigkeit, bildet sich ein Meniskus, dessen Form entweder
+ benetzend ist, d.h. der Grenzwinkel zwischen den beiden Oberflächen ist $0^\circ\le \phi\le 90^\circ$ oder nicht-benetzend ist, d.h. der Grenzwinkel ist $90^\circ&amp;lt; \phi&amp;lt; 180^\circ$.  Der Grenzwinkel ergibt sich aus der Überlagerung der Kohäsionskraft $\mathbf{F}_a$, die entlang der Randlinie der Flüssigkeit unter einem Winkel von $45^\circ$ in die Flüssigkeit hineinzeigt.</description>
     </item>
     
     <item>

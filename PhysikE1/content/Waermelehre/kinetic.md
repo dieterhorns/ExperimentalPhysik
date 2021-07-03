@@ -47,15 +47,27 @@ $$ \langle E_\mathrm{kin} \rangle = \frac{m}{2} \langle v^2\rangle = \frac{3}{2}
       Freiheitsgrade $f=3$ für die drei Raumrichtungen. Weitere Freiheitsgrade ergeben sich z.B. durch Anregung 
       von Rotationsbewegungen oder auch elastischen Schwingungen bei mehratomigen Molekülen.
    3. Bei Gasen mit unterschiedlichen Molekülen ist die mittlere kinetische Energie für alle Sorten identisch.
-      Aufgrund der unterschiedlichen Masse sind die Geschwindigkeiten entsprechend unterschiedlich!
-
+      Aufgrund der unterschiedlichen Masse sind die Geschwindigkeiten jedoch entsprechend unterschiedlich!
+   4. Thermodynamisches Gleichgewicht bzw. gleiche Temperaturen entspricht Gleichheit der kinetischen Energie.
+      
 
 ## Geschwindigkeitsverteilung
 Bei einer gegebenen Temperatur $T$ und Masse der Moleküle $m$ ist die mittlere quadratische Geschwindigkeit
 $$ \langle v^2 \rangle = \frac{3 k T }{m},$$
 bzw. die Quadratwurzel hieraus (_root mean square_ oder _RMS_):
 $$ \sqrt{\langle v^2\rangle } = \sqrt{\frac{3 k T}{m}}.$$
+
+Die mittlere Geschwindigkeit ist 
 Wie sieht jedoch die Verteilung der Geschwindigkeiten aus?
 
-Ohne Ableitung ergibt sich die **Maxwell-Boltzmann Geschwindigkeitsverteilung**:
+Ohne Ableitung ergibt sich die **Maxwell-Boltzmann Geschwindigkeitsverteilung** für ein isotropes Gas (alle
+Richtungen sind gleich wahrscheinlich):
+
+$$ dN = N_0 4\pi v^2 dv e^{-\frac{mv^2}{2 kT}}, $$
+mit der Normierung  
+$$ N_0 = n~N_A \left(\frac{m}{2\pi kT}\right)^{3/2},$$
+so dass sich bei der Integration 
+$$ \int dN = 4\pi \int\limits_0^\infty dv v^2 N_0 e^{-\frac{mv^2}{2kT}}  = n N_A$$
+die Gesamtzahl der Teilchen für ein Gas aus $N=nN_A$ Molekülen ergibt.
+
 
