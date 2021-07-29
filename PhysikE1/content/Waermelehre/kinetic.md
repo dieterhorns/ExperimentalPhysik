@@ -81,7 +81,7 @@ $$ dN =  n N_A \frac{2}{\sqrt{\pi}} \left( \frac{1}{kT}\right)^{3/2} \sqrt{E_\ma
 Wenn wir das Verhältnis der Moleküle mit Energie $E_\mathrm{kin}>E_0$ zu allen Molekülen $nN_A$ anschauen, integrieren wir die
 Verteilungsfunktion der kinetischen Energie auf und erhalten 
 $$ \frac{N(E_\mathrm{kin}>E_0)}{nN_A} = \frac{2}{\sqrt{\pi}} \sqrt{\frac{E_0}{kT}} \exp\left(-\frac{E_0}{kT}\right).$$
-Diese charakteristische Reduktion der Anzahl der Moleküle mit einem exponentiellen Term $\exp(-E/kT)$ ist ein Beispiel der __Boltzmann-Verteilung__
+Diese charakteristische Reduktion der Anzahl der Moleküle mit einem exponentiellen Term $\exp(-E/kT)$ ist ein Beispiel der **Boltzmann-Verteilung**
 für Gleichgewichtszustände.
 
 

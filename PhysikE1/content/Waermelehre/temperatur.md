@@ -51,12 +51,14 @@ Die Werte von $\alpha$ (in Einheiten K$^{-1}$) liegen bei Metallen bei etwa $\al
 Spezielle Legierungen wie z.B. Invar (Eisen-Nickel Legierung, entdeckt von Charles Guillaume, Nobelpreis der Physik 1920) haben 
 einen deutlich reduzierten Wärmeausdehnungskoeffizienten von $\alpha \approx 2\times 10^{-6}~$K$^{-1}$. 
 
-Weiterhin zeigen Quartz (0,4 ppm/K), Pyrex (3 ppm/K) und Marmor (2 ppm/K) geringe Wärmeausdehnungskoeffizienten. 
+Weiterhin zeigen Quartz (0,4 ppm/K), Pyrex (3 ppm/K) und Marmor (2 ppm/K) geringe Wärmeausdehnungskoeffizienten. Spezielle Borosilikat Glaskeramiken
+können noch deutlich geringere Ausdehnungskoeffizienten haben und eignen sich 
+als Material für die Hauptspiegel großer Teleskope (Zerodur: $\alpha < 0,01~\mathrm{ppm/K}$).
 
 
 ## Quecksilberthermometer
 Eine einfache Anordnung zur Temperaturmessung besteht aus einem Reservoir für eine Flüssigkeit, die über den zu messenden Temperaturbereich keinen
-Phasenübergang macht. Ein Quecksilberthermometer besteht z.B. aus einer Glaskanüle mit einem geringen Radius $r$ und einem Reservoir mit Fassungsvermögen $V$.
+Phasenübergang macht. Ein Quecksilberthermometer besteht z.B. aus einer Glaskanüle mit einem geringen Innenradius $r$ und einem Reservoir mit Fassungsvermögen $V$.
 Bei Erhöhung der Temperatur um $\Delta T$  dehnt sich das umgebende Material aus z.B. Pyrex nur wenig aus. Die Volumenänderung des Quecksilbers ergibt sich zu
 $$ \Delta V = \gamma V \Delta T = \Delta h \pi r^2,$$
 so dass das Quecksilber in der Kanüle um die Höhe $h$ aufsteigt:
