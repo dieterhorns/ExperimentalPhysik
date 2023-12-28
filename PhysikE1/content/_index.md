@@ -18,13 +18,13 @@ Sie wollen offensichtlich mehr dazu wissen.
 # Wo die Reise hingeht
 In den ersten beiden Semestern lernen Sie Grundlagen der Experimentalphysik. Dazu
 gehören natürlich auch Experimente. Schauen Sie genau hin. Die meisten, scheinbar
-einfachen und alltäglichen Phänomene sind gar nicht einfach zu erklären. Warum friert
+einfachen und alltäglichen, Phänomene sind gar nicht einfach zu erklären. Warum friert
 ein See von der Oberfläche her zu? Wie fliegt ein Flugzeug? 
 
 Und wenn Sie dann noch genauer hinschauen, stellen Sie fest, dass die 
 vermeintlich einfachen Antworten 
 zwar sehr überzeugend scheinen, aber auch nicht alles erklären können. In einigen 
-Fällen ist die Antwort auch lange ausgeblieben: wie fliegt eigentlich eine Hummel?
+Fällen ist die Antwort auch lange ausgeblieben: Wie fliegt eigentlich eine Hummel?
 
 Wir wollen in den ersten beiden Semestern _zusammen_ die Grundlagen legen. 
 
