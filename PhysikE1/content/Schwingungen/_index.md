@@ -1,7 +1,7 @@
 ---
 title: Schwingungen
 Featured_image: "/images/Kiiking_11.jpg"
-weight: 1
+weight: 20
 ---
 ## Zum Thema
 Das Phänomen der Schwingungen ist von zentraler Bedeutung für *alle* Bereiche

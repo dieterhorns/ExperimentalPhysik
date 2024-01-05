@@ -1,7 +1,7 @@
 ---
 title: Wellen
 Featured_image: "/images/battle_rope.jpg"
-weight: 8
+weight: 30
 ---
 ## Überblick 
 ### Wellengleichung
