@@ -2,266 +2,193 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experimentalphysik</title>
-    <link>http://exp-physik.netlify.app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Experimentalphysik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 27 Jun 2021 16:29:13 +0200</lastBuildDate><atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jul 2021 21:12:04 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wellen</title>
-      <link>http://exp-physik.netlify.app/wellen/wellen/</link>
+      <link>http://localhost:1313/wellen/wellen/</link>
       <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/wellen/wellen/</guid>
-      <description>Allgemeine Wellen Aus der Beobachtung von Phänomenen in der Natur ist uns allen der Begriff der Welle vertraut. Wir kennen z.B. Wasserwellen und Seilwellen.
-Im Unterschied zu einer Schwingung, breitet sich eine Welle im Raum aus. Bei der Seilwelle können wir feststellen, dass die Auslenkung (Elongation) des Seils $\zeta$ mit zunehmender Zeit entlang des Seils fortschreitet, so dass $$ \zeta = \zeta(x,t)$$ eine Funktion der Position entlang des Seils $x$ und der Zeit $t$ ist.</description>
+      <guid>http://localhost:1313/wellen/wellen/</guid>
+      <description>Allgemeine Wellen Aus der Beobachtung von Phänomenen in der Natur ist uns allen der Begriff der Welle vertraut. Wir kennen z.B. Wasserwellen und Seilwellen.&#xA;Im Unterschied zu einer Schwingung, breitet sich eine Welle im Raum aus. Bei der Seilwelle können wir feststellen, dass die Auslenkung (Elongation) des Seils $\zeta$ mit zunehmender Zeit entlang des Seils fortschreitet, so dass $$ \zeta = \zeta(x,t)$$ eine Funktion der Position entlang des Seils $x$ und der Zeit $t$ ist.</description>
     </item>
-    
     <item>
       <title>Wellengleichung</title>
-      <link>http://exp-physik.netlify.app/wellen/wellengleichung/</link>
+      <link>http://localhost:1313/wellen/wellengleichung/</link>
       <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/wellen/wellengleichung/</guid>
-      <description>Wellengleichung Wir können die Seilwelle im Hinblick auf die zugrundeliegende Bewegungsgleichung für ein kleines Seilstück der Länge $\Delta x$ betrachten. Die Masse $m=\Delta x \mu$, wobei $\mu = \Delta m /\Delta x$ die Massenbelegung ist (wir nehmen an, dass die Massenbelegung konstant ist).
-Das Seil ist gespannt mit der Seilspannung $T$. Wenn das Seil ausgelenkt wird, erfährt das Seil eine Kraft in Richtung der Auslenkung $\Delta \zeta=\zeta(x+\Delta x)-\zeta(x)$ $$ \mu \Delta x \frac{\partial^2 \zeta}{\partial t^2} = - T \frac{\Delta \zeta}{\Delta x}.</description>
+      <guid>http://localhost:1313/wellen/wellengleichung/</guid>
+      <description>Wellengleichung Wir können die Seilwelle im Hinblick auf die zugrundeliegende Bewegungsgleichung für ein kleines Seilstück der Länge $\Delta x$ betrachten. Die Masse $m=\Delta x \mu$, wobei $\mu = \Delta m /\Delta x$ die Massenbelegung ist (wir nehmen an, dass die Massenbelegung konstant ist).&#xA;Das Seil ist gespannt mit der Seilspannung $T$. Wenn das Seil ausgelenkt wird, erfährt das Seil eine Kraft in Richtung der Auslenkung $\Delta \zeta=\zeta(x+\Delta x)-\zeta(x)$ $$ \mu \Delta x \frac{\partial^2 \zeta}{\partial t^2} = - T \frac{\Delta \zeta}{\Delta x}.</description>
     </item>
-    
     <item>
       <title>Reflexion und stehende Welle</title>
-      <link>http://exp-physik.netlify.app/wellen/reflexion/</link>
+      <link>http://localhost:1313/wellen/reflexion/</link>
       <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/wellen/reflexion/</guid>
-      <description>Reflexion am Beispiel Seilwelle Wenn wir eine Seilwelle betrachten, die auf ein fixiertes Ende zuläuft, beobachten wir
- eine reflektierte (zurücklaufende Welle) einen einlaufenden Wellenberg, der als Wellental (und umgekehrt) reflektiert wird. Wenn das Ende frei beweglich ist, beobachten wir, dass ein Wellenberg als Wellenberg reflektiert wird (bzw. ein Wellental als Wellental zurückläuft.  Wir sprechen im Falle eines festen Endes von einem Phasensprung um $\pi$ bei der Reflexion.
-Überlagerung der Wellen Die reflektierte Welle überlagert sich mit der einlaufenden Welle.</description>
+      <guid>http://localhost:1313/wellen/reflexion/</guid>
+      <description>Reflexion am Beispiel Seilwelle Wenn wir eine Seilwelle betrachten, die auf ein fixiertes Ende zuläuft, beobachten wir&#xA;eine reflektierte (zurücklaufende Welle) einen einlaufenden Wellenberg, der als Wellental (und umgekehrt) reflektiert wird. Wenn das Ende frei beweglich ist, beobachten wir, dass ein Wellenberg als Wellenberg reflektiert wird (bzw. ein Wellental als Wellental zurückläuft. Wir sprechen im Falle eines festen Endes von einem Phasensprung um $\pi$ bei der Reflexion.&#xA;Überlagerung der Wellen Die reflektierte Welle überlagert sich mit der einlaufenden Welle.</description>
     </item>
-    
     <item>
       <title>Elastische Verformungen</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/elastisch/</link>
+      <link>http://localhost:1313/kontinuumsmechanik/elastisch/</link>
       <pubDate>Thu, 13 May 2021 10:22:16 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/elastisch/</guid>
-      <description>Zugspannung und Elastizitätsmodul Ein Festkörper mit Querschnittsfläche $A$ wird mit einer Kraft $F$ belastet, die senkrecht zur Oberfläche wirkt. Die Kraft pro Flächeneinheit wird Zugspannung $\sigma$ genannt: $$ \sigma = \frac{F}{A}.$$
-Die Zugspannung ist keine vektorielle Größe - wir betrachten nur die Kraft, die senkrecht auf der Oberfläche wirkt (die Komponente parallel zur Fläche erzeugt eine Schubspannung. .
-In Experimenten zeigt sich, dass z.B. ein Kupferdraht, an dem wir ein Gewicht befestigen seine Länge ändert.</description>
+      <guid>http://localhost:1313/kontinuumsmechanik/elastisch/</guid>
+      <description>Zugspannung und Elastizitätsmodul Ein Festkörper mit Querschnittsfläche $A$ wird mit einer Kraft $F$ belastet, die senkrecht zur Oberfläche wirkt. Die Kraft pro Flächeneinheit wird Zugspannung $\sigma$ genannt: $$ \sigma = \frac{F}{A}.$$&#xA;Die Zugspannung ist keine vektorielle Größe - wir betrachten nur die Kraft, die senkrecht auf der Oberfläche wirkt (die Komponente parallel zur Fläche erzeugt eine Schubspannung. .&#xA;In Experimenten zeigt sich, dass z.B. ein Kupferdraht, an dem wir ein Gewicht befestigen seine Länge ändert.</description>
     </item>
-    
     <item>
       <title>Druck</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</link>
+      <link>http://localhost:1313/kontinuumsmechanik/druck/</link>
       <pubDate>Fri, 14 May 2021 18:35:37 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/druck/</guid>
-      <description>Flüssigkeit Im Vergleich zu den elastischen Änderungen eines Festkörpers und der Kompressibilität von Gasen, verhalten sich Flüssigkeiten deutlich anders:
- Das Schermodul einer Flüssigkeit $G\approx 0$: Experimentell beobachten wir, dass die Flüssigkeit in einem rotierenden Gefäß eine Paraboloid-Form annimmt. Eine Flüssigkeit ist (nahezu) inkompressibel.  Statischer Druck Wenn wir mit einem Stempel eine Kraft $F$ senkrecht auf eine Oberfläche $A$ einer Flüssigkeit ausüben, entspricht das einem statischen Druck $p$: $$ p:= \frac{F}{A}.</description>
+      <guid>http://localhost:1313/kontinuumsmechanik/druck/</guid>
+      <description>Flüssigkeit Im Vergleich zu den elastischen Änderungen eines Festkörpers und der Kompressibilität von Gasen, verhalten sich Flüssigkeiten deutlich anders:&#xA;Das Schermodul einer Flüssigkeit $G\approx 0$: Experimentell beobachten wir, dass die Flüssigkeit in einem rotierenden Gefäß eine Paraboloid-Form annimmt. Eine Flüssigkeit ist (nahezu) inkompressibel. Statischer Druck Wenn wir mit einem Stempel eine Kraft $F$ senkrecht auf eine Oberfläche $A$ einer Flüssigkeit ausüben, entspricht das einem statischen Druck $p$: $$ p:= \frac{F}{A}.$$ Die Kraft ist hier keine vektorielle Größe, weil es sich immer um die Normalkomponente der Kraft handelt.</description>
     </item>
-    
     <item>
       <title>Auftrieb</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</link>
+      <link>http://localhost:1313/kontinuumsmechanik/auftrieb/</link>
       <pubDate>Sun, 16 May 2021 12:42:17 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/</guid>
-      <description>Archimedes&amp;rsquo;sches Prinzip In einer ruhenden Flüssigkeit mit Massendichte $\rho$ bildet sich das hydrostatische Gleichgewicht aus, so dass bei einer Schwerebeschleunigung $g$ in z.B. der $z$-Richtung gilt:
-$$ \frac{dp}{dz} = - \rho g.$$
-In diesem Zustand gilt das Archimedes&amp;rsquo;sche Prinzip der Auftriebskraft:
-Wenn wir einen beliebig geformten Körper mit Volumen $V$ und mit mittlerer Massendichte $\rho_K$ vollständig in diese Flüssigkeit eintauchen, erfährt der Körper eine Auftriebskraft, die der Gewichtskraft des verdrängten Volumens der Flüssigkeit entspricht::</description>
+      <guid>http://localhost:1313/kontinuumsmechanik/auftrieb/</guid>
+      <description>Archimedes&amp;rsquo;sches Prinzip In einer ruhenden Flüssigkeit mit Massendichte $\rho$ bildet sich das hydrostatische Gleichgewicht aus, so dass bei einer Schwerebeschleunigung $g$ in z.B. der $z$-Richtung gilt:&#xA;$$ \frac{dp}{dz} = - \rho g.$$&#xA;In diesem Zustand gilt das Archimedes&amp;rsquo;sche Prinzip der Auftriebskraft:&#xA;Wenn wir einen beliebig geformten Körper mit Volumen $V$ und mit mittlerer Massendichte $\rho_K$ vollständig in diese Flüssigkeit eintauchen, erfährt der Körper eine Auftriebskraft, die der Gewichtskraft des verdrängten Volumens der Flüssigkeit entspricht::</description>
     </item>
-    
     <item>
       <title>Akustik</title>
-      <link>http://exp-physik.netlify.app/wellen/akustik/</link>
+      <link>http://localhost:1313/wellen/akustik/</link>
       <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/wellen/akustik/</guid>
+      <guid>http://localhost:1313/wellen/akustik/</guid>
       <description>Exkurs Physik von Musikinstrumenten Saiteninstrumente Bei Saiteninstrumenten wird ein Ton durch Zupfen (z.B. Gitarre), Streichen (z.B. Violine) oder über Anschlagen (z.B. Hammerklavier) erzeugt. Der Prozess regt ein breites Spektrum von Frequenzen an. Bei einer gegebenen Saitenlänge $L$ werden jedoch bevorzugt die Wellenlängen angeregt, die einer stehenden Welle mit $\lambda=2L, L, 2/3 L$ etc. entsprechen (Grundtöne und Obertöne). Zwei Saiten der gleichen Länge $L$ können zu stehenden Wellen gleicher Wellenlänge angeregt werden, werden aber in der Regel unterschiedlich klingen, weil z.</description>
     </item>
-    
     <item>
       <title>Schwingungen</title>
-      <link>http://exp-physik.netlify.app/schwingungen/schwingungen/</link>
+      <link>http://localhost:1313/schwingungen/schwingungen/</link>
       <pubDate>Sat, 08 May 2021 19:51:57 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/schwingungen/schwingungen/</guid>
-      <description>Allgemeine Definition Schwingungen sind alle Vorgänge, die periodisch ablaufen. Für eine eindimensionale Bewegung mit Periode $P$: $ x(t+P) = x(t).$
-Harmonische Schwingungen sind Schwingungen, die sich aus linearen Kraftgesetzen ergeben, wie z.B. das Hooke&amp;rsquo;sche Gesetz: \begin{equation} m\ddot{x} = -Dx. \end{equation}
-Beispiel Federpendel Für ein reibungsfreies Federpendel mit Ruhelage $x=0$ ergibt sich für die Lösung der Bewegungsgleichung $$ x(t) = \hat x \sin(\omega t+\varphi),$$ und damit für die Kreisfrequenz $\omega$: $$ \omega = \sqrt{\frac{D}{m}}.</description>
+      <guid>http://localhost:1313/schwingungen/schwingungen/</guid>
+      <description>Allgemeine Definition Schwingungen sind alle Vorgänge, die periodisch ablaufen. Für eine eindimensionale Bewegung mit Periode $P$: $ x(t+P) = x(t).$&#xA;Harmonische Schwingungen sind Schwingungen, die sich aus linearen Kraftgesetzen ergeben, wie z.B. das Hooke&amp;rsquo;sche Gesetz: \begin{equation} m\ddot{x} = -Dx. \end{equation}&#xA;Beispiel Federpendel Für ein reibungsfreies Federpendel mit Ruhelage $x=0$ ergibt sich für die Lösung der Bewegungsgleichung $$ x(t) = \hat x \sin(\omega t+\varphi),$$ und damit für die Kreisfrequenz $\omega$: $$ \omega = \sqrt{\frac{D}{m}}.</description>
     </item>
-    
     <item>
       <title>Dopplereffekt</title>
-      <link>http://exp-physik.netlify.app/wellen/doppler/</link>
+      <link>http://localhost:1313/wellen/doppler/</link>
       <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/wellen/doppler/</guid>
-      <description>Beobachtung des Doppler-Effekts Wir kennen das Phänomen einer scheinbaren Veränderung der Tonhöhe von z.B. dem Martinshorn der Feuerwehr bei relativer Bewegung von Sender und Empfänger zueinander. Wir betrachten im Folgenden den einfachsten Fall eines Senders und Empfängers die sich entlang der Verbindungslinie relativ zueinander bewegen.
-Wir nehmen weiterhin an, dass das Medium in Ruhe ist.
-Experiment: Bewegte Stimmgabel. Mikrofon. Plastikrohr.
-Bewegter Sender Die Frequenz $\nu$ und die Ausbreitungsgeschwindigkeit der Schallwelle $c$ des bewegten Senders (Geschwindigkeit $v$)</description>
+      <guid>http://localhost:1313/wellen/doppler/</guid>
+      <description>Beobachtung des Doppler-Effekts Wir kennen das Phänomen einer scheinbaren Veränderung der Tonhöhe von z.B. dem Martinshorn der Feuerwehr bei relativer Bewegung von Sender und Empfänger zueinander. Wir betrachten im Folgenden den einfachsten Fall eines Senders und Empfängers die sich entlang der Verbindungslinie relativ zueinander bewegen.&#xA;Wir nehmen weiterhin an, dass das Medium in Ruhe ist.&#xA;Experiment: Bewegte Stimmgabel. Mikrofon. Plastikrohr.&#xA;Bewegter Sender Die Frequenz $\nu$ und die Ausbreitungsgeschwindigkeit der Schallwelle $c$ des bewegten Senders (Geschwindigkeit $v$)</description>
     </item>
-    
     <item>
       <title>Physikalisches Pendel</title>
-      <link>http://exp-physik.netlify.app/schwingungen/physpendel/</link>
+      <link>http://localhost:1313/schwingungen/physpendel/</link>
       <pubDate>Mon, 10 May 2021 17:31:26 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/schwingungen/physpendel/</guid>
+      <guid>http://localhost:1313/schwingungen/physpendel/</guid>
       <description>Allgemeine Schwerependel sind beliebig geformte starre Körper, die um eine fixierte Achse aufgrund des wirkenden Drehmoments periodische Schwingungen ausführen. Wir betrachten zunächst die Drehmomentsgleichung für einen Körper der Masse $m$, der am Punkt $A$ aufgehängt ist. Die Verbindungslinie vom Punkt $A$ zum Schwerpunkt $S$ ist $s=\overline{AS}$. Dann ergibt sich bei einer Auslenkung des Pendels um einen Winkel $\theta$ ein rückstellendes Drehmoment $M=-mgs~\sin\theta$: $$ I_A \ddot\theta = -mgs \sin\theta.$$ Das Trägheitsmoment $I_A$ ist das Trägheitsmoment für die Rotationsachse im Punkt $A$.</description>
     </item>
-    
     <item>
       <title>Pendel</title>
-      <link>http://exp-physik.netlify.app/schwingungen/pendel/</link>
+      <link>http://localhost:1313/schwingungen/pendel/</link>
       <pubDate>Fri, 14 May 2021 18:16:43 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/schwingungen/pendel/</guid>
-      <description>Übersicht Pendel  Mathematisches Pendel (Länge $\ell$) $$ P = 2\pi \sqrt{\frac{\ell}{g}} $$ Federpendel (Masse $m$, Federkonstante $D$) $$ P = 2\pi \sqrt{\frac{m}{D}} $$ Physikalisches Pendel (Trägheitsmoment $I$, Abstand Aufhängung zu Schwerpunkt $s$, Masse $m$) $$ P = 2\pi \sqrt{\frac{I}{mgs}} $$ Torsionspendel (Trägheitsmoment $I$, Richtmoment $\kappa$) $$ P = 2\pi \sqrt{\frac{I}{\kappa}} $$  Zum Nachdenken  Wie lang müssen Sie die Fadenlänge $\ell$ wählen, um $P=1~$s zu erhalten? Wenn Sie einen dünnen Ring mit Radius $r$ am Umfang aufhängen: Wie groß müssen Sie $r$ wählen, damit $P=1~$s ist?</description>
+      <guid>http://localhost:1313/schwingungen/pendel/</guid>
+      <description>Übersicht Pendel Mathematisches Pendel (Länge $\ell$) $$ P = 2\pi \sqrt{\frac{\ell}{g}} $$ Federpendel (Masse $m$, Federkonstante $D$) $$ P = 2\pi \sqrt{\frac{m}{D}} $$ Physikalisches Pendel (Trägheitsmoment $I$, Abstand Aufhängung zu Schwerpunkt $s$, Masse $m$) $$ P = 2\pi \sqrt{\frac{I}{mgs}} $$ Torsionspendel (Trägheitsmoment $I$, Richtmoment $\kappa$) $$ P = 2\pi \sqrt{\frac{I}{\kappa}} $$ Zum Nachdenken Wie lang müssen Sie die Fadenlänge $\ell$ wählen, um $P=1~$s zu erhalten? Wenn Sie einen dünnen Ring mit Radius $r$ am Umfang aufhängen: Wie groß müssen Sie $r$ wählen, damit $P=1~$s ist?</description>
     </item>
-    
     <item>
       <title>Gekoppelte Pendel</title>
-      <link>http://exp-physik.netlify.app/schwingungen/gekoppelteoszillatoren/</link>
+      <link>http://localhost:1313/schwingungen/gekoppelteoszillatoren/</link>
       <pubDate>Fri, 08 May 2020 20:10:57 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/schwingungen/gekoppelteoszillatoren/</guid>
+      <guid>http://localhost:1313/schwingungen/gekoppelteoszillatoren/</guid>
       <description>Wenn wir zwei horizontale Federpendel mit jeweils gleicher Masse $m$ und Federkonstante $D$ durch eine dritte Feder mit Federkonstante $D_0$ verbinden, erhalten wir ein gekoppeltes System von Pendeln. Die Auslenkungen $x_1$ und $x_2$ um die jeweilige Ruhelage der Federpendel ergeben mit den Bewegungsgleichungen $$ \ddot x_1 + \frac{D}{m}x_1 + \frac{D_0}{m} (x_1-x_2)=0,$$ $$ \ddot x_2 + \frac{D}{m}x_2 + \frac{D_0}{m} (x_2-x_1)=0$$ ein System von zwei gekoppelten Differenzialgleichungen. Die Lösungen dieses Systems lässt sich als Linearkombination der beiden Normalschwingungen oder Moden darstellen:</description>
     </item>
-    
     <item>
       <title>Temperatur</title>
-      <link>http://exp-physik.netlify.app/waermelehre/temperatur/</link>
+      <link>http://localhost:1313/waermelehre/temperatur/</link>
       <pubDate>Thu, 24 Jun 2021 19:03:17 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/waermelehre/temperatur/</guid>
-      <description>Temperaturmessung Die Wahrnehmung von warm und kalt ist durch die Nerven in der Haut möglich (Thermozeption). Sogenannte Kälterezeptoren erzeugen bei gleichbleibender Temperatur eine konstante Rate von Nervenpulsen (10-40 Pulse/s), die bei Änderung der Temperatur wechselt. Bei sehr hohen Temperaturen kommt ein Schmerzempfinden hinzu.
-Die Messung einer Temperatur (Thermometrie) beruht auf temperaturabhängige Effekte:
- rel. Längenänderung $\Delta L/L\propto \Delta T$, rel. Volumenänderung $\Delta V/V \propto \Delta T$, Schallgeschwindigkeit in einem Gas $\propto \sqrt{T}$, Änderung des Brechungsindex in einem Gas, Johnson-Rauschen der Leitungselektronen, Doppler-Verbreiterung von spektralen Linien, Änderung der Leitfähigkeit für elektrischen Strom in Leitern.</description>
+      <guid>http://localhost:1313/waermelehre/temperatur/</guid>
+      <description>Temperaturmessung Die Wahrnehmung von warm und kalt ist durch die Nerven in der Haut möglich (Thermozeption). Sogenannte Kälterezeptoren erzeugen bei gleichbleibender Temperatur eine konstante Rate von Nervenpulsen (10-40 Pulse/s), die bei Änderung der Temperatur wechselt. Bei sehr hohen Temperaturen kommt ein Schmerzempfinden hinzu.&#xA;Die Messung einer Temperatur (Thermometrie) beruht auf temperaturabhängige Effekte:&#xA;rel. Längenänderung $\Delta L/L\propto \Delta T$, rel. Volumenänderung $\Delta V/V \propto \Delta T$, Schallgeschwindigkeit in einem Gas $\propto \sqrt{T}$, Änderung des Brechungsindex in einem Gas, Johnson-Rauschen der Leitungselektronen, Doppler-Verbreiterung von spektralen Linien, Änderung der Leitfähigkeit für elektrischen Strom in Leitern.</description>
     </item>
-    
     <item>
       <title>Kinetische Gastheorie</title>
-      <link>http://exp-physik.netlify.app/waermelehre/kinetic/</link>
+      <link>http://localhost:1313/waermelehre/kinetic/</link>
       <pubDate>Thu, 24 Jun 2021 20:48:15 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/waermelehre/kinetic/</guid>
+      <guid>http://localhost:1313/waermelehre/kinetic/</guid>
       <description>Kinetische Gastheorie Die Zustandsgrößen Druck ($p$) und Temperatur ($T$) haben wir bislang makroskopisch definiert ohne dabei über einen Zusammenhang zu den zugrundeliegenden mikroskopischen Eigenschaften des Gases nachzudenken. Wir können einen unmittelbaren Zusammenhang herstellen, indem wir für das ideale Gas annehmen, dass es aus Molekülen (bzw. Atomen) besteht, die untereinander und mit der Wand elastisch stoßen können. Die Ausdehnung der Moleküle kann zunächst vernachlässigt werden. Da es keine weiteren Austauschkräfte zwischen den Molekülen im idealen Gas gibt, kann es auch keine Phasenübergänge geben.</description>
     </item>
-    
     <item>
       <title>Strömungen</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/stroemungen/</link>
+      <link>http://localhost:1313/kontinuumsmechanik/stroemungen/</link>
       <pubDate>Mon, 17 May 2021 22:46:20 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/stroemungen/</guid>
-      <description>Strömungen lassen sich gut beschreiben, wenn einige Bedingungen erfüllt sind:
- Scherspannungen sind vernachlässigbar, dh. es gibt nur wenig innere Reibung. Inkompressibilität (Dichte bleibt konstant). Stationäre Strömung (d.h. Geschwindigkeit eines Volumenelementes ist nur vom Ort aber nicht von der Zeit abhängig.  Kontinuität Wir betrachten jetzt ein dynamisches System: ein durchströmtes Rohr. Die Flüssigkeit sei ideal, also reibungsfrei. Das Rohr habe am Anfang eine Querschnittsfläche $A_1$ und die (inkompressible) Flüssigkeit der Dichte $\rho$ durchströmt diesen Querschnitt mit der Geschwindigkeit $v_1$.</description>
+      <guid>http://localhost:1313/kontinuumsmechanik/stroemungen/</guid>
+      <description>Strömungen lassen sich gut beschreiben, wenn einige Bedingungen erfüllt sind:&#xA;Scherspannungen sind vernachlässigbar, dh. es gibt nur wenig innere Reibung. Inkompressibilität (Dichte bleibt konstant). Stationäre Strömung (d.h. Geschwindigkeit eines Volumenelementes ist nur vom Ort aber nicht von der Zeit abhängig. Kontinuität Wir betrachten jetzt ein dynamisches System: ein durchströmtes Rohr. Die Flüssigkeit sei ideal, also reibungsfrei. Das Rohr habe am Anfang eine Querschnittsfläche $A_1$ und die (inkompressible) Flüssigkeit der Dichte $\rho$ durchströmt diesen Querschnitt mit der Geschwindigkeit $v_1$.</description>
     </item>
-    
+    <item>
+      <title>Wärme</title>
+      <link>http://localhost:1313/waermelehre/waerme/</link>
+      <pubDate>Sat, 03 Jul 2021 21:12:04 +0200</pubDate>
+      <guid>http://localhost:1313/waermelehre/waerme/</guid>
+      <description>Temperatur, innere Energie und Wärme Wir kennen folgende Größen&#xA;Temperatur $T$ als Maß der mittleren kinetischen Energie/Freiheitsgrad ($f$ ist die Zahl der Freiheitsgrade): $$ \langle E_\mathrm{kin} \rangle = \frac{f}{2} kT.$$ Innere Energie $$ U = N \langle E_\mathrm{kin} = N \frac{f}{2} kT.$$ Wärme $\Delta Q$ als Änderung der inneren Energie und damit der Temperatur. Temperatur $T$ ist ein Beispiel für eine intensive Größe, die nicht von der Stoffmenge abhängt. Innere Energie $U$ ist hingegen eine extensive Größe, die von der Stoffmenge abhängt.</description>
+    </item>
     <item>
       <title>Viskosität</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/viskositaet/</link>
+      <link>http://localhost:1313/kontinuumsmechanik/viskositaet/</link>
       <pubDate>Fri, 21 May 2021 08:04:37 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/viskositaet/</guid>
+      <guid>http://localhost:1313/kontinuumsmechanik/viskositaet/</guid>
       <description>Viskosität und innere Reibung in Flüssigkeiten Flüssigkeiten haften an Oberflächen (siehe auch Oberflächeneffekte). Es ist also eine Kraft nötig, um eine Oberfläche relativ zu einer Flüssigkeit bzw. eine Flüssigkeit relativ zu einer Oberfläche mit konstanter Geschwindigkeit zu bewegen. Die nötige Kraft wird proportional zu der Größe der Oberfläche $A$ sein. Für unterschiedliche Flüssigkeiten ist aufgrund Stoffeigenschaften bzw. Bindungsenergien ein unterschiedliches Verhalten zu erwarten - wir charakterisieren die Zähigkeit der Flüssigkeit mit einer Stoffkonstante, die dynamische Viskosität $\eta$.</description>
     </item>
-    
     <item>
       <title>Strömungswiderstand</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/viskosereibung/</link>
+      <link>http://localhost:1313/kontinuumsmechanik/viskosereibung/</link>
       <pubDate>Fri, 21 May 2021 18:58:18 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/viskosereibung/</guid>
-      <description>Reibungskräfte bei Bewegung in einer Flüssigkeit Ein Körper, der sich mit der Geschwindigkeit $\mathbf{v}$ durch eine Flüssigkeit bewegt, erfährt eine Reibungskraft der folgenden Form
-$$ \mathbf{F}_r = - (k_1 v + k_2 v^2) \mathbf{\hat{v}},$$ wobei $\mathbf{\hat{v}}$ der Einheitsvektor der Geschwindigkeit ist. Der erste Term repräsentiert den viskosen Widerstand und der zweite Term den Druckwiderstand (Wirbelwiderstand).
-Für den Spezialfall einer Kugel mit Radius $r$ ist $$ |\mathbf{F}_r| = C_1 r v + C_2 r^2 v^2,$$ wobei $C_1$ proportional zur Viskosität ist und $C_2$ proportional zu der Dichte des Mediums ist.</description>
+      <guid>http://localhost:1313/kontinuumsmechanik/viskosereibung/</guid>
+      <description>Reibungskräfte bei Bewegung in einer Flüssigkeit Ein Körper, der sich mit der Geschwindigkeit $\mathbf{v}$ durch eine Flüssigkeit bewegt, erfährt eine Reibungskraft der folgenden Form&#xA;$$ \mathbf{F}_r = - (k_1 v + k_2 v^2) \mathbf{\hat{v}},$$ wobei $\mathbf{\hat{v}}$ der Einheitsvektor der Geschwindigkeit ist. Der erste Term repräsentiert den viskosen Widerstand und der zweite Term den Druckwiderstand (Wirbelwiderstand).&#xA;Für den Spezialfall einer Kugel mit Radius $r$ ist $$ |\mathbf{F}_r| = C_1 r v + C_2 r^2 v^2,$$ wobei $C_1$ proportional zur Viskosität ist und $C_2$ proportional zu der Dichte des Mediums ist.</description>
     </item>
-    
     <item>
       <title>Ideales Gas</title>
-      <link>http://exp-physik.netlify.app/waermelehre/idealesgas/</link>
+      <link>http://localhost:1313/waermelehre/idealesgas/</link>
       <pubDate>Sun, 27 Jun 2021 15:45:37 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/waermelehre/idealesgas/</guid>
-      <description>Zustandsgrößen Das ideale Gas wird mit drei Zustandsgrößen beschrieben: $p$, $V$, $T$ mit dem Zusammenhang der Zustandsgleichung: \begin{equation} pV = N k_B T, \end{equation} wobei $N$ die Anzahl der Moleküle im Gas sind und $k_B$ die Boltzmannkonstante $$ k_B = 1,38\times 10^{-24} \frac{J}{K}.$$
-Stoffmengen Die Anzahl der Moleküle (immer synonym zu Atomen zu verstehen) in einem Gas lässt sich auch als Zahl der Mole $n$ angeben mit der Avogadro-Konstante $N_A$: $$ N_A = 6,022 \times 10^{23} \frac{\mathrm{g}}{\mathrm{u}~\mathrm{mol}}.</description>
+      <guid>http://localhost:1313/waermelehre/idealesgas/</guid>
+      <description>Zustandsgrößen Das ideale Gas wird mit drei Zustandsgrößen beschrieben: $p$, $V$, $T$ mit dem Zusammenhang der Zustandsgleichung: \begin{equation} pV = N k_B T, \end{equation} wobei $N$ die Anzahl der Moleküle im Gas sind und $k_B$ die Boltzmannkonstante $$ k_B = 1,38\times 10^{-24} \frac{J}{K}.$$&#xA;Stoffmengen Die Anzahl der Moleküle (immer synonym zu Atomen zu verstehen) in einem Gas lässt sich auch als Zahl der Mole $n$ angeben mit der Avogadro-Konstante $N_A$: $$ N_A = 6,022 \times 10^{23} \frac{\mathrm{g}}{\mathrm{u}~\mathrm{mol}}.</description>
     </item>
-    
     <item>
       <title>Hagen-Poisseuille Gesetz</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/hagenp/</link>
+      <link>http://localhost:1313/kontinuumsmechanik/hagenp/</link>
       <pubDate>Mon, 24 May 2021 20:46:25 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/hagenp/</guid>
-      <description>Laminare, viskose Strömung im Rohr Eine Newton&amp;rsquo;sche Flüssigkeit mit dynamischer Viskosität $\eta$ durchströmt ein Rohr der Länge $L$ mit Radius $R$. Der Druckunterschied zwischen den beiden Rohrenden sei $\Delta p$ und die beiden Rohrenden befinden sich auf gleicher Höhe.
-Wir wollen jetzt bestimmen
- wie das Geschwindigkeitsprofil der Strömung im Rohr ausschaut und wie die Flüssigkeitsmenge pro Zeiteinheit von dem Rohrquerschnitt abhängt.  Die Strömung soll laminar (also wirbelfrei) und stationär sein (d.</description>
+      <guid>http://localhost:1313/kontinuumsmechanik/hagenp/</guid>
+      <description>Laminare, viskose Strömung im Rohr Eine Newton&amp;rsquo;sche Flüssigkeit mit dynamischer Viskosität $\eta$ durchströmt ein Rohr der Länge $L$ mit Radius $R$. Der Druckunterschied zwischen den beiden Rohrenden sei $\Delta p$ und die beiden Rohrenden befinden sich auf gleicher Höhe.&#xA;Wir wollen jetzt bestimmen&#xA;wie das Geschwindigkeitsprofil der Strömung im Rohr ausschaut und wie die Flüssigkeitsmenge pro Zeiteinheit von dem Rohrquerschnitt abhängt. Die Strömung soll laminar (also wirbelfrei) und stationär sein (d.</description>
     </item>
-    
     <item>
       <title>Oberflächen</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/oberflaechen/</link>
+      <link>http://localhost:1313/kontinuumsmechanik/oberflaechen/</link>
       <pubDate>Mon, 14 Jun 2021 17:19:19 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/oberflaechen/</guid>
-      <description>Oberflächenspannung An der Oberfläche (bzw. Grenzschicht) einer Flüssigkeit fehlen die benachbarten Atome/Moleküle. Die Atome sind dort weniger stark gebunden. Um die Oberfläche zu vergrößern, muss die Bindungsenergie der entsprechenden neuen Oberflächenatome reduziert werden.
-Die Energie $\Delta W$ pro Fläche $\Delta A$ ist die Oberflächenergie $\epsilon$: $$ \epsilon = \frac{\Delta W}{\Delta A}.$$
-Die Kraft, die nötig ist, um die Oberflächenergie zu vergrößern (Experiment: Metallbügel der Seitenlänge $L$ in Seife eingetaucht) ergibt sich aus der Änderung der Oberfläche um $\Delta A$:</description>
+      <guid>http://localhost:1313/kontinuumsmechanik/oberflaechen/</guid>
+      <description>Oberflächenspannung An der Oberfläche (bzw. Grenzschicht) einer Flüssigkeit fehlen die benachbarten Atome/Moleküle. Die Atome sind dort weniger stark gebunden. Um die Oberfläche zu vergrößern, muss die Bindungsenergie der entsprechenden neuen Oberflächenatome reduziert werden.&#xA;Die Energie $\Delta W$ pro Fläche $\Delta A$ ist die Oberflächenergie $\epsilon$: $$ \epsilon = \frac{\Delta W}{\Delta A}.$$&#xA;Die Kraft, die nötig ist, um die Oberflächenergie zu vergrößern (Experiment: Metallbügel der Seitenlänge $L$ in Seife eingetaucht) ergibt sich aus der Änderung der Oberfläche um $\Delta A$:</description>
     </item>
-    
     <item>
       <title>Zustandsänderung</title>
-      <link>http://exp-physik.netlify.app/waermelehre/zustandsaenderung/</link>
+      <link>http://localhost:1313/waermelehre/zustandsaenderung/</link>
       <pubDate>Sun, 27 Jun 2021 16:29:13 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/waermelehre/zustandsaenderung/</guid>
-      <description>$pV$-Diagramm Wir betrachten die Zustandsänderungen in einem $pV$-Diagramm. Zunächst unterscheiden wir drei unterschiedliche Prozessführungen
- Isotherme Zustandsänderung $T$ ist konstant Isobare Zustandsänderung $p$ ist konstant Isochore Zustandsänderung $V$ ist konstant.  Isotherme Zustandsänderung Wir starten bei $p_0$, $V_0$ und verändern das Volumen durch einen Kolben bis wir den Endpunkt $p_1, V_1$ erreichen. Die Temperatur $T_a$ bleibt konstant (durch Austausch von Wärme mit der Umgebung). Mit Messung des Drucks $p$ bestätigen wir das Boyle-Mariotte&amp;rsquo;sche Gesetz, dass bei konstanter Temperatur $pV$ konstant bleibt.</description>
+      <guid>http://localhost:1313/waermelehre/zustandsaenderung/</guid>
+      <description>$pV$-Diagramm Wir betrachten die Zustandsänderungen in einem $pV$-Diagramm. Zunächst unterscheiden wir drei unterschiedliche Prozessführungen&#xA;Isotherme Zustandsänderung $T$ ist konstant Isobare Zustandsänderung $p$ ist konstant Isochore Zustandsänderung $V$ ist konstant. Isotherme Zustandsänderung Wir starten bei $p_0$, $V_0$ und verändern das Volumen durch einen Kolben bis wir den Endpunkt $p_1, V_1$ erreichen. Die Temperatur $T_a$ bleibt konstant (durch Austausch von Wärme mit der Umgebung). Mit Messung des Drucks $p$ bestätigen wir das Boyle-Mariotte&amp;rsquo;sche Gesetz, dass bei konstanter Temperatur $pV$ konstant bleibt.</description>
     </item>
-    
     <item>
       <title>Grenzflächen</title>
-      <link>http://exp-physik.netlify.app/kontinuumsmechanik/grenzflaechen/</link>
+      <link>http://localhost:1313/kontinuumsmechanik/grenzflaechen/</link>
       <pubDate>Mon, 14 Jun 2021 19:24:34 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/grenzflaechen/</guid>
-      <description>Kapillarität Zwischen zwei unterschiedlichen Materialien (z.B. Wasser und Glas) bildet sich eine Grenzschicht. Tauchen wir einen Hohlzylinder aus Glas in eine Flüssigkeit, bildet sich ein Meniskus, dessen Form entweder
- benetzend ist, d.h. der Grenzwinkel zwischen den beiden Oberflächen ist $0^\circ\le \phi\le 90^\circ$ oder nicht-benetzend ist, d.h. der Grenzwinkel ist $90^\circ&amp;lt; \phi&amp;lt; 180^\circ$.  Der Grenzwinkel ergibt sich aus der Überlagerung der Kohäsionskraft $\mathbf{F}_a$, die entlang der Randlinie der Flüssigkeit unter einem Winkel von $45^\circ$ in die Flüssigkeit hineinzeigt.</description>
+      <guid>http://localhost:1313/kontinuumsmechanik/grenzflaechen/</guid>
+      <description>Kapillarität Zwischen zwei unterschiedlichen Materialien (z.B. Wasser und Glas) bildet sich eine Grenzschicht. Tauchen wir einen Hohlzylinder aus Glas in eine Flüssigkeit, bildet sich ein Meniskus, dessen Form entweder&#xA;benetzend ist, d.h. der Grenzwinkel zwischen den beiden Oberflächen ist $0^\circ\le \phi\le 90^\circ$ oder nicht-benetzend ist, d.h. der Grenzwinkel ist $90^\circ&amp;lt; \phi&amp;lt; 180^\circ$. Der Grenzwinkel ergibt sich aus der Überlagerung der Kohäsionskraft $\mathbf{F}_a$, die entlang der Randlinie der Flüssigkeit unter einem Winkel von $45^\circ$ in die Flüssigkeit hineinzeigt.</description>
     </item>
-    
     <item>
       <title>Energietransport</title>
-      <link>http://exp-physik.netlify.app/wellen/energie/</link>
+      <link>http://localhost:1313/wellen/energie/</link>
       <pubDate>Sat, 12 Jun 2021 21:11:49 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/wellen/energie/</guid>
-      <description>Leistung Eine Welle überträgt Energie. Bei der Seilwelle wird z.B. bei der Auslenkung eines Seilelements Arbeit geleistet. Bei der Rückkehr in die Ruheposition wird wiederum Arbeit an einem benachbarten Seilelement geleistet.
-Die rücktreibende Kraft beim Seil hatten wir bereits bei der Wellengleichung kennengelernt $$ F = -T \frac{\partial \zeta}{\partial x}.$$ Die Rate, mit der Arbeit durch diese Kraft geleistet wird ergibt sich als Leistung aus $$ P= F v = -T \frac{\partial \zeta}{\partial x} \frac{\partial \zeta}{\partial t}.</description>
+      <guid>http://localhost:1313/wellen/energie/</guid>
+      <description>Leistung Eine Welle überträgt Energie. Bei der Seilwelle wird z.B. bei der Auslenkung eines Seilelements Arbeit geleistet. Bei der Rückkehr in die Ruheposition wird wiederum Arbeit an einem benachbarten Seilelement geleistet.&#xA;Die rücktreibende Kraft beim Seil hatten wir bereits bei der Wellengleichung kennengelernt $$ F = -T \frac{\partial \zeta}{\partial x}.$$ Die Rate, mit der Arbeit durch diese Kraft geleistet wird ergibt sich als Leistung aus $$ P= F v = -T \frac{\partial \zeta}{\partial x} \frac{\partial \zeta}{\partial t}.</description>
     </item>
-    
     <item>
       <title>Energiesatz</title>
-      <link>http://exp-physik.netlify.app/schwingungen/energiesatz/</link>
+      <link>http://localhost:1313/schwingungen/energiesatz/</link>
       <pubDate>Tue, 25 May 2021 08:51:47 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/schwingungen/energiesatz/</guid>
-      <description>Fortgeschrittenes Thema Energiesatz, harmonische Schwingungen Wir haben bislang die Bewegungsgleichungen über die wirkenden Kräfte aufgeschrieben. Das ist bei den meisten Systemen (Pendel) ein anschaulicher und gleichzeitig zielführender Ansatz.
-Die Analyse der Kräfte ist jedoch oft nicht nötig, um zum Beispiel die Periode eines Systems zu bestimmen.
-Beispielhaft: Kugel auf Bahn Wenn wir eine Kugel auf einer bogenförmigen Bahn zum Rollen bringen, beobachten wir ein periodisches Hin- und Herbewegen. Wenn wir die Periode ausrechnen wollen, merken wir recht schnell, dass das System auch in der Kleinwinkelnäherung nicht ganz einfach zu betrachten ist, weil es zur Überlagerung der Roll- und Translationsbewegung kommt.</description>
+      <guid>http://localhost:1313/schwingungen/energiesatz/</guid>
+      <description>Fortgeschrittenes Thema Energiesatz, harmonische Schwingungen Wir haben bislang die Bewegungsgleichungen über die wirkenden Kräfte aufgeschrieben. Das ist bei den meisten Systemen (Pendel) ein anschaulicher und gleichzeitig zielführender Ansatz.&#xA;Die Analyse der Kräfte ist jedoch oft nicht nötig, um zum Beispiel die Periode eines Systems zu bestimmen.&#xA;Beispielhaft: Kugel auf Bahn Wenn wir eine Kugel auf einer bogenförmigen Bahn zum Rollen bringen, beobachten wir ein periodisches Hin- und Herbewegen. Wenn wir die Periode ausrechnen wollen, merken wir recht schnell, dass das System auch in der Kleinwinkelnäherung nicht ganz einfach zu betrachten ist, weil es zur Überlagerung der Roll- und Translationsbewegung kommt.</description>
     </item>
-    
     <item>
       <title>Resonanzen</title>
-      <link>http://exp-physik.netlify.app/schwingungen/resonanzen/</link>
+      <link>http://localhost:1313/schwingungen/resonanzen/</link>
       <pubDate>Sat, 08 May 2021 19:51:57 +0200</pubDate>
-      
-      <guid>http://exp-physik.netlify.app/schwingungen/resonanzen/</guid>
-      <description>Periodische Anregung Wir ergänzen eine periodisch anregende Kraft $F(t)=F(t+T)$, mit der Periode $T=2\pi/\omega$, so dass wir eine inhomogene Differenzialgleichung erhalten $$ \ddot{x} + 2\gamma \dot{x} + \omega_0^2 x = \frac{F(t)}{m}.$$
-Wir nehmen einen schwach gedämpften Fall an ($\gamma&amp;lt;\omega_0$). Nach einem Einschwingvorgang wird das System mit der anregenden Kreisfrequenz $\omega_A$ oszillieren. Während des Einschwingens werden durch die Dämpfung Schwingungen mit der (freien) Frequenz $\sqrt{\omega_0^2-\gamma^2}$ über eine charakteristische Zeit $1/\gamma$ gedämpft, so dass nach einer Zeit $t \gamma \gg 1$ lediglich die anregende Frequenz beiträgt.</description>
+      <guid>http://localhost:1313/schwingungen/resonanzen/</guid>
+      <description>Periodische Anregung Wir ergänzen eine periodisch anregende Kraft $F(t)=F(t+T)$, mit der Periode $T=2\pi/\omega$, so dass wir eine inhomogene Differenzialgleichung erhalten $$ \ddot{x} + 2\gamma \dot{x} + \omega_0^2 x = \frac{F(t)}{m}.$$&#xA;Wir nehmen einen schwach gedämpften Fall an ($\gamma&amp;lt;\omega_0$). Nach einem Einschwingvorgang wird das System mit der anregenden Kreisfrequenz $\omega_A$ oszillieren. Während des Einschwingens werden durch die Dämpfung Schwingungen mit der (freien) Frequenz $\sqrt{\omega_0^2-\gamma^2}$ über eine charakteristische Zeit $1/\gamma$ gedämpft, so dass nach einer Zeit $t \gamma \gg 1$ lediglich die anregende Frequenz beiträgt.</description>
     </item>
-    
   </channel>
 </rss>
