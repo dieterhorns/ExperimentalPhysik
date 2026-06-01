@@ -17,4 +17,3 @@ Erkennen von folgenden Konzepten
    * Laminare und Turbulente Strömungen
    * Dynamischer Auftrieb
    * Turbulenter Strömungswiderstand
-

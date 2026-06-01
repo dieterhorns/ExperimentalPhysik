@@ -8,6 +8,7 @@ chapter : true
 
 Physik zu lernen ist ein Prozess, der mit Staunen anfängt und uns alle sehr
 beansprucht. Wenn Sie sich auf diesen Prozess einlassen, wird das Staunen nie richtig aufhören.
+
 # Wo die Reise anfängt
 Sie kennen Physik aus der Schule. Sie kennen viele Konzepte und Ideen der Physik. 
 Sie wissen, was eine Kraft ist und dass Energie erhalten ist. Sie haben
@@ -35,4 +36,3 @@ Kommen Sie in die Vorlesungen, gehen Sie in die Übungen und besuchen Sie
 die Tutorien.
 
 Dann wird alles gut. 
-
