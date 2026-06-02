@@ -3,9 +3,9 @@ title: Kontinuumsmechanik
 Featured_image: "/images/flow.jpg"
 weight: 40
 ---
-Im Gegensatz zu ausgedehnten, starren Körpern, betrachten wir hier verformbare
+Im Gegensatz zu ausgedehnten, starren Körpern, betrachten wir hier elastisch verformbare
 Objekte. Auch Festkörper haben elastische Eigenschaften und sind verformbar. 
-Die Mechanik der Kontinua umfasst auch Flüssigkeiten und Gase. Im Gegensatz
+Die Mechanik der Kontinua umfasst Festkörper, Flüssigkeiten und Gase. Im Gegensatz
 zu Festkörpern können Flüssigkeiten und Gase fließen bzw. strömen. 
 # Lernziele
 Erkennen von folgenden Konzepten 
