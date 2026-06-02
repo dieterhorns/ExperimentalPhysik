@@ -1,6 +1,6 @@
 ---
 title: "Elastische Verformungen"
-date: 2021-05-13T10:22:16+02:00
+date: 2026-06-02T14:07:20+0200
 weight: 8
 description: "Spannungen, Elastizität"
 ---
@@ -44,7 +44,7 @@ Für eine weitergehende Tabelle der Materialeigenschaften von Metallen:
 Aus dem Elastizitätsmodul lässt sich auch die Federkonstante berechnen.
 Das lineare Kraftgesetz für die rücktreibende Kraft $F = -Dx$ entspricht
 hierbei der negativen Zugspannung:
-$$ \frac{F}{E~A} = \frac{\Delta L}{L},$$
+$$ \frac{F}{E\~ A} = \frac{\Delta L}{L},$$
 $$ F = \frac{E~A}{L} \Delta L,$$
 somit ist $D=E \frac{A}{L}$. 
 
@@ -81,7 +81,9 @@ dass bei gleicher Kraft die Zugspannung an dieser Stelle zunimmt bis es zum Bruc
 
 Bei Federstahl kommt es bei einer relativen Längenänderung von etwa $0,06$ zum Bruch. 
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Spgs-Dehnungs-Kurve_Dehngrenze.svg/480px-Spgs-Dehnungs-Kurve_Dehngrenze.svg.png" caption="Abbildung Wikipedia, schematisches Diagramm mit Zugspannung $\sigma$ vs. rel. Längenänderung $\epsilon=\Delta L/L$" link="https://de.wikipedia.org/wiki/Elastizit%C3%A4tsgrenze#Flie%C3%9Fgrenze">}}
+{{< figure class="img-white-bg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Spgs-Dehnungs-Kurve_Streckgrenze.svg/960px-Spgs-Dehnungs-Kurve_Streckgrenze.svg.png" caption="Abbildung Wikipedia, schematisches Diagramm mit Zugspannung $\sigma$ vs. rel. Längenänderung $\epsilon=\Delta L/L$" link="https://de.wikipedia.org/wiki/Elastizit%C3%A4tsgrenze#Flie%C3%9Fgrenze" >}}
+
+
 
 
 ## Querkontraktion: Poissonzahl $\mu$ 
@@ -155,11 +157,8 @@ $$ E = \frac{1}{r_0}\frac{d}{dr} \frac{dU}{dr} = \frac{1}{r_0} \frac{d^2 U}{dr^2
 Für ein allgemeines Potenzial der Form
 $$ U(r) = -\frac{A}{r^n} + \frac{B}{r^m}$$
 mit $U(r_0)=U_0<0$ lässt sich zeigen:
-$$ E =-U_0 \frac{n~m}{r_0^3}.$$
+$$ E =-U_0 \frac{n\~m}{r_0^3}.$$
 Die Bindungsenergie $-U_0$ ist  positiv und sollte in etwa proportional zur Schmelzwärme $k_B~T_s$ 
 sein. Der Term $r_0^3$ ist das atomare Volumen, so dass sich für die meisten Materialien (nicht jedoch für
 Elastomere) ergibt
 $$ E\propto T_s/r_0^3$$. 
-
-
-

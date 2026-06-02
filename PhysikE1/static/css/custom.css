@@ -1,0 +1,27 @@
+/* target the figure specifically */
+figure.img-white-bg {
+  background: #fff;
+  padding: 6px;
+  border-radius: 4px;
+  color: #111;
+}
+
+/* ensure image stays transparent (so figure provides the white) */
+figure.img-white-bg img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  background: transparent;
+}
+
+/* make caption text dark and specific */
+figure.img-white-bg figcaption,
+figure.img-white-bg figcaption p {
+  color: #111;
+}
+
+/* fallback if theme uses very specific selectors */
+figure.img-white-bg figcaption,
+figure.img-white-bg figcaption p {
+  color: #111 !important;
+}

@@ -1,4 +1,5 @@
 ---
+author: "Dieter Horns"
 title: "Experimentalphysik"
 Featured_image: "/images/Ingamozgas.jpg"
 description: "Mechanik.Wärmelehre.Elektrodynamik.Optik"

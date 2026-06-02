@@ -6,7 +6,7 @@
     <description>Mechanik.Wärmelehre.Elektrodynamik.Optik</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 24 Jun 2021 19:00:03 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 14:07:20 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Überblick</title>
@@ -32,9 +32,9 @@
     <item>
       <title>Kontinuumsmechanik</title>
       <link>http://localhost:1313/kontinuumsmechanik/index.html</link>
-      <pubDate>Mon, 14 Jun 2021 19:24:34 +0200</pubDate>
+      <pubDate>Tue, 02 Jun 2026 14:07:20 +0200</pubDate>
       <guid>http://localhost:1313/kontinuumsmechanik/index.html</guid>
-      <description>Im Gegensatz zu ausgedehnten, starren Körpern, betrachten wir hier verformbare Objekte. Auch Festkörper haben elastische Eigenschaften und sind verformbar. Die Mechanik der Kontinua umfasst auch Flüssigkeiten und Gase. Im Gegensatz zu Festkörpern können Flüssigkeiten und Gase fließen bzw. strömen.&#xA;Lernziele Erkennen von folgenden Konzepten&#xA;Elastische und nicht-elastische Verformung von Festkörpern Statischer Druck und Auftrieb Ideale, nicht-kompressible Flüssigkeiten Reibungseffekte in Flüssigkeiten: Viskosität Energieerhaltung und Bernoulli-Gleichung Laminare und Turbulente Strömungen Dynamischer Auftrieb Turbulenter Strömungswiderstand</description>
+      <description>Im Gegensatz zu ausgedehnten, starren Körpern, betrachten wir hier elastisch verformbare Objekte. Auch Festkörper haben elastische Eigenschaften und sind verformbar. Die Mechanik der Kontinua umfasst Festkörper, Flüssigkeiten und Gase. Im Gegensatz zu Festkörpern können Flüssigkeiten und Gase fließen bzw. strömen.&#xA;Lernziele Erkennen von folgenden Konzepten&#xA;Elastische und nicht-elastische Verformung von Festkörpern Statischer Druck und Auftrieb Ideale, nicht-kompressible Flüssigkeiten Reibungseffekte in Flüssigkeiten: Viskosität Energieerhaltung und Bernoulli-Gleichung Laminare und Turbulente Strömungen Dynamischer Auftrieb Turbulenter Strömungswiderstand</description>
     </item>
     <item>
       <title>Wärmelehre</title>
