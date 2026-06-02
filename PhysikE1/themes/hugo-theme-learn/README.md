@@ -1,97 +1,87 @@
-# Hugo Learn Theme
+# Hugo Relearn Theme
 
-This repository contains a theme for [Hugo](https://gohugo.io/), based on great [Grav Learn Theme](https://learn.getgrav.org/).
+A theme for [Hugo](https://gohugo.io/) designed for documentation.
 
-Visit the [theme documentation](https://learn.netlify.com/en/) to see what is going on. It is actually built with this theme.
+[★ What's new in the latest version ★](https://mcshelby.github.io/hugo-theme-relearn/introduction/releasenotes)
 
-[![wercker status](https://app.wercker.com/status/233466a2be73fcea400e7dc02ef6adf9/s/master "wercker status")](https://app.wercker.com/project/byKey/233466a2be73fcea400e7dc02ef6adf9)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatcornic%2Fhugo-theme-learn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatcornic%2Fhugo-theme-learn?ref=badge_shield)
+![Image of the Relearn theme in light and dark mode on phone, tablet and desktop](https://mcshelby.github.io/hugo-theme-relearn/images/hero.png)
 
-## Main features
+## Overview
 
-- Automatic Search
-- Multilingual mode
-- Unlimited menu levels
-- Automatic next/prev buttons to navigate through menu entries
-- Image resizing, shadow…
-- Attachments files
-- List child pages
-- Mermaid diagram (flowchart, sequence, gantt)
-- Customizable look and feel and themes variants
-- Buttons, Tip/Note/Info/Warning boxes, Expand
+The Relearn theme is an enhanced fork of the popular [Learn theme](https://github.com/matcornic/hugo-theme-learn). It aims to address long-standing issues and incorporate the latest Hugo features while trying to maintain compatibility with its predecessor.
 
-## Installation
+## Key Features
 
-Navigate to your themes folder in your Hugo site and use the following commands:
+- **Versatile Usage**
+  - [Responsive design for mobile devices](https://mcshelby.github.io/hugo-theme-relearn/configuration/sidebar/width)
+  - [Looks nice on paper](https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/outputformats) - if it has to
+  - [Usable offline with no external dependencies](https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/deployment#offline-usage)
+  - [Usable from your local file system without a web server](https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/deployment#file-system) via `file://` protocol
+  - [Integration with the VSCode Front Matter CMS extension](https://mcshelby.github.io/hugo-theme-relearn/introduction/tools#front-matter-cms) for on-premise CMS capabilities
 
-```shell
-cd themes/
-git clone https://github.com/matcornic/hugo-theme-learn.git
-```
+- **Customizable Appearance**
+  - [Flexible brand image configuration](https://mcshelby.github.io/hugo-theme-relearn/configuration/branding/logo#changing-the-logo)
+  - [Automatic light/dark mode switching based on OS settings](https://mcshelby.github.io/hugo-theme-relearn/configuration/branding/colors#adjust-to-os-settings)
+  - [Many pre-defined color variants](https://mcshelby.github.io/hugo-theme-relearn/configuration/branding/colors#shipped-variants)
+  - [User-selectable variants](https://mcshelby.github.io/hugo-theme-relearn/configuration/branding/colors#multiple-variants)
+  - [Built-in stylesheet generator](https://mcshelby.github.io/hugo-theme-relearn/configuration/branding/generator)
+  - [Customizable syntax highlighting](https://mcshelby.github.io/hugo-theme-relearn/configuration/branding/modules/#change-syntax-highlighting)
 
-Check that your Hugo version is minimum `0.25` with `hugo version`.
+- **Advanced Functionality**
+  - [Chapter and site-wide printing capabilities](https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/outputformats#print-support)
+  - [Versatile search options: in-page, popup, and dedicated search page](https://mcshelby.github.io/hugo-theme-relearn/configuration/sidebar/search)
+  - [Customizable topbar buttons](https://mcshelby.github.io/hugo-theme-relearn/configuration/customization/topbar)
+  - [Configurable sidebar menus](https://mcshelby.github.io/hugo-theme-relearn/configuration/sidebar/menus)
+  - [Support for hidden pages](https://mcshelby.github.io/hugo-theme-relearn/configuration/content/hidden)
+  - [Comprehensive taxonomy support](https://mcshelby.github.io/hugo-theme-relearn/configuration/customization/taxonomy)
+  - [Versioning support](https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/versioning)
+  - [Social media integration](https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/meta#social-media-images)
 
-![Overview](https://github.com/matcornic/hugo-theme-learn/raw/master/images/tn.png)
+- **Multilingual Support**
+  - [Full right-to-left (RTL) language support](https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/multilingual)
+  - [Extensive list of supported languages](https://mcshelby.github.io/hugo-theme-relearn/configuration/sitemanagement/multilingual): Arabic, Chinese (Simplified and Traditional), Czech, Danish, Dutch, English, Finnish, French, German, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Persian, Polish, Portuguese, Romanian, Russian, Spanish, Swahili, Turkish, Ukrainian, Vietnamese
+  - [Multilingual content search capabilities](https://mcshelby.github.io/hugo-theme-relearn/configuration/sidebar/search#mixed-language-support)
 
-## Usage
+- **Enhanced Markdown Features**
+  - [CommonMark compliant](https://mcshelby.github.io/hugo-theme-relearn/authoring/markdown)
+  - [Support for Markdown extensions like GitHub Flavored Markdown](https://mcshelby.github.io/hugo-theme-relearn/authoring/markdown#standard-and-extensions)
+  - [Support for Obsidian callouts](https://mcshelby.github.io/hugo-theme-relearn/authoring/markdown#obsidian-callouts)
+  - [Advanced link manipulation like download and target](https://mcshelby.github.io/hugo-theme-relearn/configuration/customization/linkeffects)
+  - [Advanced image manipulation like lightbox, sizing, shadows, borders and alignment](https://mcshelby.github.io/hugo-theme-relearn/configuration/customization/imageeffects)
 
-- [Visit the documentation](https://learn.netlify.com/en/)
+- **Rich Shortcode Library**
+  - [Marker badges](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/badge)
+  - [Flexible buttons](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/button)
+  - [Card-based content organization](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/card) and [card sets](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/cards)
+  - [Child page listing](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/children)
+  - [Expandable content areas](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/expand)
+  - [Font Awesome icon integration](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/icon)
+  - [File inclusion capabilities](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/include)
+  - [Math support for mathematical and chemical formulae](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/math)
+  - [Mermaid diagram integration](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/mermaid)
+  - [Styled notice boxes](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/notice)
+  - [OpenAPI specification rendering](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/openapi)
+  - [Page bundle resource display](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/resources)
+  - [Site configuration parameter display](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/siteparam)
+  - [Tab-based content organization](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/tab) and [multi-tab panels](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/tabs)
+  - [Nicely formatted tree lists](https://mcshelby.github.io/hugo-theme-relearn/shortcodes/tree)
 
-## Download old versions (prior to 2.0.0)
+## Getting Started
 
-If you need old version for compatibility purpose, either download [theme source code from releases](https://github.com/matcornic/hugo-theme-learn/releases) or use the right git tag. For example, with `1.1.0`
+For a comprehensive guide on the theme's capabilities, please refer to the [official documentation](https://mcshelby.github.io/hugo-theme-relearn/introduction/quickstart).
 
-- Direct download way: https://github.com/matcornic/hugo-theme-learn/archive/1.1.0.zip
-- Git way:
+## Updates and Changes
 
-```shell
-cd themes/hugo-theme-learn
-git checkout tags/1.1.0
-```
+Visit the [What's New](https://mcshelby.github.io/hugo-theme-relearn/introduction/releasenotes) page for feature highlights or the [detailed changelog](https://mcshelby.github.io/hugo-theme-relearn/introduction/changelog) for a complete list of updates.
 
-For both solutions, the documentation is available at https://github.com/matcornic/hugo-theme-learn/releases/download/1.1.0/hugo-learn-doc-1.1.0.zip
+## Contributing
+
+We welcome contributions for bug fixes and new features. Please see the [contribution guidelines](https://mcshelby.github.io/hugo-theme-relearn/development/contributing) before getting started.
+
+## Licensing
+
+The Relearn theme is distributed under the [MIT License](https://github.com/McShelby/hugo-theme-relearn/blob/main/LICENSE).
 
 ## Credits
 
-Many thanks to [@vjeantet](https://github.com/vjeantet/) for the fork [docdock](https://github.com/vjeantet/hugo-theme-docdock). The v2 of this theme is mainly based on his work !
-
-## License
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatcornic%2Fhugo-theme-learn.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatcornic%2Fhugo-theme-learn?ref=badge_large)
-
-## Releasing
-
-Somewhat work-in-progress steps to release with [gren](https://github.com/github-tools/github-release-notes)
-
-- Check all MRs assigned to the milestone are closed or pushed back to another release
-- Close the milestone
-- Check merged MRs on the milestone have a tag (Bug, Enhancement, etc.)
-- Tag and push the repo
-
-  ```shell
-  git tag <tag>
-  git push origin <tag>
-  ```
-
-- Generate CHANGELOG.md with _gren_
-
-  ```shell
-  gren changelog  --override --generate --tags=all
-  ```
-
-- Fix the date for the current release in CHANGELOG.md
-- Add the changelog to git and update the tag
-
-  ```shell
-  git add CHANGELOG.md
-  git commit -m "Ship tag <tag>"
-  git push origin master
-  git tag -f <tag>
-  git push --force origin <tag>
-  ```
-
-- Generate release with _gren_
-
-  ```shell
-  gren release -t <tag>
-  ```
+This theme is built on the shoulders of [giants](https://mcshelby.github.io/hugo-theme-relearn/more/credits).

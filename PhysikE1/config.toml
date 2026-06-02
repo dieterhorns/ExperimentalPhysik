@@ -1,5 +1,6 @@
 baseURL = "http://exp-physik.netlify.app/"
-languageCode = "de-de"
+#languageCode = "de-de"
+locale = "de-de"
 title = "Experimentalphysik"
 # theme = "ananke"
 theme = [ "hugo-theme-learn", "matomo" ]

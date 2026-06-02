@@ -1,171 +1,203 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/%C3%BCberblick/</loc>
+    <loc>http://localhost:1313/%C3%BCberblick/index.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/wellen/wellen/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wellen/wellen/index.html</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/wellen/wellengleichung/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wellen/wellengleichung/index.html</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/wellen/reflexion/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wellen/reflexion/index.html</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/kontinuumsmechanik/elastisch/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kontinuumsmechanik/elastisch/index.html</loc>
     <lastmod>2021-05-13T10:22:16+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/kontinuumsmechanik/druck/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kontinuumsmechanik/druck/index.html</loc>
     <lastmod>2021-05-14T18:35:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/kontinuumsmechanik/auftrieb/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kontinuumsmechanik/auftrieb/index.html</loc>
     <lastmod>2021-05-16T12:42:17+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/wellen/akustik/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wellen/akustik/index.html</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/schwingungen/schwingungen/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/schwingungen/schwingungen/index.html</loc>
     <lastmod>2021-05-08T19:51:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/wellen/doppler/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wellen/doppler/index.html</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/schwingungen/physpendel/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/schwingungen/physpendel/index.html</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/schwingungen/pendel/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/schwingungen/pendel/index.html</loc>
     <lastmod>2021-05-14T18:16:43+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/schwingungen/gekoppelteoszillatoren/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/schwingungen/gekoppelteoszillatoren/index.html</loc>
     <lastmod>2020-05-08T20:10:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/waermelehre/temperatur/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waermelehre/temperatur/index.html</loc>
     <lastmod>2021-06-24T19:03:17+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/waermelehre/kinetic/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waermelehre/kinetic/index.html</loc>
     <lastmod>2021-06-24T20:48:15+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/schwingungen/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/schwingungen/index.html</loc>
     <lastmod>2021-05-25T08:51:47+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/kontinuumsmechanik/stroemungen/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kontinuumsmechanik/stroemungen/index.html</loc>
     <lastmod>2021-05-17T22:46:20+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/waermelehre/waerme/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waermelehre/waerme/index.html</loc>
     <lastmod>2021-07-03T21:12:04+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/kontinuumsmechanik/viskositaet/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kontinuumsmechanik/viskositaet/index.html</loc>
     <lastmod>2021-05-21T08:04:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/kontinuumsmechanik/viskosereibung/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kontinuumsmechanik/viskosereibung/index.html</loc>
     <lastmod>2021-05-21T18:58:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/waermelehre/idealesgas/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waermelehre/idealesgas/index.html</loc>
     <lastmod>2021-06-27T15:45:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/kontinuumsmechanik/hagenp/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kontinuumsmechanik/hagenp/index.html</loc>
     <lastmod>2021-05-24T20:46:25+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/kontinuumsmechanik/oberflaechen/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kontinuumsmechanik/oberflaechen/index.html</loc>
     <lastmod>2021-06-14T17:19:19+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/waermelehre/zustandsaenderung/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waermelehre/zustandsaenderung/index.html</loc>
     <lastmod>2021-06-27T16:29:13+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/kontinuumsmechanik/grenzflaechen/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kontinuumsmechanik/grenzflaechen/index.html</loc>
     <lastmod>2021-06-14T19:24:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/wellen/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wellen/index.html</loc>
     <lastmod>2021-06-12T21:11:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/kontinuumsmechanik/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/kontinuumsmechanik/index.html</loc>
     <lastmod>2021-06-14T19:24:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/index.html</loc>
     <lastmod>2021-07-03T21:12:04+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/waermelehre/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waermelehre/index.html</loc>
     <lastmod>2021-06-24T19:00:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/wellen/energie/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wellen/energie/index.html</loc>
     <lastmod>2021-06-12T21:11:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/schwingungen/energiesatz/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/schwingungen/energiesatz/index.html</loc>
     <lastmod>2021-05-25T08:51:47+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/schwingungen/resonanzen/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/schwingungen/resonanzen/index.html</loc>
     <lastmod>2021-05-08T19:51:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/index.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/index.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

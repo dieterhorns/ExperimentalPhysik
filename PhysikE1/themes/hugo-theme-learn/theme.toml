@@ -1,21 +1,40 @@
-# theme.toml template for a Hugo theme
-# See https://github.com/spf13/hugoThemes#themetoml for an example
+name = 'Relearn'
+license = 'MIT'
+licenselink = 'https://github.com/McShelby/hugo-theme-relearn/blob/main/LICENSE'
+description = 'A theme for Hugo designed for documentation'
+homepage = 'https://github.com/McShelby/hugo-theme-relearn'
+demosite = 'https://mcshelby.github.io/hugo-theme-relearn'
+tags = ['dark', 'dark mode', 'docs', 'light', 'multilingual', 'responsive']
+features = [
+  'alerts',
+  'badges', 'breadcrumbs', 'boxes', 'buttons',
+  'callouts', 'card', 'cards', 'categories', 'chemical formulae', 'customizable', 'color variants',
+  'dark', 'dark mode', 'docs', 'documentation',
+  'expand',
+  'favicon', 'file inclusion', 'file system support', 'font awesome', 'front matter cms',
+  'gfm', 'github flavored markdown',
+  'hidden pages',
+  'i18n', 'icons', 'image resizing', 'include',
+  'light', 'lightbox', 'logo',
+  'math', 'mathjax', 'menus', 'mermaid', 'multilingual', 'mobile',
+  'nested menus', 'nested sections', 'notice',
+  'oas', 'offline usable', 'openapi', 'open graph',
+  'print', 'printable',
+  'responsive', 'rss', 'rtl',
+  'schema', 'search', 'search page', 'sidebar', 'sidebar menus', 'sitemap', 'subtheme', 'swagger', 'swaggerui', 'syntax highlighting',
+  'table of contents', 'tab', 'tabs', 'tags', 'task list', 'taxonomy', 'themeable', 'themes', 'toc', 'topbar buttons', 'tree list', 'twitter cards',
+  'versioning'
+]
 
-name = "Learn"
-license = "MIT"
-licenselink = "https://github.com/matcornic/hugo-theme-learn/blob/master/LICENSE.md"
-description = "Documentation theme for Hugo, based on Grav Learn theme"
-homepage = "https://github.com/matcornic/hugo-theme-learn/"
-repo = "https://github.com/matcornic/hugo-theme-learn"
-tags = ["documentation", "grav", "learn", "doc", "search"]
-features = ["documentation", "menu", "nested sections", "search", "mermaid"]
-min_version = 0.25
+[module]
+  [module.hugoVersion]
+    min = '0.141.0'
 
 [author]
-  name = "Mathieu Cornic"
-  homepage = "https://matcornic.github.io/"
+  name = 'Sören Weber'
+  homepage = 'https://github.com/McShelby'
 
 [original]
-  name = "Grav Learn"
-  homepage = "https://learn.getgrav.org/"
-  repo = "https://github.com/getgrav/grav-learn"
+  author = 'Mathieu Cornic'
+  homepage = 'https://learn.netlify.app'
+  repo = 'https://github.com/matcornic/hugo-theme-learn'

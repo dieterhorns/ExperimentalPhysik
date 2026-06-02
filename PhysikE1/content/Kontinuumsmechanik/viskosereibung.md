@@ -56,7 +56,6 @@ benötigt, um den Ausgangspunkt wieder zu erreichen? Fliegt der Ball länger/kü
 
 Sie können das Problem auch durch Nachdenken lösen.
 
-{{< gist dieterhorns a2c8edb5c0240c5a87ace94ff46d9d14 >}}
 
 
 
