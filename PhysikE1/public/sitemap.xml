@@ -1,203 +1,203 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/%C3%BCberblick/index.html</loc>
+    <loc>http://exp-physik.netlify.app/%C3%BCberblick/index.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/wellen/wellen/index.html</loc>
+    <loc>http://exp-physik.netlify.app/wellen/wellen/index.html</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/wellen/wellengleichung/index.html</loc>
+    <loc>http://exp-physik.netlify.app/wellen/wellengleichung/index.html</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/wellen/reflexion/index.html</loc>
+    <loc>http://exp-physik.netlify.app/wellen/reflexion/index.html</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kontinuumsmechanik/elastisch/index.html</loc>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/elastisch/index.html</loc>
     <lastmod>2026-06-02T14:07:20+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kontinuumsmechanik/druck/index.html</loc>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/druck/index.html</loc>
     <lastmod>2021-05-14T18:35:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kontinuumsmechanik/auftrieb/index.html</loc>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/auftrieb/index.html</loc>
     <lastmod>2021-05-16T12:42:17+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/wellen/akustik/index.html</loc>
+    <loc>http://exp-physik.netlify.app/wellen/akustik/index.html</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/schwingungen/schwingungen/index.html</loc>
+    <loc>http://exp-physik.netlify.app/schwingungen/schwingungen/index.html</loc>
     <lastmod>2021-05-08T19:51:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/wellen/doppler/index.html</loc>
+    <loc>http://exp-physik.netlify.app/wellen/doppler/index.html</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/schwingungen/physpendel/index.html</loc>
+    <loc>http://exp-physik.netlify.app/schwingungen/physpendel/index.html</loc>
     <lastmod>2021-05-10T17:31:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/schwingungen/pendel/index.html</loc>
+    <loc>http://exp-physik.netlify.app/schwingungen/pendel/index.html</loc>
     <lastmod>2021-05-14T18:16:43+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/schwingungen/gekoppelteoszillatoren/index.html</loc>
+    <loc>http://exp-physik.netlify.app/schwingungen/gekoppelteoszillatoren/index.html</loc>
     <lastmod>2020-05-08T20:10:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/waermelehre/temperatur/index.html</loc>
+    <loc>http://exp-physik.netlify.app/waermelehre/temperatur/index.html</loc>
     <lastmod>2021-06-24T19:03:17+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/waermelehre/kinetic/index.html</loc>
+    <loc>http://exp-physik.netlify.app/waermelehre/kinetic/index.html</loc>
     <lastmod>2021-06-24T20:48:15+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/schwingungen/index.html</loc>
+    <loc>http://exp-physik.netlify.app/schwingungen/index.html</loc>
     <lastmod>2021-05-25T08:51:47+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kontinuumsmechanik/stroemungen/index.html</loc>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/stroemungen/index.html</loc>
     <lastmod>2021-05-17T22:46:20+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/waermelehre/waerme/index.html</loc>
+    <loc>http://exp-physik.netlify.app/waermelehre/waerme/index.html</loc>
     <lastmod>2021-07-03T21:12:04+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kontinuumsmechanik/viskositaet/index.html</loc>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/viskositaet/index.html</loc>
     <lastmod>2021-05-21T08:04:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kontinuumsmechanik/viskosereibung/index.html</loc>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/viskosereibung/index.html</loc>
     <lastmod>2021-05-21T18:58:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/waermelehre/idealesgas/index.html</loc>
-    <lastmod>2021-06-27T15:45:37+02:00</lastmod>
+    <loc>http://exp-physik.netlify.app/waermelehre/idealesgas/index.html</loc>
+    <lastmod>2026-06-04T11:45:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kontinuumsmechanik/hagenp/index.html</loc>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/hagenp/index.html</loc>
     <lastmod>2021-05-24T20:46:25+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kontinuumsmechanik/oberflaechen/index.html</loc>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/oberflaechen/index.html</loc>
     <lastmod>2021-06-14T17:19:19+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/waermelehre/zustandsaenderung/index.html</loc>
+    <loc>http://exp-physik.netlify.app/waermelehre/zustandsaenderung/index.html</loc>
     <lastmod>2021-06-27T16:29:13+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kontinuumsmechanik/grenzflaechen/index.html</loc>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/grenzflaechen/index.html</loc>
     <lastmod>2021-06-14T19:24:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/wellen/index.html</loc>
+    <loc>http://exp-physik.netlify.app/wellen/index.html</loc>
     <lastmod>2021-06-12T21:11:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kontinuumsmechanik/index.html</loc>
+    <loc>http://exp-physik.netlify.app/kontinuumsmechanik/index.html</loc>
     <lastmod>2026-06-02T14:07:20+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/index.html</loc>
-    <lastmod>2026-06-02T14:07:20+02:00</lastmod>
+    <loc>http://exp-physik.netlify.app/index.html</loc>
+    <lastmod>2026-06-04T11:45:37+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/waermelehre/index.html</loc>
+    <loc>http://exp-physik.netlify.app/waermelehre/index.html</loc>
     <lastmod>2021-06-24T19:00:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/wellen/energie/index.html</loc>
+    <loc>http://exp-physik.netlify.app/wellen/energie/index.html</loc>
     <lastmod>2021-06-12T21:11:49+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/schwingungen/energiesatz/index.html</loc>
+    <loc>http://exp-physik.netlify.app/schwingungen/energiesatz/index.html</loc>
     <lastmod>2021-05-25T08:51:47+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/schwingungen/resonanzen/index.html</loc>
+    <loc>http://exp-physik.netlify.app/schwingungen/resonanzen/index.html</loc>
     <lastmod>2021-05-08T19:51:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/index.html</loc>
+    <loc>http://exp-physik.netlify.app/categories/index.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/index.html</loc>
+    <loc>http://exp-physik.netlify.app/tags/index.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

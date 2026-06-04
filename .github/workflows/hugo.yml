@@ -52,7 +52,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
-          HUGO_SOURCE: PhysikEI
+          HUGO_SOURCE: ${{ runner.temp }}/PhysikEI
         run: |
           hugo \
             --minify \

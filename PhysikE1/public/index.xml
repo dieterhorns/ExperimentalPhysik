@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experimentalphysik</title>
-    <link>http://localhost:1313/index.html</link>
+    <link>http://exp-physik.netlify.app/index.html</link>
     <description>Mechanik.Wärmelehre.Elektrodynamik.Optik</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 02 Jun 2026 14:07:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://exp-physik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Überblick</title>
-      <link>http://localhost:1313/%C3%BCberblick/index.html</link>
+      <link>http://exp-physik.netlify.app/%C3%BCberblick/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/%C3%BCberblick/index.html</guid>
-      <description>Überblick Physik definiert sich zum einen thematisch und zum anderen methodisch.&#xA;Thematisch: Das Forschungsobjekt der Physik ist die Natur im weitesten Sinne. Ziel der physikalischen Forschung ist es hierbei, Naturgesetze zu entdecken und mathematisch zu formulieren. Die dabei auftretenden Naturkonstanten lassen sich nur experimentell bestimmen. Sowohl Naturgesetze als auch Naturkonstanten sind universell (gültig zu allen Zeiten und an allen Orten). Methodisch: Die Methode der physikalischen Forschung basiert auf der Dialektik von Experiment und Theorie. E x p e r i m e n t V o M r e h s e s r u s n a g g e T h e o r i e Die experimentelle Methode umfasst die Beobachtung von Vorgängen, die im Labor unter kontrollierten Bedingungen (wiederholt, reproduzierbar) ablaufen. Mit diesen Beobachtungen lassen sich zum einen Hypothesen (theoretische Vorhersagen) überprüfen und gegebenenfalls falsifizieren und zum anderen Messgrößen bestimmen, die wiederum Bestandteil von Theorien sein werden. Das Ergebnis dieser Methode ist die Formulierung von hypothetischen Naturgesetzen. Neben der experimentellen Methode ist auch die Beobachtung von singulären Experimenten, die unter Bedingungen ablaufen, die wir nicht kontrollieren können, eine wichtige Quelle von Informationen und Einsichten, die sich nur unter Einschränkungen im Labor reproduzieren lassen (z.B. Beobachtung der Ablenkung von Licht durch die Gravitation, Erzeugung von messbaren Gravitationswellen).</description>
+      <guid>http://exp-physik.netlify.app/%C3%BCberblick/index.html</guid>
+      <description>Überblick Physik definiert sich zum einen thematisch und zum anderen methodisch.&#xA;Thematisch: Das Forschungsobjekt der Physik ist die Natur im weitesten Sinne. Ziel der physikalischen Forschung ist es hierbei, Naturgesetze zu entdecken und mathematisch zu formulieren. Die dabei auftretenden Naturkonstanten lassen sich nur experimentell bestimmen. Sowohl Naturgesetze als auch Naturkonstanten sind universell (gültig zu allen Zeiten und an allen Orten). Methodisch: Die Methode der physikalischen Forschung basiert auf der Dialektik von Experiment und Theorie. .-------. .---+ Messung +--. | &#39;-------&#39; | | v +------o-----+ +---------+ | Experiment |&lt;----&gt;| Theorie | +------------+ +-----o---+ ^ | | .----------. | &#39;-+ Vorhersage +-&#39; &#39;----------&#39; Die experimentelle Methode umfasst die Beobachtung von Vorgängen, die im Labor unter kontrollierten Bedingungen (wiederholt, reproduzierbar) ablaufen. Mit diesen Beobachtungen lassen sich zum einen Hypothesen (theoretische Vorhersagen) überprüfen und gegebenenfalls falsifizieren und zum anderen Messgrößen bestimmen, die wiederum Bestandteil von Theorien sein werden. Das Ergebnis dieser Methode ist die Formulierung von hypothetischen Naturgesetzen. Neben der experimentellen Methode ist auch die Beobachtung von singulären Experimenten, die unter Bedingungen ablaufen, die wir nicht kontrollieren können, eine wichtige Quelle von Informationen und Einsichten, die sich nur unter Einschränkungen im Labor reproduzieren lassen (z.B. Beobachtung der Ablenkung von Licht durch die Gravitation, Erzeugung von messbaren Gravitationswellen).</description>
     </item>
     <item>
       <title>Schwingungen</title>
-      <link>http://localhost:1313/schwingungen/index.html</link>
+      <link>http://exp-physik.netlify.app/schwingungen/index.html</link>
       <pubDate>Tue, 25 May 2021 08:51:47 +0200</pubDate>
-      <guid>http://localhost:1313/schwingungen/index.html</guid>
+      <guid>http://exp-physik.netlify.app/schwingungen/index.html</guid>
       <description>Zum Thema Das Phänomen der Schwingungen ist von zentraler Bedeutung für alle Bereiche der Physik. Sei es die subnukleare Elementarteilchenphysik als auch Festkörperphysik bis hin zu stellarar Astrophysik und Kosmologie.&#xA;Hier lernen wir mechanische Schwingungen kennen, in Form Schwerependel aber auch in der Deformation von Festkörpern (Feder- und Torsionspendel).&#xA;Kompliziertere Systeme bestehen aus mehreren gekoppelten Oszillatoren. Im Falle einer angeregten Schwingung lernen wir das Phänomen der Resonanz kennen.</description>
     </item>
     <item>
       <title>Wellen</title>
-      <link>http://localhost:1313/wellen/index.html</link>
+      <link>http://exp-physik.netlify.app/wellen/index.html</link>
       <pubDate>Sat, 12 Jun 2021 21:11:49 +0200</pubDate>
-      <guid>http://localhost:1313/wellen/index.html</guid>
+      <guid>http://exp-physik.netlify.app/wellen/index.html</guid>
       <description>Überblick Wellengleichung Lineare und ungedämpfte ein-dimensionale Wellen mit Elongation $\zeta(x,t)$ sind Lösungen der Wellengleichung: $$ \frac{\partial^2 \zeta}{\partial t^2} = v^2 \frac{\partial^2 \zeta}{\partial x^2}.$$&#xA;Harmonische Wellen: $$ \zeta(x,t) = \zeta_m \cos (\omega t - kx + \varphi),$$ mit der Wellenzahl $$ k = \frac{2\pi}{\lambda},$$ der Ausbreitungsgeschwindigkeit $$ v = \frac{\omega}{k} = \nu \lambda,$$ Wellenlänge $\lambda$ und Kreisfrequenz $\omega$ bzw. Frequenz $\nu=2\pi \omega.$</description>
     </item>
     <item>
       <title>Kontinuumsmechanik</title>
-      <link>http://localhost:1313/kontinuumsmechanik/index.html</link>
+      <link>http://exp-physik.netlify.app/kontinuumsmechanik/index.html</link>
       <pubDate>Tue, 02 Jun 2026 14:07:20 +0200</pubDate>
-      <guid>http://localhost:1313/kontinuumsmechanik/index.html</guid>
+      <guid>http://exp-physik.netlify.app/kontinuumsmechanik/index.html</guid>
       <description>Im Gegensatz zu ausgedehnten, starren Körpern, betrachten wir hier elastisch verformbare Objekte. Auch Festkörper haben elastische Eigenschaften und sind verformbar. Die Mechanik der Kontinua umfasst Festkörper, Flüssigkeiten und Gase. Im Gegensatz zu Festkörpern können Flüssigkeiten und Gase fließen bzw. strömen.&#xA;Lernziele Erkennen von folgenden Konzepten&#xA;Elastische und nicht-elastische Verformung von Festkörpern Statischer Druck und Auftrieb Ideale, nicht-kompressible Flüssigkeiten Reibungseffekte in Flüssigkeiten: Viskosität Energieerhaltung und Bernoulli-Gleichung Laminare und Turbulente Strömungen Dynamischer Auftrieb Turbulenter Strömungswiderstand</description>
     </item>
     <item>
       <title>Wärmelehre</title>
-      <link>http://localhost:1313/waermelehre/index.html</link>
+      <link>http://exp-physik.netlify.app/waermelehre/index.html</link>
       <pubDate>Thu, 24 Jun 2021 19:00:03 +0200</pubDate>
-      <guid>http://localhost:1313/waermelehre/index.html</guid>
+      <guid>http://exp-physik.netlify.app/waermelehre/index.html</guid>
       <description>Lernziele/Konzepte Temperatur/Wärme, Gleichgewicht Innere Energie, kinetische Gastheorie Ideales Gas Zustandsänderungen Erster Hauptsatz Zweiter Hauptsatz Dritter Hauptsatz Kreisprozesse Reale Gase, Phasenübergänge</description>
     </item>
   </channel>
