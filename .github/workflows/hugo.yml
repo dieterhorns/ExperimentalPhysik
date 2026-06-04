@@ -52,10 +52,8 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
-          HUGO_SOURCE: $RUNNER_WORKSPACE/PhysikEI
+          HUGO_SOURCE: PhysikEI
         run: |
-          cd $RUNNER_WORKSPACE
-          ls
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"\
