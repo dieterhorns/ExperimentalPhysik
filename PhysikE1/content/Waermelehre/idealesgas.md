@@ -1,6 +1,6 @@
 ---
 title: "Ideales Gas"
-date: 2021-06-27T15:45:37+02:00
+date: 2026-06-04T11:45:37+02:00
 weight: 24
 ---
 ## Zustandsgrößen
@@ -41,11 +41,12 @@ Dieses _universelle Gasvolumen_ oder auch _molares Volumen_ bei Normalbedingunge
 bzw. der Masse der Moleküle.  
 
 ## Barometrische Höhenformel
+
 Wir können unter der Näherung einer isothermen Atmosphäre den Druckverlauf in der Erdatmosphäre bestimmen.
 Ansatz: 
 $$ pV = n RT,$$
 im hydrostatischen Gleichgewicht, d.h.
-$$ \frac{dp}{dz} = - \rho~g,$$
+$$ \frac{dp}{dz} = - \rho\~g,$$
 wobei $\rho$ im Gegensatz zu einer Flüssigkeit nicht als konstant angenommen werden darf. Das atmosphärische Gas 
 ist kompressibel. Die Massendichte bestimmt sich aus der molaren Masse $m$ zu 
 $$\rho = \frac{m}{RT} p,$$

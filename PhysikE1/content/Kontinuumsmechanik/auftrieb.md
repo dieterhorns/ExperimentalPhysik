@@ -101,7 +101,6 @@ Eine notwendige Bedingung ist also $\rho_\mathrm{Gas}<\rho_\mathrm{Luft}$.
 
 Demo-Experiment: Balloon, Pendel im beschleunigten System (geschlossene Kiste).
 
-### Beispiel Faltboot in Xenon-Gas
 
 
 

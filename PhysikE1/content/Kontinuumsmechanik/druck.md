@@ -53,6 +53,9 @@ so dass $F_1 d_1 = F_2 d_2$ gilt.
 
 
 ## Schweredruck
+
+### Inkompressible Flüssigkeit 
+
 Befindet sich die Flüssigkeit in einem Schwerefeld, wirkt auf jedes Volumenelement eine Schwerekraft
 $$d\mathbf{F}= \rho \mathbf{g} dV,$$
 wobei $\rho$ die Massendichte der Flüssigkeit ist. Um zu gewährleisten, dass die Flüssigkeit in 
@@ -66,10 +69,10 @@ sein muss.
 
 Wie sieht unter Einfluss der Schwerebeschleunigung $\mathbf{g}=-g\mathbf{e}_z$
 der Druck in einer Flüssigkeit aus, die in einem Gefäß ruht? 
- Nehmen wir an, dass die Flüssigkeit,
-mit der Dichte $\rho$ sich in einem zylindrischen Gefäß mit Radius
-$R$, befüllt bis zu der Höhe $h$ befindet. Die Position $z=0$ befindet sich auf
-der Höhe des Gefäßbodens, der Füllstand liegt bei $z=h$.
+ Nehmen wir an, dass die Flüssigkeit
+mit der konstanten Dichte $\rho$ (inkompressibel)  sich in einem Gefäß 
+befindet. Die Position $z=0$ ist 
+die Höhe des Gefäßbodens, der Füllstand liegt bei $z=h$.
 
 Wir können annehmen, dass $p=p(z)$ nur von der $z$-Koordinate abhängt, deswegen
 benötigen wir nur eine Lösung für $p(z)$ aus
@@ -94,3 +97,19 @@ Höhen.
   * Der Schweredruck $\rho g h$ für Wasser nimmt pro Meter um $\Delta p / \Delta z \approx 98100$ Pa/m zu, so 
 dass in einer Tiefe von etwa 10,4~m der Druck der Wassersäule gleich groß dem atmosphärischen Druck wird.
   * Die Größe des Drucks hängt nicht von der Wassermenge oder der Form des Gefäßes ab sondern lediglich von der Höhe!
+  
+  
+###  Barometrische Höhenformel für isotherme Atmosphäre
+
+Für ein kompressibles Fluid wie z.B. Luft, ist die spezifische Dichte $\rho$ nicht mehr als konstant
+anzunehmen. Vielmehr ändert sich die Dichte bei einem kompressiblen Fluid in Abhängigkeit von Temperatur 
+$T$ und Druck $p$. 
+
+Wenn wir für die Atmosphäre annehmen dürfen, dass es sich um ein 
+[ideales Gas](/Waermelehre/idealesgas.md) bei konstanter Temperatur handelt, dann ergibt sich 
+für
+
+$$ p(h) = p_0 \exp\left(-\frac{h}{h_0}\right),$$ 
+
+mit $p_0 = 1\~\mathrm{atm}$ und $h_0 = RT/mg\approx 8\~\mathrm{km}$ (für eine molare Masse
+der Luft von $m=28,8\~\mathrm{g/mol}$ ([Herleitung](/Waermelehre/idealesgas.md#barometrische-höhenformel)).
