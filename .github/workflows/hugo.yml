@@ -52,10 +52,12 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
+          HUGO_SOURCE: PhysikEI
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "${{ steps.pages.outputs.base_url }}/"\
+            --source $HUGO_SOURCE
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
