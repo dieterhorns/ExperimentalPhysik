@@ -54,7 +54,8 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_SOURCE: $RUNNER_WORKSPACE/PhysikEI
         run: |
-          ls $RUNNER_WORKSPACE
+          cd $RUNNER_WORKSPACE
+          ls
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"\
